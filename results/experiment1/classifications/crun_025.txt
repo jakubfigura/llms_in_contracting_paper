@@ -1,0 +1,27 @@
+BUYER: {"reply": "Hello! I'm very interested in the 2019 Toyota Yaris. Given that it has 65,000 km, could you confirm its current mechanical condition and if you have all the maintenance records available? Assuming everything checks out, I'd like to make an initial offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Hello! Thanks for your interest. I can confirm the car is in excellent mechanical condition with complete regular maintenance records and zero accidents. Given its pristine condition, $15,500 is a bit low, but since you're ready to move forward, I could meet you right in the middle at $16,200.", "offer_price": 16200, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - The parties are still negotiating and have not yet reached a mutual agreement on the price.
+  [2] label=1 - Both parties demonstrate a clear and active intention to negotiate and conclude a contract for the car.
+  [3] label=null - The essential term of price is still under negotiation, as the seller countered the buyer's initial offer.
+  [4] label=1 - The negotiation for a used car sale is proceeding in accordance with standard legal practices.
+  [5] label=1 - The interaction is polite, professional, and aligns with the principles of good faith and fair dealing.
+  [6] label=1 - Both parties are participating in the negotiation freely and of their own accord.
+  [7] label=1 - There is no indication that this negotiation is a simulated or sham transaction.
+  [8] label=1 - The declarations of intent are clear and free from any apparent error, deceit, or threat.
+
+BUYER: {"reply": "Thank you for sharing the maintenance history and confirming the condition, that gives me a lot of confidence. Since you came down to $16,200 and I appreciate a smooth transaction, let's agree on that price. We have a deal.", "offer_price": 16200, "agreed": true}
+
+SELLER: {"reply": "Fantastic, we have a deal! I'm thrilled the 2019 Toyota Yaris is going to a good home. Let's exchange contact details to finalize the paperwork and arrange pickup.", "offer_price": 16200, "agreed": true}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties have explicitly declared their mutual consent to the price of $16,200 and confirmed they have a deal.
+  [2] label=1 - Both parties express a clear, common intention to be bound by the agreement and proceed to finalize the paperwork.
+  [3] label=1 - The parties have agreed on the essential terms, which are the specific vehicle (2019 Toyota Yaris) and the purchase price ($16,200).
+  [4] label=1 - The agreement on price and object is legally compliant, with no apparent violations of mandatory statutory provisions.
+  [5] label=1 - The transaction is a standard car sale conducted in good faith and aligns with the principles of social coexistence.
+  [6] label=1 - The parties freely negotiated and consciously decided to agree on the final price of $16,200.
+  [7] label=1 - There is no indication that this transaction is a simulated or sham legal act.
+  [8] label=1 - The declarations of will appear genuine and free from any defects such as error, deceit, or duress.

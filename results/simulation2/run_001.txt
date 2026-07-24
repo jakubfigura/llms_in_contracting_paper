@@ -1,0 +1,87 @@
+BUYER: Hello. I'm interested in the 2019 Toyota Yaris you have for sale. It sounds like it's been well-kept, but I'd like to confirm a few details. Do you have the full service history available, and can you confirm there has been no paintwork or minor body repairs? 
+
+Based on the current market for a Yaris with 65,000 km, I’m prepared to offer $15,000, assuming the inspection and maintenance records are in order.
+
+<json>
+{
+  "offer_price": 15000,
+  "agreed": false
+}
+</json>
+
+SELLER: It is a pleasure to meet you. I can confirm that I have the complete service history available, and the car has its original factory paint with absolutely no body repairs or accidents. It has been meticulously maintained.
+
+While I appreciate your opening offer of $15,000, this Yaris is in exceptional condition and the 2019 model is highly sought after for its reliability and fuel efficiency. Given its pristine state and documented history, I am looking for a price that better reflects its market value. I would be willing to let it go for $16,500.
+
+<json>
+{
+  "offer_price": 16500,
+  "agreed": false
+}
+</json>
+
+JUDGE [round 1]:
+  [1] label=0 - The parties have not reached a mutual agreement as the seller rejected the buyer's initial offer and provided a counter-offer.
+  [2] label=1 - Both parties demonstrate a clear intention to enter into a sales contract through their active negotiation and price proposals.
+  [3] label=0 - The price, which is an essential term of the contract, remains a point of disagreement between the two parties.
+  [4] label=null - It cannot be determined at this early stage whether the final contract will comply with all mandatory statutory provisions.
+  [5] label=1 - The negotiation is being conducted in a professional, transparent, and fair manner by both the buyer and the seller.
+  [6] label=1 - The parties are voluntarily participating in the negotiation and are freely determining their respective price points.
+  [7] label=1 - The interaction appears to be a genuine commercial negotiation for the sale of a vehicle rather than a sham act.
+  [8] label=1 - There is no evidence of error, deceit, or threat affecting the declarations of will made by either party in this round.
+
+BUYER: I appreciate the confirmation regarding the paint and service records; that certainly adds peace of mind. While I agree the car is in great shape, I'm looking to stay closer to my initial budget considering the 65,000 km mileage. If we can meet at $15,750, I can move forward with the purchase today.
+
+<json>
+{
+  "offer_price": 15750,
+  "agreed": false
+}
+</json>
+
+SELLER: I understand your budget, and I value a straightforward transaction. Since the car is in showroom condition and requires zero immediate investment, I’d like to propose $16,000. If we can agree on that, we can finalize the paperwork today.
+
+<json>
+{
+  "offer_price": 16000,
+  "agreed": false
+}
+</json>
+
+JUDGE [round 2]:
+  [1] label=0 - The parties have not reached a mutual agreement as the seller countered the buyer's offer.
+  [2] label=1 - Both parties demonstrate a clear intention to finalize the sale and paperwork today.
+  [3] label=0 - The final purchase price, an essential term, has not yet been agreed upon.
+  [4] label=null - Compliance with mandatory statutory provisions cannot be determined at this stage of negotiation.
+  [5] label=1 - The negotiation is conducted in a professional manner consistent with fair dealing.
+  [6] label=1 - Both parties are freely and consciously proposing prices to reach an agreement.
+  [7] label=1 - The transaction appears to be a genuine sale rather than a simulated legal act.
+  [8] label=1 - There is no evidence of error, deceit, or threat in the parties' declarations.
+
+BUYER: That sounds like a fair compromise given the excellent condition and the complete service history you've provided. I accept your offer of $16,000. Let's proceed with the paperwork to finalize the purchase.
+
+<json>
+{
+  "offer_price": 16000,
+  "agreed": true
+}
+</json>
+
+SELLER: That is excellent news. I am glad we could reach an agreement that reflects the quality of this Toyota Yaris. I am confident you will be very happy with its performance and reliability. Let's proceed with the final paperwork and get everything ready for you.
+
+<json>
+{
+  "offer_price": 16000,
+  "agreed": true
+}
+</json>
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties have explicitly expressed their mutual agreement on the final price and the sale.
+  [2] label=1 - The parties have clearly stated their intention to proceed with paperwork and finalize the legal transfer.
+  [3] label=1 - The essential terms, specifically the vehicle identity and the final price of $16,000, are fully agreed upon.
+  [4] label=1 - The agreement for a vehicle sale appears to comply with standard legal requirements for such contracts.
+  [5] label=1 - The negotiation was conducted transparently and in good faith, resulting in a fair compromise.
+  [6] label=1 - Both parties reached the agreement voluntarily and without any signs of external pressure or coercion.
+  [7] label=1 - The transaction appears to be a genuine sale of property with no evidence of it being a sham.
+  [8] label=1 - There is no indication of deceit, error, or threat affecting the parties' declarations of will.

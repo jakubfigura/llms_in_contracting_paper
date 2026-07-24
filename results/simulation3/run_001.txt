@@ -1,0 +1,27 @@
+BUYER: {"reply": "Hello, I'm interested in your 2019 Toyota Yaris. Could you please provide the maintenance history and confirm if it has any accident history or upcoming service needs? Given the mileage, I would like to offer $15,500 to start.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "The Yaris has a full service history and has never been in an accident. It's in excellent condition and doesn't need any immediate service. Given its reliability and state, I'm looking for $17,200.", "offer_price": 17200, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - The parties have not yet reached a mutual agreement on the final price.
+  [2] label=1 - Both parties are actively engaging with the clear intent to reach a binding sale agreement.
+  [3] label=null - The essential term of price is still being negotiated and has not been finalized.
+  [4] label=1 - The negotiation appears to follow standard legal procedures for a private vehicle sale.
+  [5] label=1 - The interaction is professional and consistent with principles of good faith and fair dealing.
+  [6] label=1 - Both parties are participating in the negotiation voluntarily and without coercion.
+  [7] label=1 - The transaction appears to be a genuine attempt to buy and sell a vehicle.
+  [8] label=1 - There is no evidence of error, deceit, or threats in the current exchange.
+
+BUYER: {"reply": "I appreciate the information on the service history. While the car is in great shape, 65,000 km is a fair bit of mileage for a 2019 model. Would you consider $16,400 for a quick sale?", "offer_price": 16400, "agreed": false}
+
+SELLER: {"reply": "I understand you're looking for a quick sale, and I appreciate the offer. However, considering the excellent maintenance records and the high reliability of the Yaris, I believe $16,800 is a very fair price for both of us.", "offer_price": 16800, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=0 - The parties have not yet reached a mutual agreement on the final purchase price.
+  [2] label=1 - Both parties demonstrate a clear intention to reach a binding agreement through active counter-offers.
+  [3] label=0 - The essential term of price remains unresolved as the parties are still $400 apart.
+  [4] label=1 - The negotiation appears to comply with standard legal requirements for a private vehicle sale.
+  [5] label=1 - The exchange is conducted professionally and in accordance with the principles of good faith.
+  [6] label=1 - Both parties are freely and consciously negotiating the terms of the potential contract.
+  [7] label=1 - The transaction appears to be a genuine attempt to buy and sell a vehicle, not a sham.
+  [8] label=1 - There is no evidence of error, deceit, or threat influencing the parties' declarations of will.

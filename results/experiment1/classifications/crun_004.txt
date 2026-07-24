@@ -1,0 +1,41 @@
+BUYER: {"reply": "Hello! I'm very interested in the 2019 Toyota Yaris. Given that it has 65,000 km, could you confirm its condition and share some details about its maintenance history? Assuming everything checks out, I would like to make an initial offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Hello! I can certainly confirm that the car is in excellent condition, with a complete regular maintenance history and absolutely no accidents. It's been very well cared for. Since $15,500 is a bit low for a 2019 model in this pristine shape, but I appreciate your prompt offer, could we meet in the middle at $16,200?", "offer_price": 16200, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - The parties are still actively negotiating and have not yet reached mutual consent on the terms.
+  [2] label=1 - Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the car.
+  [3] label=null - The essential term of price is still under negotiation and has not been agreed upon.
+  [4] label=1 - The negotiation is proceeding in accordance with standard legal and statutory practices for car sales.
+  [5] label=1 - The parties are communicating politely and negotiating in good faith.
+  [6] label=1 - Both parties are participating in the negotiation freely and of their own accord.
+  [7] label=1 - There is no indication that this negotiation is a simulated or sham transaction.
+  [8] label=1 - The declarations of will do not appear to be affected by any error, deceit, or threat.
+
+BUYER: {"reply": "That's great to hear about the maintenance history and accident-free record. Since we're moving in the right direction, would you be willing to split the difference further and agree on $15,850?", "offer_price": 15850, "agreed": false}
+
+SELLER: {"reply": "I appreciate you working with me on this. Given the exceptional condition and low maintenance costs of this Yaris, the absolute lowest I can go is $16,000. At that price, you're getting a reliable, accident-free car that will serve you well for years. How does $16,000 sound to you?", "offer_price": 16000, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=0 - The parties have not yet reached a mutual agreement on the price.
+  [2] label=1 - Both parties demonstrate a clear intention to negotiate and eventually bind themselves to a contract.
+  [3] label=0 - The essential term of price is still disputed, with the buyer at $15,850 and the seller at $16,000.
+  [4] label=null - No contract has been concluded yet, so compliance with mandatory statutory provisions cannot be determined.
+  [5] label=1 - The negotiation is conducted in a polite, fair, and professional manner consistent with good faith.
+  [6] label=1 - Both parties are negotiating freely and voluntarily without any external pressure.
+  [7] label=1 - There is no indication that the negotiation is a sham or simulated act.
+  [8] label=1 - There is no evidence of error, deceit, or threat affecting either party's declarations.
+
+BUYER: {"reply": "That sounds fair and fits well within my budget for a well-maintained, accident-free car. I accept your offer of $16,000.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Fantastic! We have a deal at $16,000. I'm thrilled the car is going to a good home, and I'm sure you'll love driving this Yaris. Let's coordinate the paperwork and payment details.", "offer_price": 16000, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties have explicitly declared their mutual consent to the price of $16,000.
+  [2] label=1 - Both parties express a clear intention to be bound by the agreement and proceed with the paperwork.
+  [3] label=1 - The parties have agreed on the essential terms, which are the specific car (2019 Toyota Yaris) and the price ($16,000).
+  [4] label=null - Whether mandatory statutory provisions are met cannot be fully determined until the paperwork and transfer of ownership are completed.
+  [5] label=1 - The negotiation was conducted in good faith and fair dealing, with no violation of social coexistence principles.
+  [6] label=1 - Both parties freely and consciously negotiated and agreed upon the final price.
+  [7] label=1 - There is no indication that this transaction is a simulated or sham legal act.
+  [8] label=1 - There is no evidence of any defect in consent, such as error, deceit, or threat, affecting either party's declaration.

@@ -1,0 +1,41 @@
+BUYER: {"reply": "Hello! I'm very interested in the 2019 Toyota Yaris. Based on the mileage of 65,000 km, could you confirm its maintenance history and whether everything is up to date? Given current market value, I'd like to offer $16,500 for the car.", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "Hello! Thanks for your interest. The maintenance history is fully up to date with regular servicing at the dealership, and it has been kept in excellent condition with no accidents. $16,500 is a very fair starting point, but given its pristine condition and low maintenance needs, I'm confident this Yaris will serve you reliably for years to come. Would you be willing to meet in the middle at $17,000?", "offer_price": 17000, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - PARSE_ERROR: {"criteria": {"1": {"label": null, "justification": "The parties are still negotiating the price, so mutual consent has not yet been reached."}, "2": {"label": 1, "justification": "Both parties demons
+  [2] label=null - PARSE_ERROR: {"criteria": {"1": {"label": null, "justification": "The parties are still negotiating the price, so mutual consent has not yet been reached."}, "2": {"label": 1, "justification": "Both parties demons
+  [3] label=null - PARSE_ERROR: {"criteria": {"1": {"label": null, "justification": "The parties are still negotiating the price, so mutual consent has not yet been reached."}, "2": {"label": 1, "justification": "Both parties demons
+  [4] label=null - PARSE_ERROR: {"criteria": {"1": {"label": null, "justification": "The parties are still negotiating the price, so mutual consent has not yet been reached."}, "2": {"label": 1, "justification": "Both parties demons
+  [5] label=null - PARSE_ERROR: {"criteria": {"1": {"label": null, "justification": "The parties are still negotiating the price, so mutual consent has not yet been reached."}, "2": {"label": 1, "justification": "Both parties demons
+  [6] label=null - PARSE_ERROR: {"criteria": {"1": {"label": null, "justification": "The parties are still negotiating the price, so mutual consent has not yet been reached."}, "2": {"label": 1, "justification": "Both parties demons
+  [7] label=null - PARSE_ERROR: {"criteria": {"1": {"label": null, "justification": "The parties are still negotiating the price, so mutual consent has not yet been reached."}, "2": {"label": 1, "justification": "Both parties demons
+  [8] label=null - PARSE_ERROR: {"criteria": {"1": {"label": null, "justification": "The parties are still negotiating the price, so mutual consent has not yet been reached."}, "2": {"label": 1, "justification": "Both parties demons
+
+BUYER: {"reply": "That's good to hear about the dealership service history and condition. Since it's still a 2019 model with 65,000 km, let's split the difference further and agree on $16,750.", "offer_price": 16750, "agreed": false}
+
+SELLER: {"reply": "That's a fair attempt, and I appreciate you working with me. Since you're a serious buyer and I want to close the deal today, let's meet right in the middle at $16,875 and we have a deal!", "offer_price": 16875, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=null - The parties are still negotiating and have not yet reached a mutual agreement on the final price.
+  [2] label=1 - Both parties demonstrate a clear and active intention to conclude a contract and be bound by its terms.
+  [3] label=null - The final price, which is an essential term of the contract, is still under negotiation.
+  [4] label=null - The contract has not yet been concluded, so compliance with mandatory statutory provisions cannot be determined.
+  [5] label=1 - The negotiation is conducted in a polite, fair, and cooperative manner, consistent with good faith.
+  [6] label=1 - Both parties are participating in the negotiation freely and consciously determining the terms.
+  [7] label=1 - There is no indication that this transaction is a simulated or sham legal act.
+  [8] label=1 - The declarations of will do not appear to be affected by any error, deceit, or threat.
+
+BUYER: {"reply": "That sounds very reasonable and I appreciate you working with me on this. I accept your offer of $16,875. We have a deal!", "offer_price": 16875, "agreed": true}
+
+SELLER: {"reply": "Fantastic! We have a deal at $16,875. I'm thrilled the Toyota Yaris is going to such a good home. I will have the paperwork ready for you shortly so we can finalize everything.", "offer_price": 16875, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties have explicitly declared their mutual consent to the price of $16,875.
+  [2] label=1 - Both parties express a clear intention to be legally bound by the agreement and proceed with the paperwork.
+  [3] label=1 - The essential terms of the contract, namely the specific vehicle and the final price of $16,875, have been agreed upon.
+  [4] label=null - Compliance with all mandatory statutory provisions for a vehicle sale cannot be fully determined at this stage.
+  [5] label=1 - The negotiation was conducted in a fair, polite manner consistent with good faith and fair dealing.
+  [6] label=1 - Both parties consciously and freely negotiated the price and decided to conclude the contract.
+  [7] label=1 - There is no indication that this transaction is a simulated or sham legal act.
+  [8] label=1 - The declarations of will do not appear to be affected by any error, deceit, or threat.

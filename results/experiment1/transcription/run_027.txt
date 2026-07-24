@@ -1,0 +1,11 @@
+BUYER: {"reply": "Hello! I'm very interested in the 2019 Toyota Yaris. Given that it has 65,000 km, could you confirm its condition and share some details about its maintenance history? Assuming everything checks out, I'd like to make an opening offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Hello! Thanks for your interest. The car is in truly excellent condition with a fully documented regular maintenance history and zero accidents. Given its great condition and reliability, $15,500 is a bit low for us. However, since you're ready to move forward, I could meet you in the middle at $16,200.", "offer_price": 16200, "agreed": false}
+
+BUYER: {"reply": "I appreciate you sharing the maintenance records and confirming the accident-free history. $16,200 is a very fair counteroffer given the excellent condition, but since I am paying cash and ready to close the deal quickly today, would you be willing to finalize it at $15,900?", "offer_price": 15900, "agreed": false}
+
+SELLER: {"reply": "Cash today is definitely appealing, and I appreciate a decisive buyer. Let's make it happen at $15,900. We have a deal!", "offer_price": 15900, "agreed": true}
+
+BUYER: {"reply": "That's fantastic. I'm glad we could reach an agreement. Let me know what details you need from me to finalize the paperwork and arrange payment.", "offer_price": 15900, "agreed": true}
+
+SELLER: {"reply": "Wonderful! I'm glad we could reach an agreement. To get the paperwork started, I'll just need your full legal name and driver's license number for the bill of sale. We can meet this afternoon to complete the transfer and payment.", "offer_price": 15900, "agreed": true}

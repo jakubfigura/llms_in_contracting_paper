@@ -1,0 +1,81 @@
+BUYER: {"reply": "Hello! I'm very interested in the 2019 Toyota Yaris. Given the mileage of 65,000 km, could you confirm the maintenance history and if it has had any previous accidents? Assuming everything is in excellent condition as described, I would like to offer $15,500 for the car.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Hello! Thanks for your interest. I can certainly confirm the maintenance history is fully up to date with regular servicing, and the car has a completely clean record with no accidents. Given its excellent condition and reliability, $15,500 is a fair start, but considering the low mileage and market value, I was hoping to stay closer to $16,200. Would you be willing to meet at $15,800?", "offer_price": 15800, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=0 - The parties have not reached mutual consent as the seller rejected the buyer's offer and proposed a higher price.
+  [2] label=1 - Both parties demonstrate a clear and active intention to negotiate and eventually conclude a contract for the vehicle.
+  [3] label=0 - There is no agreement on the essential terms of the contract yet, specifically the final purchase price.
+  [4] label=null - It cannot be determined at this stage as no final contract has been concluded.
+  [5] label=1 - The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith.
+  [6] label=1 - Both parties are participating voluntarily and freely proposing their own terms without any coercion.
+  [7] label=1 - The transaction appears to be a genuine attempt to buy and sell a vehicle, with no indication of a simulated act.
+  [8] label=1 - There is no evidence of error, deceit, or threat affecting the declarations of will of either party.
+
+BUYER: {"reply": "That's good to hear about the clean record and regular servicing. Since it's well-maintained, how about we split the difference at $15,650 and we can wrap up the deal today?", "offer_price": 15650, "agreed": false}
+
+SELLER: {"reply": "You drive a hard bargain, but since you're ready to wrap things up today, I accept $15,650. We have a deal!", "offer_price": 15650, "agreed": true}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties have explicitly agreed on the price of $15,650, establishing mutual consent.
+  [2] label=1 - Both parties express a clear, immediate intention to finalize the transaction and be bound by the agreement.
+  [3] label=1 - The parties have agreed on the essential terms, specifically the 2019 Toyota Yaris and the price of $15,650.
+  [4] label=null - It cannot be determined at this stage whether all mandatory statutory formalities for a car sale have been fully met.
+  [5] label=1 - The negotiation was conducted in a fair, polite, and transparent manner, consistent with the principles of good faith.
+  [6] label=1 - Both parties negotiated freely and voluntarily arrived at the agreed price without any coercion.
+  [7] label=1 - There is no evidence or indication that this transaction is simulated or a sham.
+  [8] label=1 - The declarations of will appear genuine and free from any defect such as error, deceit, or threat.
+
+BUYER: {"reply": "That's fantastic. I'm glad we could reach an agreement. Let me know when and where you'd like to meet to finalize the paperwork and complete the payment.", "offer_price": 15650, "agreed": true}
+
+SELLER: {"reply": "We can meet tomorrow morning at 10 AM at the local bank branch to complete the paperwork and securely transfer the funds. I'll bring the title and all maintenance records. Does that work for you?", "offer_price": 15650, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=null - PARSE_ERROR: {
+  "criteria": {
+    "1": {
+      "label": 1,
+      "justification": "Both parties have explicitly declared their mutual consent to the agreed price of $15,650 and are coordinating the final steps."
+
+  [2] label=null - PARSE_ERROR: {
+  "criteria": {
+    "1": {
+      "label": 1,
+      "justification": "Both parties have explicitly declared their mutual consent to the agreed price of $15,650 and are coordinating the final steps."
+
+  [3] label=null - PARSE_ERROR: {
+  "criteria": {
+    "1": {
+      "label": 1,
+      "justification": "Both parties have explicitly declared their mutual consent to the agreed price of $15,650 and are coordinating the final steps."
+
+  [4] label=null - PARSE_ERROR: {
+  "criteria": {
+    "1": {
+      "label": 1,
+      "justification": "Both parties have explicitly declared their mutual consent to the agreed price of $15,650 and are coordinating the final steps."
+
+  [5] label=null - PARSE_ERROR: {
+  "criteria": {
+    "1": {
+      "label": 1,
+      "justification": "Both parties have explicitly declared their mutual consent to the agreed price of $15,650 and are coordinating the final steps."
+
+  [6] label=null - PARSE_ERROR: {
+  "criteria": {
+    "1": {
+      "label": 1,
+      "justification": "Both parties have explicitly declared their mutual consent to the agreed price of $15,650 and are coordinating the final steps."
+
+  [7] label=null - PARSE_ERROR: {
+  "criteria": {
+    "1": {
+      "label": 1,
+      "justification": "Both parties have explicitly declared their mutual consent to the agreed price of $15,650 and are coordinating the final steps."
+
+  [8] label=null - PARSE_ERROR: {
+  "criteria": {
+    "1": {
+      "label": 1,
+      "justification": "Both parties have explicitly declared their mutual consent to the agreed price of $15,650 and are coordinating the final steps."
+

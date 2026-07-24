@@ -1,0 +1,27 @@
+BUYER: {"reply": "Hello! I'm very interested in the 2019 Toyota Yaris. Given that it has 65,000 km, could you confirm its condition and share some details about its maintenance history? Assuming everything checks out, I'd like to make an opening offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Hello! Thank you for your interest. I can gladly confirm that the car is in excellent condition, with a complete regular maintenance history and absolutely no accidents. Since it's been so well cared for and runs like new, $15,500 is a bit low for me. I could let it go for $16,800, which is a fair price for its pristine condition.", "offer_price": 16800, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=0 - The parties have not reached mutual consent as the seller rejected the buyer's offer and proposed a higher counter-offer.
+  [2] label=null - While both parties express interest in negotiating, a final common intention to be legally bound cannot be determined yet as they are still in active negotiations.
+  [3] label=0 - There is no agreement on the essential terms of the contract, specifically the purchase price of the vehicle.
+  [4] label=null - It cannot be determined at this early stage of negotiation whether mandatory statutory provisions will be met.
+  [5] label=1 - The negotiation is conducted politely and in good faith, consistent with the principles of social coexistence.
+  [6] label=1 - Both parties are participating in the negotiation freely and consciously, without any signs of coercion.
+  [7] label=1 - There is no indication that this negotiation is a simulated or sham transaction.
+  [8] label=1 - The declarations of will do not appear to be affected by any defect such as error, deceit, or threat.
+
+BUYER: {"reply": "I appreciate you sharing the maintenance details and confirming the accident-free history. Since it's been well-maintained, I can move up a bit closer to your asking price. Would you be willing to meet in the middle at $16,100?", "offer_price": 16100, "agreed": false}
+
+SELLER: {"reply": "I appreciate you coming up on the price and recognizing the great condition of the Yaris. However, $16,100 is still a bit lower than I'm willing to go for such a reliable and well-kept vehicle. How about we split the difference at $16,400? That's a fantastic deal for a 2019 model in this shape.", "offer_price": 16400, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=0 - The parties have not reached mutual consent as they are still negotiating the price.
+  [2] label=1 - Both parties demonstrate a clear intention to eventually conclude a contract through active negotiation.
+  [3] label=0 - The parties have not yet agreed on the essential term of price, as the seller rejected the buyer's offer.
+  [4] label=null - It cannot be determined yet as no contract has been concluded.
+  [5] label=1 - The negotiation is conducted in a polite and fair manner, consistent with good faith.
+  [6] label=1 - The parties are negotiating freely and consciously determining their offers without any external pressure.
+  [7] label=1 - There is no indication that this negotiation is a simulated or sham transaction.
+  [8] label=1 - There are no signs of error, deceit, or threat affecting the parties' declarations.
