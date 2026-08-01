@@ -36,8 +36,8 @@ OUTPUT_DIR = Path(f"results/{sub_directory}")
 NUM_RETRIES = 5
 CONTEXT_WARNING_RATIO = 0.8  # console warning once this % of the context window is used
 
-SELLER_MIN_PRICE = 15000
-BUYER_MAX_PRICE = 18000
+SELLER_MIN_PRICE = _cfg["seller_min_price"]
+BUYER_MAX_PRICE = _cfg["buyer_max_price"]
 
 CAR_DETAILS = {
     "make": "Toyota",
