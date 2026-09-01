@@ -1,0 +1,41 @@
+BUYER: {"reply": "Thanks for showing me this Yaris. It's in great condition with reasonable mileage. I'm interested in moving forward, but I'd like to start the negotiation at $16,500. That's a fair opening position based on the market value for a 2019 model with 65,000 km. What are your thoughts on that?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "I appreciate your interest in the Yaris. At $16,500, we're actually quite close. Given the excellent condition, regular maintenance history, and no accident record, I'd be comfortable meeting you at $16,800. This reflects the quality of this vehicle and current market rates for a well-maintained 2019 Yaris with this mileage. Can we work with that?", "offer_price": 16800, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=1 - Both parties have made clear declarations of intent with specific offer prices ($16,500 from buyer, $16,800 from seller), demonstrating mutual willingness to negotiate.
+  [2] label=null - While both parties show intent to negotiate, neither has yet accepted the other's offer, so a common intention to be bound by final legal effects cannot be determined at this stage.
+  [3] label=null - The parties have not yet agreed on the essential term (price), as the buyer's offer of $16,500 differs from the seller's counter-offer of $16,800.
+  [4] label=null - Compliance with mandatory statutory provisions cannot be assessed until the parties reach agreement on all essential terms.
+  [5] label=1 - Both parties are negotiating in good faith with reasonable, market-based positions and transparent justifications for their offers.
+  [6] label=1 - Both parties appear to be consciously and freely deciding to participate in the negotiation without evidence of coercion or constraint.
+  [7] label=1 - There is no indication that either party's declarations are simulated or sham; both appear genuine in their negotiation positions.
+  [8] label=1 - No evidence of error, deceit, or threat affecting either party's declarations of will in this round.
+
+BUYER: {"reply": "I appreciate you coming down to $16,800. The car is definitely well-maintained, and I can see the value. However, I'd like to propose $16,900 as my counter-offer. That's a reasonable middle ground between our positions and still within my budget. Can we agree on that price?", "offer_price": 16900, "agreed": false}
+
+SELLER: {"reply": "I appreciate the counter-offer at $16,900. You're right that we're very close now, and I can see you're a serious buyer. I'm willing to accept $16,900. Let's move forward with that price.", "offer_price": 16900, "agreed": true}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties have clearly expressed their declarations of intent and will through explicit offer and counter-offer statements.
+  [2] label=1 - Both parties demonstrate a common intention to conclude a binding contract, with the seller explicitly stating 'Let's move forward with that price' and agreeing to be bound.
+  [3] label=1 - The essential terms are agreed upon: the vehicle (2019 Yaris), the price ($16,900), and the parties' identities are clear from context.
+  [4] label=null - Compliance with mandatory statutory provisions cannot be determined from this transcript alone, as it depends on jurisdiction-specific requirements not addressed in the negotiation.
+  [5] label=1 - The negotiation demonstrates good faith and fair dealing, with both parties making reasonable compromises and transparent statements about the vehicle's condition and market value.
+  [6] label=1 - Both parties appear to have consciously and freely decided to conclude the contract without evidence of coercion or undue pressure.
+  [7] label=1 - There is no indication that this is a simulated or sham transaction; both parties appear to be genuinely negotiating a real car sale.
+  [8] label=1 - No defects such as error, deceit, or threat are evident in either party's declarations during this round.
+
+BUYER: {"reply": "Excellent! I'm pleased we've reached an agreement at $16,900. This is a fair price for a well-maintained 2019 Toyota Yaris in excellent condition. I'm ready to move forward with the purchase. Let's proceed with the paperwork and next steps.", "offer_price": 16900, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm glad we've reached an agreement at $16,900. This is a fair deal for both of us. I'm ready to proceed with the paperwork as well. Let me prepare the vehicle documentation, service records, and title. We can schedule a time for you to complete the inspection, sign the necessary documents, and arrange payment. When would you like to move forward with finalizing the sale?", "offer_price": 16900, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties have clearly expressed their declarations of intent through explicit offer and counter-offer regarding the purchase price of $16,900.
+  [2] label=1 - Both parties demonstrate a common intention to conclude a binding contract, as evidenced by their explicit agreement to proceed with the sale at the negotiated price.
+  [3] label=null - While the price is agreed upon, other essential terms such as payment method, delivery conditions, warranty provisions, and inspection procedures remain unspecified and cannot be fully determined at this stage.
+  [4] label=null - Compliance with mandatory statutory provisions cannot be assessed without knowledge of the applicable jurisdiction's requirements for vehicle sales contracts.
+  [5] label=1 - The negotiation demonstrates good faith and fair dealing, with both parties making reasonable concessions and reaching a mutually acceptable middle-ground price.
+  [6] label=1 - Both parties have consciously and freely decided to conclude the contract without any indication of coercion or external pressure affecting their decisions.
+  [7] label=1 - There is no evidence suggesting this is a simulated or sham transaction; both parties appear to be genuinely engaged in a legitimate vehicle purchase negotiation.
+  [8] label=1 - Neither party's declarations of will show signs of error, deceit, or threat; the negotiation proceeds transparently with clear communication.

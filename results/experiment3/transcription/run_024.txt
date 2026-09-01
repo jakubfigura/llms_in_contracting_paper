@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for the details. Before I make a firm offer, can you confirm the maintenance history, any recent repairs, and whether there are any issues with the tires, brakes, or service records? Based on the year, mileage, and condition, I’d like to start at $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. The car has regular maintenance records, no accidents, and it’s in excellent condition overall. Tires and brakes are in good shape, and there are no known issues. Given the condition, low mileage for the year, and clean history, I’m asking $16,500. I’m willing to negotiate, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for the information. The maintenance history and clean condition are reassuring. I’m prepared to move up to $15,500, but that would need to be my best offer given my budget. If you can meet me there, I’m ready to proceed.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, and $15,500 is close. Given the excellent condition, regular maintenance, and clean history, I can meet you at $15,500 and we have a deal.", "offer_price": 15500, "agreed": true}
+
+BUYER: {"reply": "Great, $15,500 works for me. We have a deal.", "offer_price": 15500, "agreed": true}
+
+SELLER: {"reply": "Great, $15,500 works for me. We have a deal.", "offer_price": 15500, "agreed": true}

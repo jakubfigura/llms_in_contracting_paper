@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for the details. Before I make a firm offer, could you confirm the maintenance history and whether there are any recent repairs or issues? Based on the year, mileage, and condition, my initial offer is $15,000. If everything checks out, I’m ready to move quickly.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. The car has a full regular maintenance history, has never been in an accident, and there are no known issues or recent repairs needed. Given the excellent condition, 2019 model year, and 65,000 km, my asking price is $16,500. I’m willing to be flexible, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for confirming the maintenance history and condition. I appreciate the flexibility. $16,500 is a bit above my target, but I’m prepared to move up to $15,500 if we can finalize quickly. If you can meet me there, I’m ready to proceed.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the quick response. Given the car’s excellent condition, full maintenance history, and clean accident-free record, $15,500 is still a bit low for me. I can come down to $16,000 and we can finalize quickly.", "offer_price": 16000, "agreed": false}
+
+BUYER: {"reply": "Thanks, $16,000 is fair. I can agree to that and we have a deal, provided the car is exactly as described at inspection.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Great — we have a deal at $16,000, pending the car matching the description at inspection. I’ll keep everything ready for a smooth handover.", "offer_price": 16000, "agreed": true}

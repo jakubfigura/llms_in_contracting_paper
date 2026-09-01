@@ -1,0 +1,11 @@
+BUYER: {"reply": "Hi, thanks for showing me this Yaris. It's in great condition and I appreciate the maintenance history. For a 2019 with 65,000 km, I'd like to start at $16,500. That's a fair price for the market right now, and it's where I'd like to begin our negotiation.", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "Thank you for your interest in this Yaris. I appreciate your opening offer of $16,500. You're right that this vehicle is in excellent condition with full maintenance records and no accident history—that's worth something. However, I'm looking to get $17,500 for it. The low mileage at 65,000 km, combined with the pristine condition, justifies that price point in today's market. I'm willing to work with you though. What if we meet somewhere in the middle?", "offer_price": 17500, "agreed": false}
+
+BUYER: {"reply": "I appreciate you coming down to meet me. $17,500 is still a bit higher than I'd like to go. Let me be honest—I've seen comparable 2019 Yaris models with similar mileage in the $16,800 to $17,200 range. What if we split the difference and meet at $17,000? That gives you a solid price while staying within my budget. Can we work with that?", "offer_price": 17000, "agreed": false}
+
+SELLER: {"reply": "I appreciate you doing your homework on comparable listings. You make a fair point about the market range. $17,000 is closer to where I can work with you. Given the excellent condition, full service history, and no accidents, I think that's a reasonable meeting point. Let's go with $17,000—we have a deal.", "offer_price": 17000, "agreed": true}
+
+BUYER: {"reply": "Excellent! I'm glad we could reach an agreement. $17,000 is fair for a vehicle in this condition with such a solid maintenance history. Let's move forward with the paperwork and get this finalized. Thank you for being reasonable to work with on this.", "offer_price": 17000, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm pleased we could come to an agreement. $17,000 is a fair price for both of us. I'm happy to move forward with the paperwork right away. I'll have all the maintenance records, service history, and vehicle documentation ready for you. Thank you for being a professional buyer to negotiate with—I'm confident you'll be very satisfied with this Yaris. Let's get the paperwork started.", "offer_price": 17000, "agreed": true}

@@ -1,0 +1,11 @@
+BUYER: {"reply": "Hi, thanks for showing me this Yaris. It's in great condition and I appreciate the maintenance history. For a 2019 with 65,000 km, I'd like to start negotiations at $16,500. That's a fair price given the market for this model and mileage. What are your thoughts?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "Thank you for your interest. I appreciate your offer of $16,500. However, given this Yaris's excellent condition, comprehensive maintenance records, and relatively low mileage for a 2019 model, I believe $17,200 is a fair asking price. This vehicle is well below average wear and tear. I'm willing to work with you—would $17,200 work for you?", "offer_price": 17200, "agreed": false}
+
+BUYER: {"reply": "I appreciate the maintenance records and the car's excellent condition. $17,200 is closer, but it's still above what I'm comfortable with. Given current market rates for this model and mileage, I'd like to counter at $16,800. That's a reasonable middle ground that reflects the car's value while staying within my budget. Can we work with that?", "offer_price": 16800, "agreed": false}
+
+SELLER: {"reply": "I appreciate you meeting me closer to the middle. $16,800 is reasonable, and I can see we're getting close. Given the excellent condition, no accident history, and strong maintenance records—which add real value and reduce future buyer risk—I'd like to propose $17,000 as my final offer. This reflects the car's true market value while being fair to both of us. Can we settle at $17,000?", "offer_price": 17000, "agreed": false}
+
+BUYER: {"reply": "I appreciate your willingness to meet me halfway. The car is definitely in excellent condition, and I value the maintenance history. At $17,000, we're very close. That's within reasonable range of my budget. I can work with $17,000—let's move forward with that price.", "offer_price": 17000, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm glad we could reach an agreement. $17,000 it is for the 2019 Toyota Yaris. You're getting a well-maintained vehicle with excellent condition and low mileage—I'm confident you'll be very happy with this purchase. Let's move forward with the paperwork and get this finalized. Thank you for the smooth negotiation.", "offer_price": 17000, "agreed": true}

@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for the details. Before we talk numbers, can you confirm the maintenance history and whether there are any issues with the tires, brakes, or any pending repairs? Given the 2019 Yaris with 65,000 km, I’d like to start at $15,000 and see if we can work toward a fair deal.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "Yes — the car has regular maintenance history, no accidents, and there are no known issues with the tires, brakes, or any pending repairs. Given its excellent condition, low mileage for the year, and Toyota reliability, my asking price is $16,500. I can be flexible, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for confirming. The maintenance and condition sound good, but $16,500 is still a bit above where I’m comfortable. I can move to $15,500 today, and if everything checks out in person, I’m ready to proceed quickly.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the quick offer. Given the excellent condition, regular maintenance, and no-accident history, $15,500 is still a little low for this 2019 Yaris with 65,000 km. I can come down to $16,000, and if you’re ready to move forward today, I’d be happy to finalize it.", "offer_price": 16000, "agreed": false}
+
+BUYER: {"reply": "Thanks — $16,000 is reasonable, and I’m prepared to accept that if the car is exactly as described. Please confirm the maintenance records are available, and if so, we have a deal at $16,000.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Great — we have a deal at $16,000. I can provide the maintenance records, and the car is exactly as described: excellent condition, regular maintenance, no accidents. Let’s arrange the next steps.", "offer_price": 16000, "agreed": true}

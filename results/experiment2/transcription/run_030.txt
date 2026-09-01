@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for showing me this Yaris. It looks well-maintained. I'm interested in moving forward, but I'd like to start at $16,500. That accounts for the mileage and current market conditions. What are your thoughts on that?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "I appreciate your interest in the Yaris. At $16,500, we're actually quite close. Given the excellent condition, regular maintenance history, and no accident record, I think this is fair value. The 2019 model year with only 65,000 km is well below average wear. I'm comfortable holding at $16,500—that's a competitive price for this vehicle's quality. Shall we move forward at that price?", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "I appreciate you holding firm at $16,500. The car is definitely in great shape, and I can see the value. However, I'd like to propose $17,200 as a middle ground. This gives you a fair return while staying within my budget range. I'm ready to move forward quickly at that price if we can make it work.", "offer_price": 17200, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer at $17,200, and I'm glad you recognize the car's excellent condition. However, I need to respectfully stay at $16,500. This price already reflects fair market value for a well-maintained 2019 Yaris with low mileage and a clean history. I'm confident this is competitive pricing, and I'm ready to close the deal at this price today. Can we move forward at $16,500?", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "You've made a strong case, and I respect your position. The car is genuinely in excellent condition, and $16,500 is fair for what you're offering. I'm satisfied with that price. Let's move forward—I'm ready to proceed with the purchase at $16,500.", "offer_price": 16500, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm pleased we've reached an agreement. $16,500 it is. I'm confident you're making a great choice with this Yaris—it's a reliable vehicle that's been well cared for. Let's proceed with the paperwork and finalize the sale. I can have all the documentation ready for you right away.", "offer_price": 16500, "agreed": true}

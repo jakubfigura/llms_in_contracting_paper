@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks. Before we talk numbers, can you confirm the full maintenance history, any recent service work, and whether there are any known issues at all? Assuming the car is as described, I’d like to start at $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Yes — the car has a full maintenance history, with regular servicing kept up to date. Recent work includes routine service items, and there are no known issues or accident history. It’s in excellent condition overall. Given the year, mileage, and condition, $15,500 is a bit low; I can come down to $16,500.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for the details. That’s reassuring, but with 65,000 km I’d need to be closer to my budget. I can move up to $16,000 if everything checks out in person. If you can meet me there, I’m ready to proceed.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, and $16,000 is close. Given the excellent condition, full maintenance history, and no accident record, I can meet you halfway and accept $16,000 if everything checks out in person. If you're happy, we can proceed.", "offer_price": 16000, "agreed": true}
+
+BUYER: {"reply": "Great, $16,000 works for me. I appreciate you being flexible. If the car checks out in person as described, I’m happy to proceed.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Great — we’re agreed at $16,000, pending the in-person check as discussed. I appreciate the straightforward negotiation and look forward to meeting you.", "offer_price": 16000, "agreed": true}

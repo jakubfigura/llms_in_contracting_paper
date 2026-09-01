@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for showing me this Yaris. It's in great condition with reasonable mileage. I'm interested in moving forward, but I'd like to start the conversation at $16,500. That's a fair price for a 2019 model with 65,000 km. What are your thoughts on that?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "I appreciate your interest in the Yaris. At $16,500, we're actually quite close. This vehicle has been meticulously maintained with full service history, zero accidents, and excellent condition throughout. Given the current market for 2019 Yaris models with this mileage, I'm confident in asking $17,200. However, I'm willing to meet you at $16,800 as a fair compromise. That reflects the quality and reliability you're getting here.", "offer_price": 16800, "agreed": false}
+
+BUYER: {"reply": "I appreciate the service history and condition—that definitely adds value. $16,800 is closer, and I can see we're in the right ballpark. However, I'd like to propose $16,650. That gives you a solid return while staying within my budget constraints. Can we meet there?", "offer_price": 16650, "agreed": false}
+
+SELLER: {"reply": "You're making a reasonable offer, and I appreciate that you recognize the vehicle's condition and maintenance history. $16,650 is very close to where I need to be. Let me meet you at $16,750—that's a fair split and reflects the true value of this well-maintained Yaris. I think that's a solid deal for both of us.", "offer_price": 16750, "agreed": false}
+
+BUYER: {"reply": "I appreciate you meeting me halfway. $16,750 is a fair price, and I'm satisfied with the condition and maintenance history of this Yaris. Let's go with that. I'm ready to move forward at $16,750.", "offer_price": 16750, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm glad we could reach an agreement. $16,750 is a fair price for this well-maintained 2019 Yaris, and I'm confident you're getting a reliable vehicle with excellent service history and no accidents. Let's move forward with the paperwork and get this finalized. Thank you for a straightforward negotiation.", "offer_price": 16750, "agreed": true}

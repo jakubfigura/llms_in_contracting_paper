@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for showing me this Yaris. It's in great condition with reasonable mileage. I'm interested in moving forward, but I'd like to start the negotiation at $16,500. That's a fair opening position based on the market value for a 2019 model with 65,000 km. What are your thoughts on that?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "I appreciate your interest in the Yaris. At $16,500, we're actually quite close. Given the excellent condition, regular maintenance history, and no accident record, I'd be comfortable meeting you at $16,800. This reflects the quality of this vehicle and current market rates for a well-maintained 2019 Yaris with this mileage. Can we work with that?", "offer_price": 16800, "agreed": false}
+
+BUYER: {"reply": "I appreciate you coming down to $16,800. The car is definitely well-maintained, and I can see the value. However, I'd like to propose $16,900 as my counter-offer. That's a reasonable middle ground between our positions and still within my budget. Can we agree on that price?", "offer_price": 16900, "agreed": false}
+
+SELLER: {"reply": "I appreciate the counter-offer at $16,900. You're right that we're very close now, and I can see you're a serious buyer. I'm willing to accept $16,900. Let's move forward with that price.", "offer_price": 16900, "agreed": true}
+
+BUYER: {"reply": "Excellent! I'm pleased we've reached an agreement at $16,900. This is a fair price for a well-maintained 2019 Toyota Yaris in excellent condition. I'm ready to move forward with the purchase. Let's proceed with the paperwork and next steps.", "offer_price": 16900, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm glad we've reached an agreement at $16,900. This is a fair deal for both of us. I'm ready to proceed with the paperwork as well. Let me prepare the vehicle documentation, service records, and title. We can schedule a time for you to complete the inspection, sign the necessary documents, and arrange payment. When would you like to move forward with finalizing the sale?", "offer_price": 16900, "agreed": true}

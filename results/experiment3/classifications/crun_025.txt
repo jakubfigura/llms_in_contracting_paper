@@ -1,0 +1,41 @@
+BUYER: {"reply": "Hi, I’m interested in the 2019 Toyota Yaris. Before we move forward, could you confirm the maintenance history, any recent service records, and whether there have been any issues or repairs? Given the mileage, I’d like to start with an offer of $15,000.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. The Yaris has a full regular maintenance history, with recent service records available, and it has never been in an accident. It’s in excellent condition overall, which supports the value. I can’t go below $15,000, but given the low mileage and clean history, I’d be looking for $16,500.", "offer_price": 16500, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=0 - The parties have not reached mutual consent because the buyer offered $15,000 and the seller countered at $16,500.
+  [2] label=0 - There is no common intention to be bound yet, as both sides are still negotiating price and have not accepted terms.
+  [3] label=0 - The essential term of price is not agreed, since the buyer and seller remain apart on the amount.
+  [4] label=1 - Nothing in the exchange suggests a violation of mandatory legal provisions.
+  [5] label=1 - The negotiation appears lawful and consistent with good faith and fair dealing.
+  [6] label=1 - Both parties are voluntarily negotiating and choosing terms without any sign of coercion.
+  [7] label=1 - This is a genuine negotiation, not a sham transaction.
+  [8] label=1 - No error, deceit, or threat is indicated in either declaration.
+
+BUYER: {"reply": "Thanks for the details — the maintenance history and clean accident-free record are reassuring. Given the mileage, I can come up to $15,500, but that would be my strongest offer at this point. If you can meet me there, I’m ready to move forward.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, and I understand your position. Given the excellent condition, full maintenance history, and accident-free record, $15,500 is still a bit below what I can accept. I can come down to $16,000, and that would be a fair final price for this Yaris.", "offer_price": 16000, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=0 - The last messages show counteroffers, not matching declarations of assent.
+  [2] label=0 - Both parties are still negotiating and have not shown a common intention to be bound yet.
+  [3] label=0 - The essential term, the final price, is not agreed because the seller proposes $16,000 and the buyer has not accepted.
+  [4] label=null - No facts indicate whether any mandatory legal requirements are met or breached.
+  [5] label=1 - The negotiation concerns a lawful car sale and nothing suggests bad faith or socially improper content.
+  [6] label=1 - Both sides are bargaining voluntarily and there is no sign of coercion or lack of free decision.
+  [7] label=null - There is no indication that the deal is a sham, but the parties have not yet concluded one.
+  [8] label=null - No error, deceit, or threat is evident from the last round.
+
+BUYER: {"reply": "Thanks — I appreciate you coming down. $16,000 is reasonable, and I’m prepared to accept that as long as the service records are complete and everything checks out when I inspect it. If so, we have a deal at $16,000.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Great — we have a deal at $16,000, subject to your inspection confirming the service records and condition as discussed. I’ll have everything ready for you.", "offer_price": 16000, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties expressly accepted $16,000 in the last round.
+  [2] label=1 - They showed a clear intention to be bound by a deal, subject only to inspection.
+  [3] label=1 - The essential terms are identified: the car and the price of $16,000.
+  [4] label=null - No information is given about any mandatory legal formalities or statutory requirements.
+  [5] label=1 - The agreement appears ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - The messages indicate voluntary, conscious acceptance without any sign of coercion.
+  [7] label=null - There is no indication that the deal is sham, but the transcript does not fully exclude that possibility.
+  [8] label=null - No facts suggest error, deceit, or threat, but none can be definitively ruled out from the transcript.

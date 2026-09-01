@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for showing me this Yaris. It's in great condition with reasonable mileage for a 2019. I'm interested in moving forward, but I'd like to start at $16,500. That's a fair price given the market and the mileage. What are your thoughts on that?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "I appreciate your interest. At $16,500, we're actually quite close. Given the excellent condition, regular maintenance history, and low mileage for a 2019 Yaris, I think $17,000 is a fair asking price. However, I'm willing to meet you at $16,750 as a compromise. This reflects the vehicle's strong condition and market value. What do you think?", "offer_price": 16750, "agreed": false}
+
+BUYER: {"reply": "I appreciate the compromise at $16,750. The car is definitely in excellent shape, and I can see the value. Let me meet you at $16,900. That's a solid price for both of us—it's within my budget range, reflects the vehicle's condition and maintenance history, and gets us to a fair middle ground. Can we close at $16,900?", "offer_price": 16900, "agreed": false}
+
+SELLER: {"reply": "I appreciate you meeting me halfway. $16,900 is a fair offer, and I can see we're both working toward a reasonable agreement. Given the excellent condition, full maintenance records, and no accident history on this 2019 Yaris, I'm comfortable accepting $16,900. Let's move forward with the sale.", "offer_price": 16900, "agreed": true}
+
+BUYER: {"reply": "Excellent! I'm glad we could reach an agreement. $16,900 is a fair price for this well-maintained Yaris, and I'm satisfied with the deal. Let's move forward with the paperwork and finalize the sale. Thank you for working with me on this.", "offer_price": 16900, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm pleased we've reached an agreement at $16,900. This has been a smooth negotiation, and I'm confident you're getting a quality vehicle with a solid maintenance history. Let's proceed with the paperwork right away. I'll have the title and service records ready for you. Thank you for your professionalism throughout this process.", "offer_price": 16900, "agreed": true}

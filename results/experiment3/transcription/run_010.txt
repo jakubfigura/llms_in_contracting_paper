@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks — I’m interested in the 2019 Toyota Yaris. Before we discuss price, can you confirm the maintenance history, service records, and whether there have been any issues or repairs beyond routine upkeep? Based on the mileage and condition, my initial offer is $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. The car has regular maintenance with service records available, and it’s had no accidents or major repairs beyond routine upkeep. Given the excellent condition, 65,000 km, and Toyota’s reliability, I’d be looking for $16,500. I can be flexible, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for the details — that sounds reassuring. Given the mileage, I’m prepared to move up, but I need to stay within budget. I can offer $15,800, and if we can agree there, I’m ready to proceed.", "offer_price": 15800, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, and I’m glad the car meets your expectations. At $15,800 we’re close, but given the excellent condition, full maintenance history, and no-accident record, I’d like to meet at $16,200. That said, I’m still open to a serious deal if you’re ready to move quickly.", "offer_price": 16200, "agreed": false}
+
+BUYER: {"reply": "I appreciate the flexibility and the condition/history you’ve confirmed. I’m ready to move quickly, but $16,200 is a bit above where I can comfortably land. If you can do $15,900, I’m prepared to agree and close the deal.", "offer_price": 15900, "agreed": false}
+
+SELLER: {"reply": "I appreciate your willingness to close quickly. $15,900 is still below where I can comfortably go, but to keep this moving I can meet you at $16,000. That reflects the excellent condition, full maintenance history, and no-accident record. If that works, we have a deal.", "offer_price": 16000, "agreed": false}
+
+BUYER: {"reply": "$16,000 is reasonable, and I’m prepared to accept that as long as everything checks out in person and the service records match what you described. We have a deal at $16,000.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Excellent — we have a deal at $16,000. I’ll make sure the car, service records, and condition all match what we discussed when you inspect it in person. Looking forward to finalizing the sale.", "offer_price": 16000, "agreed": true}

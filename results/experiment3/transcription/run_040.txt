@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for the details. Before I move forward, can you confirm the maintenance history and whether there have been any repairs beyond regular servicing? Based on the year, mileage, and condition, my initial offer is $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Yes — the car has a full regular maintenance history, with no accidents and no repairs beyond normal servicing. It’s been well cared for and is in excellent condition. Given the 2019 year, 65,000 km, and the clean history, $15,500 is a bit low. I can come down to $16,800, which I think is fair for this Yaris. If you’re ready to proceed, I’m happy to keep talking.", "offer_price": 16800, "agreed": false}
+
+BUYER: {"reply": "Thanks for confirming the clean history and regular servicing. I appreciate the condition, but $16,800 is still above what I can do. I can move to $16,000 and be ready to proceed quickly if that works for you.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the quick follow-up. $16,000 is close, but given the excellent condition, full maintenance history, and no-accident record, I can meet you at $16,500. That’s a fair price for both sides, and I’m ready to proceed if that works for you.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thank you — $16,500 is a fair middle ground, and I’m happy to agree at that price. Please confirm the next steps and I’m ready to proceed.", "offer_price": 16500, "agreed": true}
+
+SELLER: {"reply": "Agreed — $16,500 is accepted. I’ll confirm the next steps with you and we can arrange payment and handover at your convenience.", "offer_price": 16500, "agreed": true}

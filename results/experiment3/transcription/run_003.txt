@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds promising, but I’d like to confirm the maintenance history, any recent service records, and whether there are any cosmetic or mechanical issues before I proceed. Based on the mileage and market, my initial offer is $15,000.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. The car has been regularly maintained, has no accident history, and is in excellent condition with 65,000 km. Given that, $15,000 is too low for me. I can come down to $16,800, and I’m happy to share the service records and answer any questions about the car’s condition.", "offer_price": 16800, "agreed": false}
+
+BUYER: {"reply": "Thanks for the quick response and for confirming the service records. I appreciate the clean history and excellent condition. I can move up, but $16,800 is still a bit high for me. If you can meet me at $16,000, I’m ready to proceed today.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the quick follow-up. Given the excellent condition, regular maintenance, and clean accident-free history, I can meet you at $16,000 and consider that a fair price. If you’re ready to proceed today, we have a deal.", "offer_price": 16000, "agreed": true}
+
+BUYER: {"reply": "Agreed — $16,000 works for me. Thanks, and I’m ready to proceed with the purchase.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Agreed — $16,000 works for me. We have a deal, and I’m ready to proceed with the sale.", "offer_price": 16000, "agreed": true}

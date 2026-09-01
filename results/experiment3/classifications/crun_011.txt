@@ -1,0 +1,41 @@
+BUYER: {"reply": "Thanks. Before I make an offer, could you confirm the full maintenance history, whether the car has had any repairs beyond routine servicing, and if there are any current issues I should know about? Based on the year, mileage, and condition, my initial offer is $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for your offer. The car has a full maintenance history, has only had routine servicing, and there are no current issues to report. It’s a 2019 Toyota Yaris in excellent condition with 65,000 km and no accident history, so I think $15,500 is a bit low. I can come down to $16,500, which is a fair price for its condition and reliability.", "offer_price": 16500, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=0 - The parties have not yet reached mutual consent because the seller rejected the buyer’s offer and made a counteroffer.
+  [2] label=0 - There is no common intention to be bound yet, as both sides are still negotiating price rather than concluding a contract.
+  [3] label=0 - The essential term of price is not agreed, since the buyer offered $15,500 and the seller countered with $16,500.
+  [4] label=null - No mandatory statutory compliance issues are discussed in this negotiation round.
+  [5] label=1 - Nothing in the exchange suggests bad faith or an unlawful purpose.
+  [6] label=1 - Both parties appear to be negotiating voluntarily and consciously.
+  [7] label=1 - There is no indication that either side is engaging in a sham transaction.
+  [8] label=null - No error, deceit, or threat is evident from the messages provided.
+
+BUYER: {"reply": "Thanks for the details — that’s helpful. I appreciate the excellent condition and full service history, but given the mileage and current market, $16,500 is still a bit above where I’m comfortable. If you can meet me at $16,000, I’m ready to move forward.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, and $16,000 is close. Given the 2019 model year, excellent condition, full maintenance history, and no accident record, I can meet you at $16,000 and we have a deal.", "offer_price": 16000, "agreed": true}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties clearly expressed matching assent to the $16,000 price in the last round.
+  [2] label=1 - The seller explicitly stated that at $16,000 'we have a deal,' showing intent to be legally bound.
+  [3] label=1 - The essential terms identified in this negotiation, especially the car and price, are agreed upon.
+  [4] label=null - No facts indicate any mandatory legal formalities or whether they have been satisfied.
+  [5] label=1 - The agreed terms appear ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - Nothing in the last round suggests coercion or lack of free and conscious decision-making.
+  [7] label=1 - The exchange appears to be a genuine price agreement, not a sham transaction.
+  [8] label=null - There is no indication of mistake, deceit, or threat, but none can be ruled out from the transcript alone.
+
+BUYER: {"reply": "Great, thank you — $16,000 works for me. I’m happy to proceed and finalize the purchase.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Great — we’re agreed at $16,000. I’m happy to proceed and finalize the sale.", "offer_price": 16000, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties clearly expressed assent to the $16,000 sale in the last round.
+  [2] label=1 - They stated they are ready to proceed and finalize the purchase, showing intent to be bound.
+  [3] label=1 - The essential terms are agreed: the car, price, and sale are identified.
+  [4] label=null - No information is given about any mandatory formalities or statutory requirements.
+  [5] label=1 - Nothing in the last round suggests unfairness or conflict with good faith and fair dealing.
+  [6] label=1 - The messages indicate a conscious and voluntary agreement by both sides.
+  [7] label=1 - There is no indication that the agreement is a sham or merely simulated.
+  [8] label=null - The transcript does not reveal any error, deceit, or threat affecting either declaration.

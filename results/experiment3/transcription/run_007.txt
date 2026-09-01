@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds promising, but before I move forward, can you confirm the full maintenance history and whether there are any recent repairs or issues? Based on the year and mileage, my initial offer is $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for your offer. The car has a full regular maintenance history, has never been in an accident, and has no known issues or recent repairs needed. Given the excellent condition, 2019 model year, and 65,000 km, I’m asking $16,500. I can be flexible, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks, that’s helpful. The maintenance history and accident-free condition are reassuring. I’m prepared to move up, but given the mileage, I’d like to stay near my budget. I can offer $15,750 if everything checks out and there are no hidden issues.", "offer_price": 15750, "agreed": false}
+
+SELLER: {"reply": "I appreciate the revised offer. Given the excellent condition, full maintenance history, and no-accident record, $15,750 is still a bit low for me. I can come down to $16,200, and if everything checks out in person, I’m ready to move forward. I can’t go below $15,000.", "offer_price": 16200, "agreed": false}
+
+BUYER: {"reply": "Thanks for coming down. I understand the condition supports the price, but I do need to stay disciplined on budget. If the car is exactly as described and checks out in person, I can meet you at $16,000 and move forward.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "Thanks, $16,000 is a fair offer and I’m happy to accept it, assuming the car checks out as described in person. The Toyota Yaris has a full maintenance history, no accidents, and excellent condition, so I’m glad we could agree.", "offer_price": 16000, "agreed": true}
+
+BUYER: {"reply": "Great, thank you — I’m happy to agree at $16,000, pending the in-person check matching the description. Please let me know when I can come see the car and review the maintenance records.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Great — we’re agreed at $16,000 pending the in-person inspection matching the description. I can show you the car and maintenance records at a convenient time; let me know when you’d like to come by.", "offer_price": 16000, "agreed": true}

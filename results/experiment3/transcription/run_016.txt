@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks — the 2019 Toyota Yaris with 65,000 km sounds promising. Before I make a final decision, can you confirm the maintenance history, whether all servicing is up to date, and if there have been any issues at all? Based on the mileage and market, I’d like to start with an offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Yes — the car has a full regular maintenance history, all servicing is up to date, and it has had no accidents or known issues. It’s in excellent condition overall. Given that, and the low mileage for a 2019 Yaris, I can come down to $15,800, but I can’t go below $15,000.", "offer_price": 15800, "agreed": false}
+
+BUYER: {"reply": "Thanks for the details — that all sounds good. I appreciate the condition and maintenance record. I’m prepared to move to $15,000, which is my best offer and within a fair range for this car. If you can do that, I’m ready to proceed.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, and $15,000 is a fair number, but given the excellent condition, full maintenance history, and no-accident record, I’d like to hold firm at $15,500. If you can meet me there, we can finalize it.", "offer_price": 15500, "agreed": false}
+
+BUYER: {"reply": "I appreciate that, but $15,500 is a bit above where I’m comfortable. I can meet you at $15,250 and can move quickly to finalize if that works for you.", "offer_price": 15250, "agreed": false}
+
+SELLER: {"reply": "I appreciate the quick response. Based on the car’s excellent condition, full maintenance history, and clean accident-free record, $15,250 is still a bit low for me. I can meet you at $15,400, and if that works, we can finalize the deal.", "offer_price": 15400, "agreed": false}
+
+BUYER: {"reply": "Thanks — I understand. $15,400 is acceptable to me, and I’m happy to finalize at that price. Please confirm the next steps and we can proceed.", "offer_price": 15400, "agreed": true}
+
+SELLER: {"reply": "Great — we have an agreement at $15,400. Next, we can arrange a time to meet, review the paperwork, and complete the sale. I’ll make sure everything is ready for a smooth handover.", "offer_price": 15400, "agreed": true}

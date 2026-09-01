@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks for the details. Before we talk numbers, can you confirm the maintenance history, any recent service records, and whether there are any issues with the body, tires, brakes, or electronics? Based on the year and mileage, I can start at $15,000, assuming everything checks out cleanly.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "Thanks for the interest. The car has a full regular maintenance history, no accident history, and it’s in excellent condition. Tires, brakes, body, and electronics are all in good order. Given the 2019 year, 65,000 km, and the clean condition, I’m asking $16,500. I can be flexible, but I wouldn’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for confirming the maintenance and condition. That’s reassuring. Given the mileage and market, I can move to $14,500, but I’d need to stay within my budget and would be ready to proceed quickly if we can meet closer to that. If you can come down, I’m prepared to make this a straightforward deal.", "offer_price": 14500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the quick offer, but I can’t go as low as $14,500. With the excellent condition, full maintenance history, and no accident record, $16,500 is a fair asking price. I can come down to $15,500 if you’re ready to proceed quickly.", "offer_price": 15500, "agreed": false}
+
+BUYER: {"reply": "Thanks — I appreciate the flexibility. $15,500 is closer, but I’m still trying to stay disciplined on budget. If you can meet me at $15,000, I’m ready to move forward and close this deal promptly.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, and $15,000 is the lowest I can accept. Given the excellent condition, full maintenance history, and no accident record, that’s a fair deal. If you’re ready, we have an agreement at $15,000.", "offer_price": 15000, "agreed": true}
+
+BUYER: {"reply": "Agreed — $15,000 works for me. Thanks for working with me, and I’m ready to proceed.", "offer_price": 15000, "agreed": true}
+
+SELLER: {"reply": "Agreed — $15,000 is accepted. Thanks, and I’m ready to proceed with the sale.", "offer_price": 15000, "agreed": true}

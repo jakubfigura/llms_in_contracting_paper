@@ -1,0 +1,15 @@
+BUYER: {"reply": "Hi, I’m interested in the 2019 Toyota Yaris with 65,000 km. Could you confirm the maintenance history, service records, and whether it’s had any repairs or issues at all? Based on the mileage and market, I’d like to start at $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for your interest. The car has had regular maintenance, all service records are available, and it has never been in an accident or had any major repairs. It’s in excellent condition overall. Given the year, mileage, and condition, I can offer it at $16,500. That’s a fair price for a well-kept 2019 Toyota Yaris.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for the details — that’s reassuring. Given the 65,000 km and my budget, I can come up to $16,000, but I’d need to stay there. If you can do that, I’m ready to move forward.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, but I can’t go down to $16,000. Considering the excellent condition, full maintenance history, and no-accident record, my best price is $16,250. If you can meet me there, we can move forward.", "offer_price": 16250, "agreed": false}
+
+BUYER: {"reply": "I appreciate the flexibility. $16,250 is close, but I need to keep some room for registration and any immediate servicing. If you can meet me at $16,100, I’m ready to proceed and close the deal.", "offer_price": 16100, "agreed": false}
+
+SELLER: {"reply": "Thanks — I understand. Given the car’s excellent condition, regular maintenance, and clean history, I can meet you at $16,100 and we have a deal.", "offer_price": 16100, "agreed": true}
+
+BUYER: {"reply": "Great, thank you — we have a deal at $16,100. I appreciate the transparency on the condition and maintenance history, and I’m ready to move forward.", "offer_price": 16100, "agreed": true}
+
+SELLER: {"reply": "Great — we’re agreed at $16,100. I appreciate the smooth negotiation and I’m ready to proceed with the sale.", "offer_price": 16100, "agreed": true}

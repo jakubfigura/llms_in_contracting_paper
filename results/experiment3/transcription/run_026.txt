@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks — the 2019 Toyota Yaris with 65,000 km sounds promising. Before I make a firm decision, can you confirm the maintenance history, any recent service records, and whether there have been any issues at all? Based on the mileage and market, my initial offer is $15,500. If everything checks out, I’m prepared to move quickly.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for your offer. The Yaris has had regular maintenance, with recent service records available, and it has never been in an accident or had any known issues. Given the excellent condition, low running costs, and strong reliability, I’d be looking for $16,500. If you’re ready to proceed quickly, I’m happy to keep it straightforward.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for confirming the service history and clean accident record. I appreciate the condition, but $16,500 is a bit above where I can comfortably be. I can come up to $16,000 if everything is as described and we can finalize quickly. If you can meet me there, I’m ready to proceed.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the quick response. Given the excellent condition, regular maintenance, and clean history, $16,000 is still a little below where I need to be. I can meet you at $16,250 to finalize the deal quickly.", "offer_price": 16250, "agreed": false}
+
+BUYER: {"reply": "Thanks — I appreciate the flexibility. $16,250 works for me, and I’m happy to proceed at that price. Please send the next steps and I’ll be ready to finalize.", "offer_price": 16250, "agreed": true}
+
+SELLER: {"reply": "Great — we have a deal at $16,250. I appreciate the quick agreement. Let’s move forward with the final steps.", "offer_price": 16250, "agreed": true}

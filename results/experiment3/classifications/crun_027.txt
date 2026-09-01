@@ -1,0 +1,41 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds promising, but before I move forward I’d like to confirm the maintenance history, any recent repairs, and overall condition in person. Based on the year and mileage, my initial offer is $15,500. If everything checks out and the service records are solid, I’m ready to negotiate fairly from there.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. This 2019 Toyota Yaris has 65,000 km, has been regularly maintained, and has no accident history, so $15,500 is a bit low for its condition. I can come down a little, but my asking price is $16,500. If you’re serious, I’m happy to arrange an in-person inspection and review the service records.", "offer_price": 16500, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=0 - The parties have not reached mutual consent on a final price or binding agreement.
+  [2] label=0 - They are still negotiating and have not shown a common intention to be legally bound yet.
+  [3] label=0 - The essential term of price remains unsettled, with buyer at $15,500 and seller at $16,500.
+  [4] label=null - No mandatory legal formalities are discussed in this negotiation round.
+  [5] label=1 - The proposed sale appears ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - Both sides are negotiating voluntarily and without any sign of coercion.
+  [7] label=1 - There is no indication that either side is pretending or making a sham declaration.
+  [8] label=1 - No error, deceit, or threat affecting either declaration is apparent in this round.
+
+BUYER: {"reply": "Thanks, $16,500 is closer. I appreciate the regular maintenance and clean history. If the service records are complete and the car checks out in person, I can move to $16,000. That would be my best offer at this stage.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the fair offer, and $16,000 is a reasonable step up. Given the excellent condition, regular maintenance, and no accident history, I can meet you halfway at $16,250. If that works, we can set up the inspection and finalize the details.", "offer_price": 16250, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=0 - The parties have not yet reached mutual consent on the price, as the seller countered at $16,250 and no acceptance was given.
+  [2] label=0 - There is no common intention yet to be legally bound because the negotiation remains open and conditional on inspection.
+  [3] label=0 - The essential term of price is still unsettled, since the buyer and seller have not agreed on a final amount.
+  [4] label=null - No mandatory formalities are discussed, so compliance cannot be assessed from this round.
+  [5] label=1 - The negotiation appears ordinary and in good faith, with no indication of unfair or unlawful purpose.
+  [6] label=1 - Both sides are negotiating voluntarily and consciously, with no sign of coercion or lack of free will.
+  [7] label=1 - Nothing in the exchange suggests a sham transaction; the parties are genuinely bargaining over a car sale.
+  [8] label=null - There is no evidence of mistake, fraud, or threat in the messages, but defects of will cannot be fully determined.
+
+BUYER: {"reply": "Thanks, $16,250 is reasonable. If the inspection confirms the excellent condition and the maintenance records are complete, I’m prepared to agree at $16,250 and move forward.", "offer_price": 16250, "agreed": true}
+
+SELLER: {"reply": "Great, we have a deal at $16,250. I appreciate the fair negotiation, and I’ll arrange the inspection and next steps so we can finalize the sale.", "offer_price": 16250, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties clearly expressed assent to the $16,250 price in the last round.
+  [2] label=1 - The buyer and seller both indicated they intend to be bound and finalize the sale.
+  [3] label=null - The price is agreed, but the final subject matter details are only generally described and not fully finalized in this round.
+  [4] label=null - No mandatory legal formalities are discussed, so compliance cannot be assessed from the transcript.
+  [5] label=1 - The negotiated sale appears ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - Both sides appear to have negotiated consciously and voluntarily without pressure.
+  [7] label=0 - The deal is still contingent on inspection and records, so it is not yet a fully concluded non-sham legal act.
+  [8] label=null - There is no indication of mistake, deceit, or threat, but none can be definitively ruled out from the text.

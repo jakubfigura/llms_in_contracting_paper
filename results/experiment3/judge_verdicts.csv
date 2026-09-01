@@ -1,0 +1,1033 @@
+run,round,criterion,label,justification
+1,1,1,0,The parties have not reached mutual consent on a final price in this round.
+1,1,2,0,There is no common intention yet to conclude a binding sale contract.
+1,1,3,0,"The essential term of price remains unsettled between $15,000 and $16,500."
+1,1,4,,No mandatory legal formalities are discussed in the negotiation.
+1,1,5,1,The negotiation concerns a lawful car sale and shows no sign of bad faith or unfair purpose.
+1,1,6,1,Both sides are negotiating voluntarily and consciously.
+1,1,7,1,Nothing indicates the deal is a sham transaction.
+1,1,8,1,"No error, deceit, or threat is apparent in the parties' declarations."
+1,2,1,1,"Both parties clearly exchanged matching assent to the $15,500 price in this round."
+1,2,2,1,"The seller explicitly states “we have a deal,” showing intent to be legally bound."
+1,2,3,1,"The essential term, the vehicle price, is agreed at $15,500 for the identified Toyota Yaris."
+1,2,4,,No facts indicate whether any mandatory legal formalities are required or satisfied here.
+1,2,5,1,Nothing in the round suggests unfairness or conflict with good faith and fair dealing.
+1,2,6,1,"The messages indicate a voluntary, conscious negotiation and acceptance by both sides."
+1,2,7,1,There is no indication that the agreement is merely sham or simulated.
+1,2,8,1,"No error, deceit, or threat is apparent in the parties’ declarations of will."
+1,3,1,1,"Both parties expressly accepted the $15,500 price in the last round."
+1,3,2,1,The buyer and seller both stated they were agreed and intended to complete the sale.
+1,3,3,1,"The essential term, the car and the price, is identified and agreed at $15,500."
+1,3,4,,No facts indicate any mandatory legal formalities or statutory compliance issues.
+1,3,5,1,The deal concerns a normal car sale and shows no sign of violating good faith or fair dealing.
+1,3,6,1,Both sides appear to have freely and consciously accepted the terms without pressure.
+1,3,7,1,Nothing in the exchange suggests the agreement is a sham rather than a real sale.
+1,3,8,,"There is no evidence in the transcript of mistake, fraud, or threat affecting either declaration."
+2,1,1,0,The parties have not reached mutual consent on the price yet.
+2,1,2,0,There is no common intention to be bound because negotiations are still ongoing.
+2,1,3,0,"The essential term of price remains unsettled between $15,000 and $16,500."
+2,1,4,,No mandatory legal formalities are discussed in this round.
+2,1,5,1,The negotiation concerns a lawful car sale and shows no sign of bad faith.
+2,1,6,1,Both sides are negotiating voluntarily and consciously.
+2,1,7,1,There is no indication that the deal is a sham transaction.
+2,1,8,1,"No error, deceit, or threat is apparent in the exchanged statements."
+2,2,1,,"The last messages show an offer and counteroffer, but no clear mutual assent yet."
+2,2,2,,"The parties discuss a possible deal, but they have not both clearly expressed intent to be legally bound."
+2,2,3,,"The essential term of price is still unsettled because the buyer has not accepted $16,000."
+2,2,4,,"Nothing indicates noncompliance with mandatory legal provisions, but this cannot be verified from the transcript."
+2,2,5,1,The negotiation concerns a lawful car sale and shows no sign of bad faith or socially harmful content.
+2,2,6,1,Both sides are bargaining voluntarily and consciously about the car and price.
+2,2,7,,"There is no indication of a sham transaction, but the parties' true intent cannot be fully determined yet."
+2,2,8,,"No error, deceit, or threat is apparent in the last round, but defects of consent cannot be ruled out."
+2,3,1,1,"Both parties clearly expressed matching assent to the $15,750 price in the last round."
+2,3,2,1,"The seller stated they can finalize now and the buyer said they are happy to move forward, showing intent to be bound."
+2,3,3,1,"The essential terms are agreed: the specific car and the final price of $15,750."
+2,3,4,,No facts indicate any mandatory legal formalities or whether they have been satisfied.
+2,3,5,1,The deal concerns a lawful car sale and nothing in the round suggests bad faith or unfair purpose.
+2,3,6,1,"The messages show a voluntary, conscious negotiation with no sign of coercion."
+2,3,7,1,There is no indication that the agreement is merely sham or simulated.
+2,3,8,,"The transcript does not reveal any mistake, fraud, or threat affecting either declaration."
+2,4,1,1,"Both parties clearly expressed matching assent to the $15,750 deal in the last round."
+2,4,2,1,"The buyer and seller both intended to be bound, as shown by their explicit statements that they have a deal."
+2,4,3,1,"The essential terms were agreed: the specific car and the final price of $15,750."
+2,4,4,,The transcript does not provide enough information to assess compliance with mandatory legal requirements.
+2,4,5,1,Nothing in the last round suggests unfairness or a violation of good faith and fair dealing.
+2,4,6,1,Both sides appear to have consciously and freely accepted the final price without pressure.
+2,4,7,1,"The exchange reflects a genuine bargain, not a sham transaction."
+2,4,8,1,"No error, deceit, or threat is indicated in the last round."
+3,1,1,0,The parties have not reached mutual consent on a final price or terms yet.
+3,1,2,0,Neither side has shown a common intention to be legally bound by a concluded contract in this round.
+3,1,3,0,"The essential term of price remains unsettled, so the contract subject matter is not fully agreed."
+3,1,4,,No mandatory-form or statutory compliance issues are addressed in the negotiation text.
+3,1,5,1,"The discussion appears ordinary and in good faith, with no indication of unfair or unlawful purpose."
+3,1,6,1,Both parties are negotiating voluntarily and consciously without any sign of coercion.
+3,1,7,,"There is no indication that the exchange is a sham, but this cannot be confirmed from the text alone."
+3,1,8,,"No error, deceit, or threat is evident, but the transcript does not allow a definitive finding."
+3,2,1,1,"Both parties clearly expressed matching assent to the $16,000 price in the last round."
+3,2,2,1,The seller explicitly said they have a deal and both sides showed intent to proceed today.
+3,2,3,1,"The essential term, the car and its price of $16,000, was agreed upon."
+3,2,4,,No facts indicate any mandatory legal formalities or statutory compliance issues.
+3,2,5,1,Nothing in the exchange suggests unfairness or inconsistency with good faith and fair dealing.
+3,2,6,1,"The messages indicate a voluntary, conscious negotiation without signs of coercion."
+3,2,7,,"There is no indication that the deal is a sham, but this cannot be fully determined from the transcript."
+3,2,8,,"No error, deceit, or threat is apparent in the last round, but defects in consent cannot be conclusively ruled out."
+3,3,1,1,"Both parties expressly agreed to the $16,000 price in the last round."
+3,3,2,1,The buyer and seller both stated they are ready to proceed and have a deal.
+3,3,3,1,"The essential term, the vehicle and its price, is sufficiently identified and agreed."
+3,3,4,,No facts indicate whether any mandatory legal formalities are required or satisfied.
+3,3,5,1,The agreed sale appears ordinary and consistent with good faith and fair dealing.
+3,3,6,1,"The messages show a conscious, voluntary decision by both sides to conclude the sale."
+3,3,7,1,Nothing in the exchange suggests the deal is merely simulated or sham.
+3,3,8,,"There is no indication of mistake, deceit, or threat, but none can be ruled out from the transcript alone."
+4,1,1,0,"The parties have exchanged offers, but they have not yet reached mutual consent on the price."
+4,1,2,0,There is no clear common intention yet to be legally bound by a finalized sale contract.
+4,1,3,0,The essential term of price remains unsettled because the buyer and seller are still apart.
+4,1,4,,No mandatory statutory issue is apparent from the negotiation text alone.
+4,1,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing.
+4,1,6,1,Both sides are negotiating voluntarily and freely based on the transcript.
+4,1,7,1,Nothing in the exchange suggests a sham or simulated transaction.
+4,1,8,,"There is no indication of error, deceit, or threat, but this cannot be fully determined from the text."
+4,2,1,0,The latest messages show no mutual assent because the buyer and seller are still at different prices.
+4,2,2,0,There is no common intention to be legally bound yet since the seller only says they can move forward if the price works.
+4,2,3,0,"The essential term of price remains unsettled, with buyer at $15,500 and seller at $16,000."
+4,2,4,,No mandatory statutory issues are discussed in the negotiation transcript.
+4,2,5,1,The negotiation appears ordinary and consistent with good faith and fair dealing.
+4,2,6,1,Both parties are bargaining voluntarily and consciously about the sale terms.
+4,2,7,1,There is no indication that either side is making a sham declaration.
+4,2,8,1,"No error, deceit, or threat is apparent in the latest round."
+4,3,1,1,"Both parties expressly agreed to the $16,000 price and to proceed with the sale."
+4,3,2,1,The buyer and seller clearly intended to enter a binding sale contract.
+4,3,3,1,"The essential terms, at least the vehicle and price, are sufficiently identified."
+4,3,4,,No information is given about any mandatory legal formalities or statutory requirements.
+4,3,5,1,Nothing in the exchange suggests unfairness or a violation of good faith and fair dealing.
+4,3,6,1,Both sides appear to have freely and consciously accepted the deal.
+4,3,7,1,There is no indication that the negotiation is a sham or simulated transaction.
+4,3,8,,"The transcript does not reveal any mistake, fraud, or coercion affecting either declaration."
+5,1,1,0,"The parties have exchanged offers, but there is no mutual consent on the price yet."
+5,1,2,0,They have not yet shown a common intention to be legally bound by a final contract.
+5,1,3,0,"The essential term of price remains unsettled because the buyer offered $15,000 and the seller countered at $16,500."
+5,1,4,,No mandatory statutory compliance issues are indicated in the negotiation.
+5,1,5,1,Nothing in the exchange suggests bad faith or socially improper content.
+5,1,6,1,Both sides are negotiating voluntarily and appear to be acting freely.
+5,1,7,,"There is no indication that the negotiation is a sham, but this cannot be confirmed yet."
+5,1,8,,"No error, deceit, or threat is apparent from the messages provided."
+5,2,1,0,"The latest messages show no mutual assent because the seller countered at $16,000 and the buyer has not accepted it."
+5,2,2,0,"There is no common intention yet to be bound, as both sides are still negotiating price rather than concluding the deal."
+5,2,3,0,"The essential term of price is still unsettled since the buyer offered $15,500 and the seller responded with $16,000."
+5,2,4,,No mandatory legal formalities are discussed in the negotiation transcript.
+5,2,5,1,The negotiation concerns a normal car sale on ordinary terms and shows no sign of bad faith or unlawful purpose.
+5,2,6,1,Both parties appear to be negotiating voluntarily and consciously without any indication of coercion.
+5,2,7,1,Nothing in the exchange suggests a sham transaction; the parties are negotiating a real sale.
+5,2,8,,"The transcript contains no indication of mistake, deceit, or threat affecting either party's declarations."
+5,3,1,1,"Both parties expressly accepted the $16,000 price in the last round."
+5,3,2,1,They stated that they have a deal and intend to proceed with the handover.
+5,3,3,1,"The essential terms, especially the car and price, are agreed, with only inspection conformity remaining."
+5,3,4,,No mandatory legal formalities are discussed in the transcript.
+5,3,5,1,The agreement appears ordinary and consistent with good faith and fair dealing.
+5,3,6,1,Both sides appear to have agreed voluntarily and without any sign of coercion.
+5,3,7,1,There is no indication that the deal is a sham or merely simulated.
+5,3,8,,"The transcript does not show any mistake, fraud, or threat affecting consent."
+6,1,1,0,"The parties have exchanged offers, but they have not yet reached mutual consent on the price."
+6,1,2,0,There is no clear common intention yet to be bound by a concluded contract.
+6,1,3,0,"The essential term of price remains unsettled because the buyer offered $15,000 and the seller asked $16,500."
+6,1,4,,No facts are given about mandatory legal formalities or statutory compliance.
+6,1,5,1,The negotiation concerns a lawful car sale and nothing suggests bad faith or unfair content.
+6,1,6,1,Both sides appear to be negotiating voluntarily and consciously.
+6,1,7,1,There is no indication that either statement is a sham transaction.
+6,1,8,,"No error, deceit, or threat is indicated in the exchange."
+6,2,1,0,The parties have not yet reached mutual consent on the price in this round.
+6,2,2,0,They are still negotiating and have not shown a final intention to be legally bound yet.
+6,2,3,0,The essential term of price remains unsettled because the buyer and seller differ on the amount.
+6,2,4,,No facts indicate any mandatory statutory issue affecting contract formation in this round.
+6,2,5,1,The negotiation concerns a lawful car sale and shows no sign of bad faith or unfair purpose.
+6,2,6,1,Both sides are bargaining voluntarily and consciously without any sign of coercion.
+6,2,7,1,There is no indication that either side is pretending or simulating the transaction.
+6,2,8,,"No error, deceit, or threat is apparent from the last exchange."
+6,3,1,1,"Both parties clearly expressed matching assent to the $15,800 deal."
+6,3,2,1,They showed an intention to be legally bound by stating they have a deal and can move forward.
+6,3,3,1,"The essential terms are agreed: the specific car and the price, with condition and records clarified."
+6,3,4,,No mandatory legal formalities or statutory compliance issues are addressed in the dialogue.
+6,3,5,1,The agreement appears ordinary and consistent with good faith and fair dealing.
+6,3,6,1,Both sides appear to have decided freely and consciously to conclude the sale.
+6,3,7,1,Nothing in the exchange suggests a sham or simulated transaction.
+6,3,8,1,"There is no indication of error, deceit, or threat affecting either declaration."
+7,1,1,0,The parties have not reached mutual consent on a final price or acceptance.
+7,1,2,0,There is no common intention yet to conclude a binding sale contract.
+7,1,3,0,"The essential term of price remains unsettled, so no full agreement exists."
+7,1,4,,No mandatory legal formalities are discussed in this negotiation.
+7,1,5,1,The negotiation concerns a lawful car sale and shows no bad-faith content.
+7,1,6,1,Both sides are negotiating voluntarily and consciously.
+7,1,7,,"Nothing indicates a sham transaction, but this cannot be confirmed yet."
+7,1,8,,"No error, deceit, or threat is evident from the messages."
+7,2,1,0,"The parties have not reached matching declarations of intent on price, as the buyer offers $15,750 and the seller counters at $16,200."
+7,2,2,0,There is no common intention yet to be legally bound because both sides are still negotiating and no final acceptance is expressed.
+7,2,3,0,The essential term of price remains unsettled in this round.
+7,2,4,,No mandatory statutory issue is raised by the negotiation text alone.
+7,2,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing.
+7,2,6,1,Both parties are negotiating voluntarily and consciously without any sign of coercion.
+7,2,7,,"Nothing indicates a sham transaction, but that cannot be confirmed from the dialogue alone."
+7,2,8,,"There is no evidence of error, deceit, or threat, but defects in consent cannot be fully determined."
+7,3,1,1,"Both parties clearly expressed assent to the $16,000 price in this round."
+7,3,2,1,The seller stated acceptance and both sides showed intent to be bound if the car matches the description.
+7,3,3,1,"The essential terms are sufficiently identified: the Toyota Yaris and the agreed price of $16,000."
+7,3,4,,No facts indicate any mandatory legal formalities or whether they were satisfied.
+7,3,5,1,Nothing in the exchange suggests an unlawful or bad-faith purpose or content.
+7,3,6,1,"The messages show a voluntary, conscious negotiation and acceptance by both sides."
+7,3,7,1,There is no indication that the deal is merely simulated or sham.
+7,3,8,,"The transcript does not show any mistake, deceit, or threat affecting either declaration."
+7,4,1,1,"Both parties expressly accepted the $16,000 price in this round."
+7,4,2,1,"They showed a clear intention to be bound, subject only to the inspection condition."
+7,4,3,1,"The essential term, the sale price of the car, was agreed upon."
+7,4,4,,No mandatory legal formalities or statutory compliance issues are addressed in the transcript.
+7,4,5,1,The agreement concerns a lawful car sale and shows no sign of violating good faith or fair dealing.
+7,4,6,1,Both sides appear to have negotiated and agreed voluntarily and consciously.
+7,4,7,1,There is no indication that the deal is a sham or simulated transaction.
+7,4,8,,"The transcript does not reveal any mistake, deceit, or threat affecting either declaration."
+8,1,1,0,"The parties have exchanged offers, but there is no mutual consent on the same price yet."
+8,1,2,0,They are still negotiating and have not shown a common intention to be legally bound by a concluded deal.
+8,1,3,0,The essential term of price remains unsettled because the buyer and seller are still apart.
+8,1,4,,No mandatory legal formalities are discussed in this negotiation round.
+8,1,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing.
+8,1,6,1,Both sides are negotiating voluntarily and consciously.
+8,1,7,1,There is no indication that either side is making a sham declaration.
+8,1,8,1,"No error, deceit, or threat is indicated in the exchanged statements."
+8,2,1,1,"The buyer offered $16,000 and the seller expressly accepted that amount."
+8,2,2,1,"Both sides indicated they intended to proceed and the seller stated, 'We have a deal.'"
+8,2,3,1,"The essential terms are agreed: the car and the price of $16,000."
+8,2,4,,No facts indicate any mandatory legal formalities or whether they were satisfied.
+8,2,5,1,Nothing in the exchange suggests unfairness or bad faith in the agreed terms.
+8,2,6,1,The messages show a voluntary back-and-forth negotiation leading to acceptance.
+8,2,7,1,There is no indication that the agreement is merely sham or simulated.
+8,2,8,,"The transcript does not show any mistake, deceit, or threat affecting either party's consent."
+8,3,1,1,"Both parties clearly accepted the $16,000 price in this round."
+8,3,2,1,The messages show an intent to be legally bound by the stated deal and next steps.
+8,3,3,1,"The essential term, the car price, was agreed at $16,000."
+8,3,4,,No facts indicate whether any mandatory legal formalities are required or satisfied.
+8,3,5,1,The agreement appears ordinary and consistent with good faith and fair dealing.
+8,3,6,1,Both sides voluntarily confirmed the deal and proceeded without apparent coercion.
+8,3,7,1,There is no indication that the agreement is merely a sham transaction.
+8,3,8,1,"No error, deceit, or threat is apparent in the parties' declarations."
+9,1,1,0,"The parties have not reached mutual consent on the price, as the seller counteroffers $16,500 instead of accepting $15,500."
+9,1,2,0,There is no common intention yet to be legally bound because the negotiation is still ongoing and no acceptance occurred.
+9,1,3,0,The essential term of price remains unsettled since the buyer and seller are still apart on the amount.
+9,1,4,,No mandatory statutory issue is apparent from the limited negotiation details.
+9,1,5,1,Nothing in the exchange suggests an unlawful or bad-faith purpose or content.
+9,1,6,1,Both sides are negotiating voluntarily and appear to be acting freely.
+9,1,7,1,There is no indication that either statement is a sham transaction rather than a real negotiation.
+9,1,8,,"The transcript does not show any error, deceit, or threat affecting either declaration."
+9,2,1,1,"Both parties clearly expressed matching assent to the $16,000 price in this round."
+9,2,2,1,They indicated an intention to proceed and be bound if the car checks out in person.
+9,2,3,,The essential terms are only partly settled because the final in-person check remains a condition.
+9,2,4,,No mandatory formalities or statutory compliance issues are addressed in the transcript.
+9,2,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing.
+9,2,6,1,Both sides appear to negotiate freely and consciously without any sign of coercion.
+9,2,7,,"There is no indication that this is a sham transaction, but that cannot be confirmed from the dialogue alone."
+9,2,8,,"No mistake, deceit, or threat is evident, but the transcript does not allow a definitive finding."
+9,3,1,1,"Both parties clearly expressed assent to the $16,000 price in this round."
+9,3,2,1,"They showed an intention to be bound, subject only to the in-person check as a condition."
+9,3,3,1,"The essential term of price was agreed at $16,000, with the car identified in the prior context."
+9,3,4,,No facts indicate whether any mandatory legal formalities or statutory requirements are satisfied.
+9,3,5,1,Nothing in the exchange suggests bad faith or content contrary to social coexistence.
+9,3,6,1,The messages indicate a conscious and voluntary decision to proceed with the deal.
+9,3,7,1,There is no indication that the agreement is a sham or merely simulated.
+9,3,8,,"The transcript does not reveal any error, deceit, or threat affecting either party's declaration."
+10,1,1,0,"The parties have not reached mutual consent because the buyer offered $15,500 and the seller countered at $16,500."
+10,1,2,0,There is no common intention to be bound yet since both sides are still negotiating and neither accepted the other's terms.
+10,1,3,0,"The essential term of price is not agreed, so the contract subject matter is not fully settled."
+10,1,4,,No mandatory statutory issue is indicated in this negotiation round.
+10,1,5,1,The negotiation appears ordinary and consistent with good faith and fair dealing.
+10,1,6,1,Both parties are voluntarily negotiating and choosing terms freely.
+10,1,7,1,There is no indication that either statement is a sham transaction.
+10,1,8,1,"No error, deceit, or threat is apparent in the exchanged declarations."
+10,2,1,,"The latest messages show ongoing bargaining, but no clear mutual assent to the same price yet."
+10,2,2,,"Both sides express willingness to deal, but they have not shown a final intention to be legally bound on agreed terms."
+10,2,3,0,"The essential term of price is still unsettled, with buyer at $15,800 and seller at $16,200."
+10,2,4,,"Nothing in the round indicates a mandatory legal-form issue, so this cannot be assessed here."
+10,2,5,1,"The negotiation appears ordinary and in good faith, with no abusive or unlawful content apparent."
+10,2,6,1,Both parties are negotiating voluntarily and openly without signs of coercion.
+10,2,7,1,There is no indication that either side is pretending or simulating a contract.
+10,2,8,,"No error, deceit, or threat is evident from the latest exchange."
+10,3,1,0,"The seller made a counteroffer at $16,000, so there is no mutual assent on the price in this round."
+10,3,2,0,"The seller says 'If that works, we have a deal,' showing intent to be bound only if the buyer accepts, which has not yet happened."
+10,3,3,0,"The essential term of price is still not agreed because the buyer has not accepted the $16,000 offer."
+10,3,4,,No mandatory statutory issue is indicated in the negotiation transcript.
+10,3,5,1,The proposed sale of the car appears lawful and consistent with good faith based on the information given.
+10,3,6,1,Both parties are negotiating voluntarily and openly without any sign of coercion in this round.
+10,3,7,1,There is no indication that the negotiation is a sham or simulated transaction.
+10,3,8,,"The transcript shows no error, deceit, or threat, but this cannot be fully verified from the messages alone."
+10,4,1,1,"Both parties expressly accepted the $16,000 price in the last round."
+10,4,2,1,They clearly intended to conclude a binding sale if the car and records match the description.
+10,4,3,1,"The essential terms, especially the vehicle and price, were agreed in the last exchange."
+10,4,4,,No facts indicate whether any mandatory legal formalities are required or satisfied.
+10,4,5,1,The agreement appears ordinary and consistent with good faith and fair dealing.
+10,4,6,1,The parties negotiated voluntarily and explicitly chose to close the deal.
+10,4,7,1,Nothing in the transcript suggests the deal is a sham or simulated transaction.
+10,4,8,1,"There is no indication of error, deceit, or threat affecting either party's declaration."
+11,1,1,0,The parties have not yet reached mutual consent because the seller rejected the buyer’s offer and made a counteroffer.
+11,1,2,0,"There is no common intention to be bound yet, as both sides are still negotiating price rather than concluding a contract."
+11,1,3,0,"The essential term of price is not agreed, since the buyer offered $15,500 and the seller countered with $16,500."
+11,1,4,,No mandatory statutory compliance issues are discussed in this negotiation round.
+11,1,5,1,Nothing in the exchange suggests bad faith or an unlawful purpose.
+11,1,6,1,Both parties appear to be negotiating voluntarily and consciously.
+11,1,7,1,There is no indication that either side is engaging in a sham transaction.
+11,1,8,,"No error, deceit, or threat is evident from the messages provided."
+11,2,1,1,"Both parties clearly expressed matching assent to the $16,000 price in the last round."
+11,2,2,1,"The seller explicitly stated that at $16,000 'we have a deal,' showing intent to be legally bound."
+11,2,3,1,"The essential terms identified in this negotiation, especially the car and price, are agreed upon."
+11,2,4,,No facts indicate any mandatory legal formalities or whether they have been satisfied.
+11,2,5,1,The agreed terms appear ordinary and consistent with good faith and fair dealing.
+11,2,6,1,Nothing in the last round suggests coercion or lack of free and conscious decision-making.
+11,2,7,1,"The exchange appears to be a genuine price agreement, not a sham transaction."
+11,2,8,,"There is no indication of mistake, deceit, or threat, but none can be ruled out from the transcript alone."
+11,3,1,1,"Both parties clearly expressed assent to the $16,000 sale in the last round."
+11,3,2,1,"They stated they are ready to proceed and finalize the purchase, showing intent to be bound."
+11,3,3,1,"The essential terms are agreed: the car, price, and sale are identified."
+11,3,4,,No information is given about any mandatory formalities or statutory requirements.
+11,3,5,1,Nothing in the last round suggests unfairness or conflict with good faith and fair dealing.
+11,3,6,1,The messages indicate a conscious and voluntary agreement by both sides.
+11,3,7,1,There is no indication that the agreement is a sham or merely simulated.
+11,3,8,,"The transcript does not reveal any error, deceit, or threat affecting either declaration."
+12,1,1,0,The parties have not reached mutual assent because the buyer and seller are still exchanging offers.
+12,1,2,0,"There is no common intention yet to conclude a binding contract, only preliminary bargaining."
+12,1,3,0,"The essential term of price remains unsettled, so no agreement on all main terms exists."
+12,1,4,,No facts indicate whether any mandatory legal formalities apply or are satisfied.
+12,1,5,1,The negotiation concerns a lawful car sale and nothing suggests bad faith or unfair purpose.
+12,1,6,1,Both sides are voluntarily negotiating and choosing terms without any sign of coercion.
+12,1,7,,"There is no indication of a sham transaction, but the parties have not yet formed a contract."
+12,1,8,,"No error, deceit, or threat is apparent from the messages, but this cannot be fully determined."
+12,2,1,1,"The buyer’s $16,000 offer and the seller’s acceptance show mutual consent in this round."
+12,2,2,1,Both sides clearly intend to conclude the sale and be bound by the agreed price.
+12,2,3,1,"The essential term of price is agreed at $16,000 for the identified car."
+12,2,4,,The transcript does not provide enough information to assess compliance with mandatory legal requirements.
+12,2,5,1,Nothing in the exchange suggests unfairness or inconsistency with good faith and fair dealing.
+12,2,6,1,"The messages indicate a voluntary, conscious negotiation and acceptance by both parties."
+12,2,7,1,There is no indication that the agreement is a sham or merely simulated.
+12,2,8,,"The transcript does not show any error, deceit, or threat affecting either declaration of will."
+12,3,1,1,"Both parties expressly agreed to the $16,000 price in this round."
+12,3,2,1,The messages show a clear intent to be bound and to finalize the sale.
+12,3,3,1,"The essential term, the car and its price, is agreed upon."
+12,3,4,,No information is provided about any mandatory formalities or statutory requirements.
+12,3,5,1,The agreement appears ordinary and consistent with good faith and fair dealing.
+12,3,6,1,Both sides state they are agreeing freely and want to proceed.
+12,3,7,1,There is no indication that the deal is merely a sham transaction.
+12,3,8,,"The transcript does not show any error, deceit, or threat affecting either declaration."
+13,1,1,0,The parties have not yet reached mutual consent on a final price.
+13,1,2,0,Neither side has expressed a common intention to be legally bound by a concluded sale.
+13,1,3,0,"The essential term of price remains unsettled between $15,000 and $16,500."
+13,1,4,,No mandatory legal formalities are discussed in the negotiation.
+13,1,5,1,The negotiation concerns a lawful car sale and shows no sign of bad faith or unfair purpose.
+13,1,6,1,Both sides are negotiating voluntarily and without any apparent coercion.
+13,1,7,,There is no indication that the discussion is a sham transaction.
+13,1,8,,"No error, deceit, or threat is evident from the messages provided."
+13,2,1,0,"The parties have not reached mutual assent on the price, as the seller countered at $16,000 and the buyer has not accepted."
+13,2,2,0,There is no common intention yet to be legally bound because negotiations are still ongoing and no final acceptance occurred.
+13,2,3,0,"The essential term of price remains unsettled, so the contract is not yet complete."
+13,2,4,,"No mandatory statutory formalities are indicated in the transcript, so compliance cannot be assessed."
+13,2,5,1,The negotiation concerns a lawful car sale and nothing suggests bad faith or socially unacceptable content.
+13,2,6,1,Both sides appear to be negotiating voluntarily and consciously without any sign of coercion.
+13,2,7,1,There is no indication that either party is simulating a sham transaction.
+13,2,8,,"The transcript shows no error, deceit, or threat, but such defects cannot be fully ruled out from the dialogue alone."
+13,3,1,1,"Both parties clearly expressed assent to the $16,000 price in this round."
+13,3,2,1,The buyer and seller showed an intention to be legally bound by stating they have a deal and will finalize the sale.
+13,3,3,1,"The essential terms are sufficiently agreed: the car and the price of $16,000 are identified."
+13,3,4,,No information is provided about any mandatory legal formalities or statutory requirements.
+13,3,5,1,The agreement concerns a normal car sale and shows no sign of violating good faith or fair dealing.
+13,3,6,1,Both sides appear to have freely and consciously accepted the final price.
+13,3,7,1,Nothing in the exchange suggests the deal is merely sham or simulated.
+13,3,8,,"There is no indication of mistake, deceit, or threat, but none can be conclusively ruled out from the transcript."
+14,1,1,0,The parties have not reached mutual assent because the seller counteroffered instead of accepting the buyer's price.
+14,1,2,0,"There is no common intention to be bound yet, as both sides are still negotiating the price."
+14,1,3,0,"The essential term of price is not agreed, since the buyer offered $15,500 and the seller demanded $16,800."
+14,1,4,,No mandatory legal-form or statutory compliance issues are indicated in the negotiation.
+14,1,5,1,The negotiation appears ordinary and consistent with good faith and fair dealing.
+14,1,6,1,Both parties are negotiating voluntarily and consciously.
+14,1,7,1,There is no indication that either side is making a sham transaction.
+14,1,8,1,"No error, deceit, or threat affecting either declaration is apparent in this round."
+14,2,1,0,"The parties have not reached mutual consent because the latest offers still differ ($16,200 vs $16,500)."
+14,2,2,0,"There is no common intention yet to be bound, as both sides are still negotiating the price rather than accepting it."
+14,2,3,0,"The essential term of price is not agreed in the latest round, so the contract is not yet formed."
+14,2,4,1,Nothing in the exchange suggests any violation of mandatory statutory provisions.
+14,2,5,1,The negotiation appears lawful and consistent with good faith and fair dealing.
+14,2,6,1,Both parties are bargaining voluntarily and without any sign of coercion or lack of freedom.
+14,2,7,1,There is no indication that the negotiation is a sham or simulated act.
+14,2,8,1,"No error, deceit, or threat is evident in the parties' declarations of will."
+14,3,1,1,"Both parties expressly accepted the $16,500 price in the last round."
+14,3,2,1,The buyer and seller both stated they have a deal and intend to be bound.
+14,3,3,1,"The essential terms identified in this round are the car and the agreed price, which are sufficiently fixed."
+14,3,4,,No facts in the round indicate any mandatory legal formalities or their compliance.
+14,3,5,1,The agreement concerns a lawful car sale and shows no sign of unfair or bad-faith content.
+14,3,6,1,Both sides appear to have agreed voluntarily and consciously without pressure.
+14,3,7,1,Nothing in the exchange suggests the deal is merely simulated or sham.
+14,3,8,1,"There is no indication of mistake, deceit, or threat affecting either declaration."
+15,1,1,0,"The parties have not reached mutual consent on the price, as the seller rejected the buyer’s offer and made a counteroffer."
+15,1,2,0,"There is no common intention yet to be bound by a contract, only ongoing negotiations."
+15,1,3,0,The essential term of price is still unsettled because the buyer and seller have different offers.
+15,1,4,,No mandatory statutory issue is indicated in the negotiation transcript.
+15,1,5,,Nothing in the exchange suggests a violation of good faith or social coexistence.
+15,1,6,1,Both sides are negotiating voluntarily and consciously without any sign of coercion.
+15,1,7,,There is no indication that the negotiation is a sham transaction.
+15,1,8,,"No error, deceit, or threat affecting either declaration is apparent from the transcript."
+15,2,1,0,"The last messages show only counteroffers, not mutual assent to the same price."
+15,2,2,0,Both sides are still negotiating and have not expressed a binding intention to conclude the sale yet.
+15,2,3,0,"The essential term of price remains unsettled because buyer offered $16,000 and seller countered $16,400."
+15,2,4,,No information is provided about any mandatory formalities or statutory requirements for this sale.
+15,2,5,1,The negotiation concerns a lawful car sale on ordinary terms and shows no sign of bad faith or unfair purpose.
+15,2,6,1,Both parties appear to be negotiating voluntarily and without any indication of coercion.
+15,2,7,1,There is no indication that either side is pretending or using the negotiation as a sham.
+15,2,8,,"The transcript does not reveal any mistake, fraud, or threat affecting either declaration."
+15,3,1,1,"Both parties clearly expressed matching assent to the $16,200 price in this round."
+15,3,2,1,"The seller stated that if the buyer is ready at $16,200, they have a deal, showing intent to be bound."
+15,3,3,1,"The essential terms are sufficiently agreed: the specific car and the final price of $16,200."
+15,3,4,,No facts indicate any mandatory legal formalities or statutory compliance issues in this round.
+15,3,5,1,The negotiated sale appears ordinary and consistent with good faith and fair dealing.
+15,3,6,1,"The messages show a voluntary, conscious negotiation without any sign of coercion."
+15,3,7,1,There is no indication that the agreement is merely sham or simulated.
+15,3,8,1,"No error, deceit, or threat is apparent in the parties' declarations in this round."
+15,4,1,1,"Both parties expressly agreed to the $16,200 price in the last round."
+15,4,2,1,The buyer and seller both stated they are ready to proceed and close the deal.
+15,4,3,1,"The essential terms identified in the negotiation, especially the car and price, are agreed."
+15,4,4,,No information is provided about any mandatory legal formalities or statutory requirements.
+15,4,5,1,The agreed sale of a car at an arm's-length price is not contrary to good faith or fair dealing.
+15,4,6,1,Both sides consciously and freely confirmed they wanted to proceed with the transaction.
+15,4,7,1,Nothing in the round suggests the agreement is a sham or simulated act.
+15,4,8,1,"There is no indication of error, deceit, or threat affecting either party's declaration of will."
+16,1,1,0,"The parties have not reached mutual consent on the price, as the buyer offered $15,500 and the seller countered with $15,800."
+16,1,2,0,There is no common intention yet to be bound because both sides are still negotiating and neither marked agreement.
+16,1,3,0,"The essential term of price remains unsettled, so the contract subject matter is not fully agreed."
+16,1,4,,No mandatory statutory issue is indicated in the negotiation transcript.
+16,1,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing.
+16,1,6,1,Both parties are negotiating voluntarily and consciously without any sign of coercion.
+16,1,7,,"Nothing in the transcript indicates a sham transaction, but this cannot be confirmed yet."
+16,1,8,,"There is no evidence of error, deceit, or threat affecting either declaration in this round."
+16,2,1,0,"The latest messages show no mutual assent because the seller countered at $15,500 and the buyer has not accepted that term."
+16,2,2,0,There is no common intention to be legally bound yet since the parties are still negotiating the price.
+16,2,3,0,"The essential term of price is not agreed, as the buyer offers $15,000 while the seller insists on $15,500."
+16,2,4,,No mandatory statutory issue is indicated in the negotiation transcript.
+16,2,5,1,Nothing in the exchange suggests bad faith or content contrary to social coexistence.
+16,2,6,1,Both parties appear to be negotiating consciously and voluntarily.
+16,2,7,1,"The exchange appears to be a genuine negotiation, not a sham transaction."
+16,2,8,,"There is no indication of mistake, deceit, or threat in the latest round."
+16,3,1,0,The parties have not yet reached matching declarations of assent on the same price.
+16,3,2,0,"The seller says they can finalize if the buyer accepts $15,400, so binding mutual intent is not yet established."
+16,3,3,0,"The essential term of price is still unsettled because the buyer has not accepted $15,400."
+16,3,4,,"No facts indicate any mandatory statutory issue, but compliance cannot be verified from the transcript."
+16,3,5,1,The negotiation concerns a lawful car sale and nothing suggests bad faith or unfair content.
+16,3,6,1,Both sides are bargaining openly and appear to be acting voluntarily.
+16,3,7,1,There is no indication that the negotiation is a sham or merely simulated.
+16,3,8,1,"No error, deceit, or threat is apparent in the parties' declarations."
+16,4,1,1,"Both parties expressly accepted the $15,400 price in the last round."
+16,4,2,1,They stated they have an agreement and will proceed to finalize the sale.
+16,4,3,1,The essential terms are identified: the specific car and the agreed price.
+16,4,4,,No facts indicate whether any mandatory legal formalities are required or satisfied.
+16,4,5,1,The deal appears ordinary and consistent with good faith and fair dealing.
+16,4,6,1,Both sides clearly and voluntarily chose to finalize the transaction.
+16,4,7,1,Nothing in the exchange suggests the agreement is a sham.
+16,4,8,,"There is no indication of mistake, deceit, or coercion, but none can be fully ruled out from the transcript."
+17,1,1,0,The parties have not reached mutual consent because the buyer made an offer and the seller only countered.
+17,1,2,0,"There is no common intention yet to be bound by a contract, only preliminary price negotiation."
+17,1,3,0,The essential term of price is still unsettled since the seller has not accepted the buyer's offer.
+17,1,4,,No mandatory legal formalities are discussed in this negotiation round.
+17,1,5,1,Nothing in the exchange suggests an unlawful or bad-faith purpose.
+17,1,6,1,Both sides appear to be negotiating voluntarily and consciously.
+17,1,7,1,There is no indication that either statement is a sham transaction.
+17,1,8,,"No error, deceit, or threat is apparent from the messages provided."
+17,2,1,0,The parties have not reached matching declarations of assent on the price in this round.
+17,2,2,0,"The seller says it is ready to proceed only if the price works, so a binding common intention is not yet established."
+17,2,3,0,"The essential term of price remains unsettled because the buyer offered $15,500 and the seller countered $15,800."
+17,2,4,,No mandatory statutory issue is indicated in the negotiation transcript.
+17,2,5,1,Nothing in the exchange suggests bad faith or content contrary to social coexistence.
+17,2,6,1,Both sides are negotiating voluntarily and consciously without any sign of coercion.
+17,2,7,,"There is no indication that the exchange is a sham transaction, but this cannot be confirmed yet."
+17,2,8,,"The transcript shows no error, deceit, or threat, but defects of will cannot be fully assessed from this round."
+17,3,1,1,"Both parties clearly expressed matching assent to the $15,500 price in the last round."
+17,3,2,1,The seller stated readiness to close the deal and both sides showed intent to be legally bound.
+17,3,3,1,"The essential terms are sufficiently agreed: the specific car and the final price of $15,500."
+17,3,4,,The transcript does not provide enough information about any mandatory legal formalities or statutory compliance.
+17,3,5,1,Nothing in the last round suggests unfairness or inconsistency with good faith and fair dealing.
+17,3,6,1,Both parties appear to have consciously and freely agreed to the deal without pressure.
+17,3,7,1,There is no indication that the agreement is merely sham or simulated.
+17,3,8,,"No facts indicate mistake, deceit, or threat, but none can be conclusively ruled out from the transcript."
+17,4,1,1,"Both parties clearly expressed assent to the $15,500 deal in the last round."
+17,4,2,1,"They showed an intention to be legally bound by proceeding with paperwork, payment, and handover."
+17,4,3,1,"The essential terms, especially the car and price, were agreed in the last round."
+17,4,4,,No facts indicate any mandatory legal formalities or whether they are satisfied.
+17,4,5,1,The agreed sale appears ordinary and consistent with good faith and fair dealing.
+17,4,6,1,Both sides appear to have freely chosen to conclude the deal without coercion.
+17,4,7,1,Nothing in the transcript suggests the agreement is a sham transaction.
+17,4,8,1,"There is no indication of error, deceit, or threat affecting either party's consent."
+18,1,1,0,The parties exchanged offers but did not yet express mutual assent to the same terms.
+18,1,2,0,They are still negotiating price and have not shown a common intention to be bound.
+18,1,3,0,"Price is not agreed, so the essential terms are not fully settled."
+18,1,4,,No facts indicate compliance or noncompliance with any mandatory statutory requirements.
+18,1,5,1,The negotiation concerns a lawful car sale and shows no sign of bad faith or unfair purpose.
+18,1,6,1,Both sides appear to be negotiating voluntarily and consciously.
+18,1,7,1,There is no indication that either side is pretending or making a sham declaration.
+18,1,8,,"No error, deceit, or threat is indicated in the exchange."
+18,2,1,0,The latest buyer and seller messages do not show mutual assent to the same price.
+18,2,2,0,Both sides are still negotiating and have not expressed a common intention to be bound yet.
+18,2,3,0,"The essential term of price remains unsettled, with buyer at $14,500 and seller at $15,500."
+18,2,4,1,Nothing in the round suggests any mandatory legal rule is being breached.
+18,2,5,1,The negotiation content appears lawful and consistent with good faith bargaining.
+18,2,6,1,Both parties are freely negotiating and choosing whether to proceed.
+18,2,7,1,There is no indication that the exchange is a sham transaction.
+18,2,8,1,"No error, deceit, or threat is indicated in the latest round."
+18,3,1,1,"Both parties clearly expressed matching assent to the $15,000 price in the last round."
+18,3,2,1,"The seller stated they have an agreement at $15,000, showing intent to be legally bound."
+18,3,3,1,"The essential terms are sufficiently identified: the car and the agreed price of $15,000."
+18,3,4,,No facts indicate whether any mandatory legal formalities or statutory requirements are satisfied.
+18,3,5,1,Nothing in the exchange suggests an unlawful or bad-faith purpose or content.
+18,3,6,1,The messages indicate both sides voluntarily and consciously agreed to proceed.
+18,3,7,1,There is no indication that the deal is merely simulated or sham.
+18,3,8,,"The transcript does not show any error, deceit, or threat affecting either party's declaration."
+18,4,1,1,"Both parties expressly agreed to the $15,000 price in the last round."
+18,4,2,1,"The buyer and seller both stated they are ready to proceed with the sale, showing intent to be bound."
+18,4,3,1,"The essential term, the vehicle price, was clearly fixed at $15,000."
+18,4,4,,No facts indicate any mandatory legal formalities or statutory compliance issues.
+18,4,5,1,The deal concerns a lawful car sale and nothing in the round suggests bad faith or unfair purpose.
+18,4,6,1,Both sides appear to have agreed voluntarily and without any sign of coercion.
+18,4,7,1,The exchange shows a genuine agreement rather than a sham transaction.
+18,4,8,,"There is no indication of mistake, fraud, or threat, but none can be fully ruled out from the transcript."
+19,1,1,0,"The parties have exchanged offers, but there is no mutual assent to the same price yet."
+19,1,2,0,They have not shown a common intention to be bound because negotiations are still ongoing.
+19,1,3,0,"The essential term of price is not agreed, so the contract is not yet formed."
+19,1,4,,No mandatory statutory issue is indicated in the negotiation transcript.
+19,1,5,1,The discussion is ordinary and appears consistent with good faith and fair dealing.
+19,1,6,1,Both sides are negotiating voluntarily and freely without any sign of coercion.
+19,1,7,1,There is no indication that either side is making a sham or simulated declaration.
+19,1,8,1,"No error, deceit, or threat is apparent in the parties' statements."
+19,2,1,0,"The parties have not reached mutual consent on the price, as the buyer offered $15,500 and the seller countered with $16,000."
+19,2,2,0,"There is no common intention yet to be bound, because the seller’s last message is still a negotiation proposal rather than acceptance."
+19,2,3,0,The essential term of price remains unsettled in this round.
+19,2,4,,No mandatory statutory issue is indicated by the negotiation text.
+19,2,5,1,The negotiation appears ordinary and consistent with good faith and fair dealing.
+19,2,6,1,Both sides are negotiating voluntarily and without any sign of coercion.
+19,2,7,1,Nothing suggests the exchange is a sham transaction.
+19,2,8,1,"No error, deceit, or threat is apparent in the parties’ declarations."
+19,3,1,1,"Both parties clearly expressed matching assent to the $15,750 price in the last round."
+19,3,2,1,"The seller explicitly said they accept and that they have a deal, showing intent to be bound."
+19,3,3,1,"The essential terms are sufficiently agreed: the identified 2019 Toyota Yaris and the price of $15,750."
+19,3,4,,The transcript does not provide enough information to assess compliance with mandatory legal formalities.
+19,3,5,1,"Nothing in the last round suggests unfairness, bad faith, or a socially improper purpose."
+19,3,6,1,The parties appear to have negotiated voluntarily and then consciously agreed on the price.
+19,3,7,1,There is no indication that the agreement is merely sham or simulated.
+19,3,8,,"No facts indicate mistake, deceit, or threat, but the transcript is insufficient to rule them out conclusively."
+19,4,1,1,"Both parties clearly expressed matching assent to the $15,750 sale in the last round."
+19,4,2,1,"They intended to be bound, as both said they have a deal and will proceed with next steps."
+19,4,3,1,"The essential terms are agreed: the specific car and the price of $15,750."
+19,4,4,,No information is given about any mandatory legal formalities or statutory requirements.
+19,4,5,1,"The agreement appears ordinary and lawful, with no indication of bad faith or unfair purpose."
+19,4,6,1,Both sides consciously and voluntarily confirmed the purchase without any sign of coercion.
+19,4,7,1,Nothing in the transcript suggests the deal is a sham or merely simulated.
+19,4,8,,"There is no evidence of mistake, fraud, or threat, but none can be fully ruled out from the transcript."
+20,1,1,,"The parties have exchanged offers, but there is no mutual assent to the same price yet."
+20,1,2,,"The seller indicates readiness to move forward, but the buyer has not accepted the counteroffer."
+20,1,3,,"The main subject matter is identified as a 2019 Toyota Yaris, but the final agreed price is still unsettled."
+20,1,4,,No mandatory-form or statutory compliance issues are apparent from the negotiation alone.
+20,1,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing.
+20,1,6,1,Both sides are negotiating voluntarily and consciously.
+20,1,7,,"There is no indication of a sham transaction, but that cannot be confirmed yet."
+20,1,8,,"No error, deceit, or threat is evident from the messages, but this cannot be fully determined."
+20,2,1,0,The parties have not yet reached mutual consent because the buyer has not accepted the seller’s latest counteroffer.
+20,2,2,0,"There is no common intention to be legally bound yet, as the seller conditions a deal on further acceptance."
+20,2,3,0,"The essential term of price is still unsettled because the buyer has not agreed to $16,250."
+20,2,4,,No mandatory statutory issue is indicated in the negotiation text.
+20,2,5,1,The proposed sale appears lawful and consistent with good faith based on the information exchanged.
+20,2,6,1,Both sides are negotiating voluntarily and consciously without any sign of coercion.
+20,2,7,1,Nothing in the exchange suggests a sham or simulated transaction.
+20,2,8,,"There is no indication of error, deceit, or threat, but this cannot be fully verified from the text."
+20,3,1,1,"Both parties clearly expressed matching assent to the $16,250 price in this round."
+20,3,2,1,"The buyer and seller both stated they have a deal and are ready to proceed, showing intent to be bound."
+20,3,3,1,"The essential term, the vehicle price, was agreed at $16,250."
+20,3,4,,No information is provided about any mandatory legal formalities or statutory requirements.
+20,3,5,1,Nothing in the exchange suggests an unlawful or bad-faith purpose or content.
+20,3,6,1,The messages indicate both sides consciously and freely accepted the final terms.
+20,3,7,1,The negotiation appears genuine and not a sham transaction.
+20,3,8,,"There is no indication of mistake, deceit, or threat, but none can be definitively ruled out from the transcript alone."
+21,1,1,0,The parties have not reached mutual assent because the seller rejected the buyer’s offer and made a counteroffer.
+21,1,2,0,"There is no common intention to be bound yet, only ongoing price negotiation."
+21,1,3,0,The essential term of price is still unsettled since the buyer and seller differ on the amount.
+21,1,4,,No facts indicate any mandatory legal-form or statutory issue at this stage.
+21,1,5,1,The negotiation appears ordinary and consistent with good faith and fair dealing.
+21,1,6,1,Both parties are negotiating voluntarily and consciously.
+21,1,7,1,There is no indication that the exchange is a sham transaction.
+21,1,8,1,"No error, deceit, or threat is apparent in the parties’ declarations."
+21,2,1,0,"The last messages show counteroffers only, not mutual assent to the same price."
+21,2,2,0,Both sides indicate willingness to continue negotiating rather than a final binding commitment.
+21,2,3,0,The essential term of price is still unsettled because the buyer and seller propose different amounts.
+21,2,4,,No mandatory formalities or statutory requirements are discussed in the transcript.
+21,2,5,1,The negotiation concerns a lawful car sale and shows no sign of bad faith or unfair purpose.
+21,2,6,1,Both parties appear to negotiate consciously and voluntarily without coercion.
+21,2,7,1,There is no indication that the exchange is a sham transaction.
+21,2,8,1,"No error, deceit, or threat is apparent in the parties' declarations."
+21,3,1,1,"Both parties clearly expressed assent to the $16,500 price in the last round."
+21,3,2,1,The buyer and seller both stated they have a deal and intend to proceed with the sale.
+21,3,3,1,"The essential term, the car and the final price of $16,500, is agreed."
+21,3,4,,No facts indicate any mandatory legal formalities or whether they have been completed.
+21,3,5,1,The agreed sale appears ordinary and consistent with good faith and fair dealing.
+21,3,6,1,The last messages show a conscious and voluntary decision by both parties to conclude the deal.
+21,3,7,1,Nothing in the transcript suggests the agreement is a sham or merely simulated.
+21,3,8,1,"There is no indication of mistake, deceit, or threat affecting either party's consent."
+22,1,1,0,"The parties have not reached mutual assent because the buyer offered $15,500 and the seller countered at $16,500 with no acceptance."
+22,1,2,0,"There is no common intention yet to conclude a binding contract, only ongoing price negotiation."
+22,1,3,0,The essential term of price is still unsettled since the offers do not match.
+22,1,4,,No mandatory legal-form or statutory compliance issues are indicated in the transcript.
+22,1,5,1,Nothing in the exchange suggests an unlawful or bad-faith purpose or content.
+22,1,6,1,Both sides appear to be negotiating voluntarily and consciously.
+22,1,7,1,There is no indication that either statement is a sham transaction.
+22,1,8,1,"No error, deceit, or threat is apparent in the parties' declarations."
+22,2,1,0,"The seller proposed $15,000, but the buyer did not clearly accept that exact offer in this round."
+22,2,2,0,There is no mutual intention yet because the buyer only stated a conditional willingness to proceed.
+22,2,3,0,The essential term of price is still not agreed upon by both sides in this round.
+22,2,4,,"No mandatory legal formalities are discussed, so compliance cannot be assessed."
+22,2,5,1,The negotiation concerns a lawful car sale and nothing suggests bad faith or unfair content.
+22,2,6,1,Both parties appear to be negotiating voluntarily and without coercion.
+22,2,7,1,"The exchange is an open negotiation, not a sham transaction."
+22,2,8,1,"No error, deceit, or threat is indicated in the latest round."
+22,3,1,1,"Both parties clearly accepted the $15,000 price in this round."
+22,3,2,1,The buyer and seller both expressed an intention to be legally bound by the deal.
+22,3,3,1,The essential terms are identified: the car model/year and the agreed price.
+22,3,4,,No information is provided about any mandatory legal formalities or statutory compliance.
+22,3,5,1,Nothing in the exchange suggests an unfair or bad-faith purpose or content.
+22,3,6,1,The messages show a conscious and voluntary decision to conclude the sale.
+22,3,7,1,There is no indication that the agreement is a sham transaction.
+22,3,8,,"The transcript does not reveal any mistake, fraud, or coercion affecting either declaration."
+23,1,1,0,The parties have not yet reached mutual assent on a single price.
+23,1,2,0,Neither side has expressed a final intention to be legally bound on agreed terms.
+23,1,3,0,"The essential term of price remains unsettled between $15,000 and $16,500."
+23,1,4,,No mandatory formalities are discussed in the negotiation.
+23,1,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing.
+23,1,6,1,Both sides are negotiating voluntarily and consciously.
+23,1,7,,There is no indication that the deal is a sham transaction.
+23,1,8,,"No error, deceit, or threat is evident from the exchange."
+23,2,1,0,"The latest messages show an offer and counteroffer, but no mutual assent on the same price."
+23,2,2,0,"The seller says they are ready to move forward at $15,800, but the buyer has not accepted that term."
+23,2,3,0,"The essential term of price is still unsettled because the parties are at $15,500 and $15,800."
+23,2,4,,No information is provided about any mandatory legal formalities or statutory requirements.
+23,2,5,1,The negotiation concerns a normal car sale and nothing suggests bad faith or socially unacceptable content.
+23,2,6,1,Both sides appear to be negotiating voluntarily and consciously without any sign of coercion.
+23,2,7,,"There is no indication that the deal is a sham, but the parties have not actually concluded it yet."
+23,2,8,,"No error, deceit, or threat is evident from the latest exchange."
+23,3,1,1,"Both parties clearly expressed assent to the $15,800 price in this round."
+23,3,2,1,They showed an intention to be bound by stating they have a deal and will finalize details.
+23,3,3,1,"The essential terms identified here are the car and the agreed price of $15,800."
+23,3,4,,No information is provided about any mandatory legal formalities or statutory requirements.
+23,3,5,1,The agreement appears ordinary and consistent with good faith and fair dealing.
+23,3,6,1,Both sides appear to have decided freely and consciously to conclude the deal.
+23,3,7,1,Nothing in the exchange suggests the deal is a sham or simulated transaction.
+23,3,8,,"There is no evidence in the transcript of mistake, deceit, or threat affecting consent."
+24,1,1,0,The parties have not reached mutual consent because the seller only counteroffered and the buyer has not accepted.
+24,1,2,0,There is no common intention yet to be legally bound by a final contract.
+24,1,3,0,"The essential term of price remains unsettled, so no agreement on all main terms exists."
+24,1,4,,No facts indicate whether any mandatory legal formalities apply or are satisfied.
+24,1,5,1,The negotiation appears ordinary and consistent with good faith and fair dealing.
+24,1,6,1,Both sides are negotiating voluntarily and appear to be acting freely.
+24,1,7,1,There is no indication that either party is making a sham declaration.
+24,1,8,1,"No error, deceit, or threat is apparent in the exchanged statements."
+24,2,1,1,"Both parties clearly expressed matching assent to the $15,500 price in the last round."
+24,2,2,1,"The seller explicitly said they have a deal, showing intent to be legally bound."
+24,2,3,1,"The essential term of price was agreed at $15,500, and the car was already identified in the negotiation."
+24,2,4,,No facts indicate any mandatory legal formalities or whether they were complied with.
+24,2,5,1,The agreed sale terms appear ordinary and consistent with good faith and fair dealing.
+24,2,6,1,Both sides negotiated openly and voluntarily without any sign of coercion.
+24,2,7,1,Nothing in the exchange suggests the deal is a sham or simulated transaction.
+24,2,8,,"There is no indication of mistake, fraud, or threat, but none can be definitively ruled out from the transcript."
+24,3,1,1,"Both parties clearly expressed assent to the $15,500 deal in this round."
+24,3,2,1,"They stated they have a deal and intend to proceed, showing intent to be bound."
+24,3,3,1,"The essential term, the price of $15,500 for the car, was agreed upon."
+24,3,4,,No information is provided about any mandatory legal formalities or statutory compliance.
+24,3,5,1,The agreement concerns a normal car sale and shows no sign of bad faith or unfair purpose.
+24,3,6,1,Both sides appear to have agreed voluntarily and without any indication of coercion.
+24,3,7,1,There is no indication that the deal is a sham rather than a genuine sale agreement.
+24,3,8,,"The transcript does not reveal any mistake, fraud, or threat affecting either declaration."
+25,1,1,0,"The parties have not reached mutual consent because the buyer offered $15,000 and the seller countered at $16,500."
+25,1,2,0,"There is no common intention to be bound yet, as both sides are still negotiating price and have not accepted terms."
+25,1,3,0,"The essential term of price is not agreed, since the buyer and seller remain apart on the amount."
+25,1,4,1,Nothing in the exchange suggests a violation of mandatory legal provisions.
+25,1,5,1,The negotiation appears lawful and consistent with good faith and fair dealing.
+25,1,6,1,Both parties are voluntarily negotiating and choosing terms without any sign of coercion.
+25,1,7,1,"This is a genuine negotiation, not a sham transaction."
+25,1,8,1,"No error, deceit, or threat is indicated in either declaration."
+25,2,1,0,"The last messages show counteroffers, not matching declarations of assent."
+25,2,2,0,Both parties are still negotiating and have not shown a common intention to be bound yet.
+25,2,3,0,"The essential term, the final price, is not agreed because the seller proposes $16,000 and the buyer has not accepted."
+25,2,4,,No facts indicate whether any mandatory legal requirements are met or breached.
+25,2,5,1,The negotiation concerns a lawful car sale and nothing suggests bad faith or socially improper content.
+25,2,6,1,Both sides are bargaining voluntarily and there is no sign of coercion or lack of free decision.
+25,2,7,,"There is no indication that the deal is a sham, but the parties have not yet concluded one."
+25,2,8,,"No error, deceit, or threat is evident from the last round."
+25,3,1,1,"Both parties expressly accepted $16,000 in the last round."
+25,3,2,1,"They showed a clear intention to be bound by a deal, subject only to inspection."
+25,3,3,1,"The essential terms are identified: the car and the price of $16,000."
+25,3,4,,No information is given about any mandatory legal formalities or statutory requirements.
+25,3,5,1,The agreement appears ordinary and consistent with good faith and fair dealing.
+25,3,6,1,"The messages indicate voluntary, conscious acceptance without any sign of coercion."
+25,3,7,,"There is no indication that the deal is sham, but the transcript does not fully exclude that possibility."
+25,3,8,,"No facts suggest error, deceit, or threat, but none can be definitively ruled out from the transcript."
+26,1,1,0,"The parties have exchanged offers, but they have not yet reached mutual consent on the price."
+26,1,2,0,"Both sides indicate willingness to proceed, but no final commitment to be legally bound is expressed."
+26,1,3,0,"The essential term of price remains unsettled between $15,500 and $16,500."
+26,1,4,,No facts indicate whether any mandatory legal formalities are required or satisfied.
+26,1,5,1,The negotiation appears ordinary and consistent with good faith and fair dealing.
+26,1,6,1,Both parties are negotiating voluntarily and without any sign of coercion.
+26,1,7,1,There is no indication that either side is pretending or making a sham declaration.
+26,1,8,,"No error, deceit, or threat is evident from the messages, but this cannot be fully determined."
+26,2,1,0,"The parties have not yet reached mutual consent on the same price, as the seller countered at $16,250."
+26,2,2,0,"They express willingness to proceed, but no final common intention to be legally bound on agreed terms is yet shown."
+26,2,3,0,"The essential term of price remains unsettled because the buyer offered $16,000 and the seller demanded $16,250."
+26,2,4,,No mandatory statutory compliance issues are discussed in the negotiation.
+26,2,5,1,The proposed sale of a used car appears lawful and consistent with good faith on the face of the exchange.
+26,2,6,1,Both sides are negotiating voluntarily and indicate readiness to proceed quickly.
+26,2,7,1,There is no indication that either side is pretending or making a sham declaration.
+26,2,8,,"No error, deceit, or threat is evident from the last round."
+26,3,1,1,"Both parties clearly expressed matching assent to the $16,250 price in the last round."
+26,3,2,1,The buyer and seller both stated they have a deal and intend to move forward with final steps.
+26,3,3,1,"The essential terms are agreed: the car is identified as the 2019 Toyota Yaris and the price is fixed at $16,250."
+26,3,4,,The transcript does not show any mandatory legal formalities or statutory compliance issues.
+26,3,5,1,Nothing in the last round suggests unfairness or a violation of good faith and fair dealing.
+26,3,6,1,Both sides appear to have freely and consciously agreed to proceed at the stated price.
+26,3,7,1,There is no indication that the agreement is a sham or merely simulated.
+26,3,8,1,"No error, deceit, or threat is apparent in the parties' declarations in this round."
+27,1,1,0,The parties have not reached mutual consent on a final price or binding agreement.
+27,1,2,0,They are still negotiating and have not shown a common intention to be legally bound yet.
+27,1,3,0,"The essential term of price remains unsettled, with buyer at $15,500 and seller at $16,500."
+27,1,4,,No mandatory legal formalities are discussed in this negotiation round.
+27,1,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing.
+27,1,6,1,Both sides are negotiating voluntarily and without any sign of coercion.
+27,1,7,1,There is no indication that either side is pretending or making a sham declaration.
+27,1,8,1,"No error, deceit, or threat affecting either declaration is apparent in this round."
+27,2,1,0,"The parties have not yet reached mutual consent on the price, as the seller countered at $16,250 and no acceptance was given."
+27,2,2,0,There is no common intention yet to be legally bound because the negotiation remains open and conditional on inspection.
+27,2,3,0,"The essential term of price is still unsettled, since the buyer and seller have not agreed on a final amount."
+27,2,4,,"No mandatory formalities are discussed, so compliance cannot be assessed from this round."
+27,2,5,1,"The negotiation appears ordinary and in good faith, with no indication of unfair or unlawful purpose."
+27,2,6,1,"Both sides are negotiating voluntarily and consciously, with no sign of coercion or lack of free will."
+27,2,7,1,Nothing in the exchange suggests a sham transaction; the parties are genuinely bargaining over a car sale.
+27,2,8,,"There is no evidence of mistake, fraud, or threat in the messages, but defects of will cannot be fully determined."
+27,3,1,1,"Both parties clearly expressed assent to the $16,250 price in the last round."
+27,3,2,1,The buyer and seller both indicated they intend to be bound and finalize the sale.
+27,3,3,,"The price is agreed, but the final subject matter details are only generally described and not fully finalized in this round."
+27,3,4,,"No mandatory legal formalities are discussed, so compliance cannot be assessed from the transcript."
+27,3,5,1,The negotiated sale appears ordinary and consistent with good faith and fair dealing.
+27,3,6,1,Both sides appear to have negotiated consciously and voluntarily without pressure.
+27,3,7,0,"The deal is still contingent on inspection and records, so it is not yet a fully concluded non-sham legal act."
+27,3,8,,"There is no indication of mistake, deceit, or threat, but none can be definitively ruled out from the text."
+28,1,1,0,The parties have not yet reached mutual consent because the seller rejected the buyer’s offer and made a counteroffer.
+28,1,2,0,"There is no common intention to be bound yet, as both sides are still negotiating price rather than concluding the deal."
+28,1,3,0,"The essential term of price is not agreed, since the buyer offered $15,000 and the seller countered with $16,800."
+28,1,4,,No mandatory statutory compliance issues are indicated in this negotiation round.
+28,1,5,1,"The discussion appears ordinary and in good faith, with no abusive or unfair content apparent."
+28,1,6,1,Both parties are negotiating voluntarily and freely without any sign of coercion.
+28,1,7,,"There is no indication that the exchange is a sham, but this cannot be confirmed from the round alone."
+28,1,8,,"No error, deceit, or threat is evident, but the transcript does not allow a definitive finding."
+28,2,1,0,"The parties have not reached mutual assent on the price, as the buyer offered $16,200 and the seller countered with $16,500."
+28,2,2,0,"There is no common intention yet to be bound because the seller’s latest message is still a counteroffer, not acceptance."
+28,2,3,0,The essential term of price remains unsettled in this round.
+28,2,4,,"No mandatory statutory formalities are discussed, so compliance cannot be determined."
+28,2,5,1,Nothing in the exchange suggests bad faith or an unlawful purpose.
+28,2,6,1,Both sides appear to be negotiating voluntarily and consciously.
+28,2,7,1,There is no indication that the negotiation is a sham transaction.
+28,2,8,1,"No error, deceit, or threat is apparent in the latest round."
+28,3,1,1,"Both parties clearly expressed assent to the $16,500 price in the last round."
+28,3,2,1,The buyer and seller both indicated they are ready to proceed and be bound by the deal.
+28,3,3,1,"The essential term, the vehicle price, was agreed at $16,500."
+28,3,4,,No information is provided about any mandatory legal formalities or statutory requirements.
+28,3,5,1,The agreed sale appears ordinary and consistent with good faith and fair dealing.
+28,3,6,1,"The messages show a voluntary, conscious acceptance by both sides without pressure."
+28,3,7,1,There is no indication that the agreement is a sham or simulated transaction.
+28,3,8,,"The transcript does not reveal any mistake, deceit, or threat affecting either declaration."
+29,1,1,0,The parties have not reached mutual consent on a final price or contract terms.
+29,1,2,0,They are still negotiating and have not shown a common intention to be legally bound yet.
+29,1,3,0,"The essential term of price remains unsettled between $15,000 and $16,800."
+29,1,4,,No mandatory statutory issues are discussed in this negotiation round.
+29,1,5,1,The discussion appears ordinary and consistent with good faith bargaining.
+29,1,6,1,Both sides are negotiating voluntarily and without any sign of coercion.
+29,1,7,,"There is no indication of a sham transaction, but this cannot be fully determined yet."
+29,1,8,,"No error, deceit, or threat is evident from the exchanged messages."
+29,2,1,1,"Both parties clearly expressed matching assent to the $15,500 price in this round."
+29,2,2,1,They showed a present intention to be bound by stating “We have a deal.”
+29,2,3,1,"The essential term, the car price, was agreed at $15,500 for the identified Toyota Yaris."
+29,2,4,,The transcript does not provide enough information about any mandatory legal formalities or statutory compliance.
+29,2,5,1,Nothing in the exchange suggests bad faith or an unlawful purpose in the agreement.
+29,2,6,1,"The messages indicate a voluntary, conscious negotiation and acceptance without apparent coercion."
+29,2,7,1,There is no indication that the agreement is a sham rather than a genuine sale negotiation.
+29,2,8,,"No facts indicate error, deceit, or threat, but the transcript is insufficient to rule these out conclusively."
+29,3,1,1,"Both parties expressly accepted the $15,500 price in the last round."
+29,3,2,1,"The buyer and seller clearly intended to be bound, stating they had a deal and were agreed."
+29,3,3,1,"The essential terms identified in this round are the car and the agreed price of $15,500."
+29,3,4,,No facts indicate any mandatory legal formalities or their compliance in this round.
+29,3,5,1,Nothing in the exchange suggests unfairness or bad faith in the agreed terms.
+29,3,6,1,Both sides appear to have negotiated and accepted the deal voluntarily.
+29,3,7,1,There is no indication that the agreement is a sham or merely simulated.
+29,3,8,,"The transcript does not show any error, deceit, or threat affecting either declaration."
+30,1,1,0,"The parties have exchanged offers, but they have not yet reached mutual consent on the same price."
+30,1,2,0,"There is no clear intention yet to be bound by a concluded contract, only preliminary negotiation."
+30,1,3,0,"The essential term of price remains unsettled because the buyer offered $15,500 and the seller countered at $16,500 with a floor of $15,000."
+30,1,4,,No facts indicate whether any mandatory legal formalities or statutory requirements are implicated.
+30,1,5,1,The negotiation concerns a lawful car sale and nothing suggests bad faith or socially unacceptable content.
+30,1,6,1,Both sides are negotiating voluntarily and consciously without any sign of coercion.
+30,1,7,,"There is no indication of a sham transaction, but the parties have not yet formed a final deal."
+30,1,8,,"No error, deceit, or threat is apparent from the messages, but this cannot be fully verified."
+30,2,1,1,The buyer made a clear offer and the seller clearly accepted it in this round.
+30,2,2,1,Both parties expressed an intention to conclude the sale and be bound by the agreed price.
+30,2,3,1,"The essential terms are sufficiently agreed: the car and the price of $16,000."
+30,2,4,,No information is provided about any mandatory legal formalities or statutory requirements.
+30,2,5,1,Nothing in the exchange suggests unfairness or a purpose contrary to good faith and fair dealing.
+30,2,6,1,The messages indicate a conscious and voluntary decision to proceed with the deal.
+30,2,7,1,There is no indication that the negotiation is a sham or merely simulated.
+30,2,8,,"The transcript does not show any error, deceit, threat, or other defect in consent."
+30,3,1,1,"Both parties clearly accepted the $16,000 price in this round."
+30,3,2,1,The buyer and seller both expressed an intention to be bound and proceed with the sale.
+30,3,3,1,"The essential term, the vehicle price, was agreed at $16,000."
+30,3,4,,No facts indicate whether any mandatory legal formalities are satisfied.
+30,3,5,1,The agreement appears ordinary and consistent with good faith and fair dealing.
+30,3,6,1,Both sides consciously and voluntarily confirmed acceptance of the deal.
+30,3,7,1,Nothing in the exchange suggests a sham or simulated transaction.
+30,3,8,1,"There is no indication of mistake, deceit, or coercion affecting either declaration."
+31,1,1,0,The parties have not reached mutual consent on a final price or concluded agreement yet.
+31,1,2,0,They are still negotiating and have not shown a common intention to be legally bound by a contract.
+31,1,3,0,"The essential term of price remains unsettled, so the main subject matter is not fully agreed."
+31,1,4,,No mandatory statutory issue is indicated from the negotiation text.
+31,1,5,1,"The discussion appears ordinary and in good faith, with no abusive or unlawful content."
+31,1,6,1,Both sides are negotiating voluntarily and freely based on the transcript.
+31,1,7,1,There is no indication that either side is engaging in a sham transaction.
+31,1,8,,"No error, deceit, or threat is evident from the messages provided."
+31,2,1,0,"The latest buyer and seller messages do not show mutual assent because the buyer offered $15,500 and the seller countered at $16,000."
+31,2,2,0,There is no common intention to be bound yet since both sides are still negotiating the price rather than accepting the same terms.
+31,2,3,0,"The essential term of price is not agreed, as the parties remain $500 apart."
+31,2,4,,No facts indicate any mandatory legal requirement or its compliance in this negotiation round.
+31,2,5,,Nothing in the exchange suggests bad faith or a violation of social coexistence principles.
+31,2,6,1,Both parties appear to be negotiating consciously and voluntarily without any sign of coercion or incapacity.
+31,2,7,,The messages do not indicate whether the deal is sham or genuine beyond ordinary bargaining.
+31,2,8,,"There is no evidence of mistake, deceit, or threat affecting either declaration in this round."
+31,3,1,1,"Both parties clearly expressed assent to the $16,000 price in this round."
+31,3,2,1,They indicated an intention to be bound if the stated checks are satisfactory.
+31,3,3,1,"The essential terms identified here are the car and the agreed price, which are aligned."
+31,3,4,,No information is provided about any mandatory legal formalities or statutory compliance.
+31,3,5,1,The agreement appears ordinary and consistent with good faith and fair dealing.
+31,3,6,1,"Both sides appear to have decided freely and consciously to proceed, subject to inspection."
+31,3,7,1,There is no indication that the deal is a sham or merely simulated.
+31,3,8,,"The transcript does not show any error, deceit, or threat affecting either declaration."
+32,1,1,0,"The parties have not yet reached mutual assent on a price, as the seller counteroffered $16,500 and no acceptance occurred."
+32,1,2,0,There is no common intention yet to be bound because the negotiation remains open and unresolved.
+32,1,3,0,"The essential term of price is still unsettled, so the contract subject matter is not fully agreed."
+32,1,4,,"No facts indicate any mandatory statutory issue, but this cannot be determined from the negotiation alone."
+32,1,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing on the face of the exchange.
+32,1,6,1,Both sides are negotiating voluntarily and consciously without any sign of coercion.
+32,1,7,,"Nothing suggests a sham transaction, but the parties have not yet formed a contract to assess definitively."
+32,1,8,,"There is no indication of mistake, deceit, or threat, but defects in consent cannot be fully ruled out from this round."
+32,2,1,1,"Both parties clearly expressed matching assent to the $15,500 price in the last round."
+32,2,2,1,"The seller stated that at $15,500 they have a deal, showing intent to be legally bound."
+32,2,3,1,"The essential terms are agreed: the specific car and the final price of $15,500."
+32,2,4,,No facts indicate any mandatory legal formalities or whether they were complied with.
+32,2,5,1,Nothing in the exchange suggests bad faith or content contrary to social coexistence.
+32,2,6,1,The parties negotiated openly and voluntarily without any sign of coercion.
+32,2,7,1,"The exchange appears to be a genuine negotiation, not a sham transaction."
+32,2,8,,"There is no indication of mistake, deceit, or threat, but none can be fully ruled out from the transcript."
+32,3,1,1,"Both parties expressly agreed to the $15,500 price in the last round."
+32,3,2,1,The buyer and seller clearly intended to conclude a binding sale agreement.
+32,3,3,1,"The essential term, the vehicle and its price, was agreed upon."
+32,3,4,,No facts indicate whether any mandatory legal formalities are required or satisfied.
+32,3,5,1,Nothing in the exchange suggests an unfair or bad-faith purpose or content.
+32,3,6,1,Both sides stated they were ready to proceed and agreed freely in the negotiation.
+32,3,7,1,"The messages show a genuine bargain, not a sham transaction."
+32,3,8,,"There is no indication of mistake, deceit, or threat, but none can be fully ruled out from the transcript."
+33,1,1,0,The parties have not reached mutual consent on a single price in this round.
+33,1,2,0,They are still negotiating and have not shown a common intention to be bound yet.
+33,1,3,0,The essential term of price remains unsettled because the offers differ.
+33,1,4,,No mandatory legal formalities are discussed in this negotiation round.
+33,1,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing.
+33,1,6,1,Both sides are negotiating voluntarily and consciously.
+33,1,7,,"There is no indication that this is a sham transaction, but it cannot be fully determined."
+33,1,8,,"No error, deceit, or threat is evident from the messages provided."
+33,2,1,0,"The last messages show continued bargaining, not mutual assent on a final price."
+33,2,2,0,Both sides indicate willingness to continue negotiating rather than a present intention to be legally bound.
+33,2,3,0,"The essential term of price is still unsettled because the buyer offered $15,500 and the seller countered at $16,000."
+33,2,4,,No facts indicate any mandatory statutory requirement or its compliance in this negotiation.
+33,2,5,1,The discussion concerns a normal arm’s-length car sale and shows no sign of bad faith or unlawful purpose.
+33,2,6,1,Both parties appear to be negotiating voluntarily and without any sign of coercion.
+33,2,7,,"There is no indication that the negotiation is a sham, but the parties’ true intent cannot be fully verified."
+33,2,8,,"No error, deceit, or threat is apparent from the last round, but none can be conclusively ruled out."
+33,3,1,1,"Both parties clearly expressed assent to the $16,000 deal in this round."
+33,3,2,1,They showed an intention to be bound by finalizing the sale and arranging next steps.
+33,3,3,1,"The essential terms, especially the car and price, were agreed upon."
+33,3,4,,No facts indicate any mandatory legal formalities or whether they were satisfied.
+33,3,5,1,The agreed sale appears lawful and consistent with fair dealing.
+33,3,6,1,Both sides appear to have agreed freely and consciously without pressure.
+33,3,7,1,Nothing in the exchange suggests the deal is merely a sham.
+33,3,8,,"There is no evidence of mistake, deceit, or threat, but none can be ruled out conclusively."
+34,1,1,0,The parties have not yet reached mutual consent because the buyer has not accepted the seller’s counteroffer.
+34,1,2,0,"There is no common intention to be legally bound yet, as the seller only invites further agreement if the price works."
+34,1,3,0,"The essential term of price remains unsettled since the buyer offered $15,500 and the seller countered with $16,500."
+34,1,4,,No mandatory statutory issue is apparent from the negotiation text alone.
+34,1,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing.
+34,1,6,1,Both sides are negotiating voluntarily and consciously without any sign of coercion.
+34,1,7,1,There is no indication that either statement is a sham transaction.
+34,1,8,1,"No error, deceit, or threat is evident in the parties’ declarations."
+34,2,1,1,"Both parties clearly expressed matching assent to the $16,000 deal in this round."
+34,2,2,1,"The seller stated they are happy to proceed, showing intent to be legally bound."
+34,2,3,1,"The essential terms are agreed: the car and the price of $16,000."
+34,2,4,,No information is given about any mandatory legal formalities or statutory compliance.
+34,2,5,1,Nothing in the exchange suggests unfairness or conflict with good faith and fair dealing.
+34,2,6,1,"The messages indicate a conscious, voluntary decision by both sides to proceed."
+34,2,7,1,There is no indication that the deal is merely a sham or simulated transaction.
+34,2,8,,"The transcript does not show any error, deceit, or threat affecting either declaration."
+34,3,1,1,"Both parties clearly expressed assent to the $16,000 deal in this round."
+34,3,2,1,They showed a present intention to be bound by the agreed sale and proceed with paperwork.
+34,3,3,1,"The essential terms are identified: the car and the final price of $16,000."
+34,3,4,,The transcript does not provide enough information to assess compliance with mandatory legal requirements.
+34,3,5,1,Nothing in the round suggests unfairness or a purpose contrary to good faith and fair dealing.
+34,3,6,1,Both sides appear to have freely and consciously accepted the final terms.
+34,3,7,1,"The exchange indicates a genuine agreement, not a sham transaction."
+34,3,8,,"There is no indication of error, deceit, or threat, but the transcript is insufficient to rule them out conclusively."
+35,1,1,0,The parties have not reached mutual consent because the seller rejected the buyer’s offer and made a counteroffer.
+35,1,2,0,There is no common intention yet to be bound by a contract at the offered price.
+35,1,3,0,"The essential term, the final price, is still unsettled between $15,500 and $16,500."
+35,1,4,,No mandatory legal formalities are discussed in this negotiation round.
+35,1,5,1,Nothing in the exchange suggests an unlawful or bad-faith purpose or content.
+35,1,6,1,Both sides appear to be negotiating voluntarily and consciously.
+35,1,7,1,There is no indication that either statement is a sham transaction.
+35,1,8,1,"No error, deceit, or threat is apparent in the messages."
+35,2,1,0,"The last messages show no mutual assent because the seller countered at $16,250 instead of accepting the buyer’s $16,000."
+35,2,2,0,There is no common intention to be bound yet since the parties are still negotiating the price.
+35,2,3,0,"The essential term of price is not agreed, as the buyer and seller remain apart on the amount."
+35,2,4,,No mandatory legal-form or statutory compliance issues are indicated in the transcript.
+35,2,5,1,The negotiation concerns a normal car sale and nothing suggests bad faith or socially unacceptable content.
+35,2,6,1,Both parties appear to be negotiating voluntarily and consciously without any sign of coercion.
+35,2,7,,"There is no indication that this is a sham transaction, but the transcript does not allow a firm determination."
+35,2,8,,"No error, deceit, or threat is evident in the last round, but defects of will cannot be fully assessed from the transcript."
+35,3,1,1,"Both parties clearly accepted the $16,250 price in the last round."
+35,3,2,1,The buyer and seller both expressed an intention to close the deal and be bound.
+35,3,3,1,"The essential term, the car price, was agreed at $16,250."
+35,3,4,,No facts indicate any mandatory legal formalities or their compliance.
+35,3,5,1,The agreement appears ordinary and consistent with good faith and fair dealing.
+35,3,6,1,Both sides consciously and voluntarily agreed to proceed with the sale.
+35,3,7,1,There is no indication that the deal is a sham or simulated transaction.
+35,3,8,,"The transcript shows no error, deceit, or threat, but none can be fully ruled out from the text alone."
+36,1,1,0,The parties have not yet reached mutual consent on the price.
+36,1,2,0,Neither side has expressed a final intention to be legally bound by a concluded deal.
+36,1,3,0,"The essential term of price remains unsettled between $15,000 and $16,500."
+36,1,4,,No mandatory legal formalities are discussed in this round.
+36,1,5,1,The negotiation concerns a lawful car sale and shows no sign of bad faith.
+36,1,6,1,Both sides are negotiating voluntarily and consciously.
+36,1,7,,There is no indication that this is a sham transaction.
+36,1,8,,"No error, deceit, or threat is apparent from the messages."
+36,2,1,0,"The last messages show counteroffers only, not mutual assent to the same price."
+36,2,2,0,Neither party has clearly expressed a final intention to be legally bound yet.
+36,2,3,0,"The essential term of price is still unsettled between $15,500 and $16,000."
+36,2,4,,No mandatory statutory formalities are discussed in the negotiation.
+36,2,5,1,The negotiation concerns a lawful car sale and shows no bad-faith content.
+36,2,6,1,Both parties are bargaining voluntarily and appear to be acting freely.
+36,2,7,1,There is no indication that the negotiation is a sham or simulated act.
+36,2,8,1,"No error, deceit, or threat is apparent in the last round."
+36,3,1,1,"Both parties clearly accepted the $16,000 price in the last round."
+36,3,2,1,The buyer and seller expressed an intention to be bound by the deal.
+36,3,3,1,"The essential terms, especially the car and price, are agreed."
+36,3,4,,No information is provided about any mandatory legal formalities.
+36,3,5,1,Nothing in the round suggests bad faith or an unlawful purpose.
+36,3,6,1,Both sides appear to have agreed freely and consciously.
+36,3,7,1,There is no indication that the deal is merely sham.
+36,3,8,,"The transcript does not show any error, deceit, or threat affecting consent."
+37,1,1,0,"The parties have exchanged offers, but there is no mutual assent to the same price yet."
+37,1,2,0,They have not shown a common intention to be legally bound by a concluded sale.
+37,1,3,0,The essential term of price is still unsettled because the buyer and seller differ on amount.
+37,1,4,,No mandatory statutory issue is raised in this negotiation round.
+37,1,5,1,The proposed sale appears ordinary and consistent with good faith and fair dealing.
+37,1,6,1,Both sides are negotiating voluntarily and consciously.
+37,1,7,,"There is no indication that the deal is a sham, but this cannot yet be confirmed."
+37,1,8,,"No error, deceit, or threat is apparent from the messages provided."
+37,2,1,0,The parties have not reached matching declarations of assent on the same price.
+37,2,2,0,They have not yet shown a common intention to be legally bound because the price remains disputed.
+37,2,3,0,"An essential term, the final purchase price, is still unsettled."
+37,2,4,,No mandatory statutory issue is discussed in the negotiation.
+37,2,5,1,The negotiation appears ordinary and consistent with good faith and fair dealing.
+37,2,6,1,Both sides are negotiating voluntarily and consciously.
+37,2,7,,"There is no indication that the deal is a sham, but this cannot be fully determined yet."
+37,2,8,,"No error, deceit, or threat is evident from the last round."
+37,3,1,1,"Both parties clearly expressed matching assent to the $16,100 price in the last round."
+37,3,2,1,The seller stated they have a deal and the buyer said they were ready to proceed and close the deal.
+37,3,3,1,"The essential terms are sufficiently agreed: the specific car and the final price of $16,100."
+37,3,4,,No facts indicate any mandatory legal formalities or statutory compliance issues in this round.
+37,3,5,1,The agreed terms appear ordinary and consistent with good faith and fair dealing.
+37,3,6,1,The messages show voluntary bargaining by both sides without any sign of coercion.
+37,3,7,1,Nothing in the transcript suggests the deal is a sham or simulated transaction.
+37,3,8,,"There is no indication of mistake, deceit, or threat, but none can be definitively ruled out from the transcript."
+37,4,1,1,"Both parties expressly accepted the same price of $16,100 in the last round."
+37,4,2,1,"The buyer and seller both stated they are ready to proceed and close the deal, showing intent to be bound."
+37,4,3,1,"The essential term, the vehicle and purchase price, is identified and agreed upon."
+37,4,4,,No information is given about any mandatory legal formalities or statutory requirements.
+37,4,5,1,"The agreement appears ordinary and fair, with no indication of bad faith or improper purpose."
+37,4,6,1,Both sides appear to have negotiated and agreed voluntarily without pressure.
+37,4,7,1,Nothing in the transcript suggests the deal is a sham or simulated transaction.
+37,4,8,,"There is no indication of mistake, deceit, or threat, but none can be conclusively ruled out from the transcript."
+38,1,1,0,The parties have not reached mutual consent because the buyer only made an initial offer and the seller responded with a counteroffer.
+38,1,2,0,"There is no common intention yet to conclude a binding contract, as both sides are still negotiating price and terms."
+38,1,3,0,"The essential term of price is not agreed, since the buyer offered $15,000 and the seller asked $16,500."
+38,1,4,,No mandatory statutory issue is apparent from the negotiation text alone.
+38,1,5,1,"The discussion appears ordinary and in good faith, with no indication of unfair or unlawful content."
+38,1,6,1,Both parties are voluntarily negotiating and deciding whether to contract without any sign of coercion.
+38,1,7,,"Nothing in the transcript indicates a sham transaction, but this cannot be confirmed from one round."
+38,1,8,,"There is no evidence of mistake, deceit, or threat, but the transcript is insufficient to rule these out definitively."
+38,2,1,0,"The parties have not reached mutual assent because the seller countered at $16,000 and the buyer has not accepted it."
+38,2,2,0,There is no common intention yet to be legally bound on the same terms since the price remains disputed.
+38,2,3,0,"The essential term of price is still unsettled, with buyer at $15,500 and seller at $16,000."
+38,2,4,,No mandatory statutory issue is raised by the negotiation transcript.
+38,2,5,1,"The negotiation appears ordinary and in good faith, with transparent disclosures about the car's condition."
+38,2,6,1,Both sides are negotiating voluntarily and consciously without any sign of coercion.
+38,2,7,,"Nothing indicates a sham transaction, but that cannot be confirmed from this round alone."
+38,2,8,,"No error, deceit, or threat is evident in the latest exchange."
+38,3,1,1,"Both parties clearly expressed assent to the $16,000 sale in the last round."
+38,3,2,1,They showed a present intention to be bound by stating they have a deal and confirming the sale.
+38,3,3,1,"The essential terms are agreed: the car, its key description, and the price of $16,000."
+38,3,4,,The transcript does not provide enough information to assess compliance with mandatory legal formalities.
+38,3,5,1,Nothing in the last round suggests unfairness or inconsistency with good faith and fair dealing.
+38,3,6,1,Both sides appear to have freely and consciously accepted the final terms.
+38,3,7,1,There is no indication that the agreement is a sham or merely simulated.
+38,3,8,1,"No error, deceit, or threat is apparent in the last round of declarations."
+39,1,1,,"The parties have exchanged offers, but there is no mutual assent yet."
+39,1,2,,They are still negotiating and have not shown a shared intent to be legally bound.
+39,1,3,0,No agreement on the essential term of price has been reached.
+39,1,4,,No mandatory-form or statutory compliance issue is apparent from the negotiation alone.
+39,1,5,1,The negotiation concerns a lawful car sale and shows no sign of bad faith or unfair purpose.
+39,1,6,1,Both sides are negotiating voluntarily and consciously.
+39,1,7,1,There is no indication that either statement is a sham transaction.
+39,1,8,,"No error, deceit, or threat is evident from the messages provided."
+39,2,1,1,"Both parties clearly expressed matching assent to the $16,000 price in this round."
+39,2,2,1,The buyer said they were ready to move forward and the seller said they could agree and close the deal.
+39,2,3,1,"The essential term, the car price, was agreed at $16,000 for the identified 2019 Toyota Yaris."
+39,2,4,,No information is provided about any mandatory legal formalities or statutory requirements.
+39,2,5,1,The negotiated terms appear ordinary and consistent with good faith and fair dealing.
+39,2,6,1,Nothing in the exchange suggests coercion or lack of free and conscious decision-making.
+39,2,7,1,The messages indicate a genuine bargain rather than a sham transaction.
+39,2,8,,"There is no indication of mistake, deceit, or threat, but the transcript does not fully rule them out."
+39,3,1,1,"Both parties clearly expressed assent to the $16,000 price in this round."
+39,3,2,1,"They stated they were ready to move forward and close the deal, showing intent to be bound."
+39,3,3,1,"The essential terms are identified: the specific car and the agreed price of $16,000."
+39,3,4,,The transcript does not provide enough information to verify compliance with mandatory legal formalities.
+39,3,5,1,"The agreement appears ordinary and fair, with no indication of bad faith or unlawful purpose."
+39,3,6,1,Both sides consciously and voluntarily confirmed the deal and next steps.
+39,3,7,1,Nothing in the exchange suggests a sham transaction; the parties discuss real payment and paperwork.
+39,3,8,,"There is no evidence of mistake, fraud, or threat, but the transcript cannot fully rule them out."
+40,1,1,0,The parties have not yet reached mutual assent because the seller countered instead of accepting the buyer’s offer.
+40,1,2,0,"There is no common intention to be legally bound yet, as the seller explicitly says they are still happy to keep talking."
+40,1,3,0,"The essential term of price is not agreed, since the buyer offered $15,500 and the seller proposed $16,800."
+40,1,4,,No mandatory statutory issue is indicated in the negotiation text.
+40,1,5,1,Nothing in the exchange suggests an unfair or bad-faith purpose or content.
+40,1,6,1,Both sides are negotiating voluntarily and consciously without any sign of coercion.
+40,1,7,1,"The exchange appears to be a genuine negotiation, not a sham transaction."
+40,1,8,1,"No error, deceit, or threat is apparent in either party’s declarations."
+40,2,1,0,"The parties have not yet reached mutual assent on the same price, as the buyer offered $16,000 and the seller countered with $16,500."
+40,2,2,0,"There is no common intention to be legally bound yet because the seller says they are ready to proceed only if the offer works, not that a contract is concluded."
+40,2,3,0,The essential term of price remains unsettled since the latest messages show different figures.
+40,2,4,,No mandatory statutory issue is apparent from the negotiation text alone.
+40,2,5,1,"The negotiation appears ordinary and in good faith, with no abusive or unlawful content evident."
+40,2,6,1,Both sides are negotiating voluntarily and openly without any sign of coercion in this round.
+40,2,7,,"Nothing in the transcript indicates a sham transaction, but that cannot be confirmed from negotiation alone."
+40,2,8,,"There is no evidence of error, deceit, or threat in the latest exchange, but defects of will cannot be determined conclusively."
+40,3,1,1,"Both parties expressly accepted the $16,500 price in this round."
+40,3,2,1,The buyer and seller clearly intended to conclude a binding sale and proceed with payment and handover.
+40,3,3,1,"The essential term, the vehicle and its price, is agreed upon."
+40,3,4,,No information is provided about any mandatory legal formalities or compliance requirements.
+40,3,5,1,The agreed sale appears lawful and consistent with fair dealing based on the negotiation.
+40,3,6,1,"Both sides state they are ready to proceed, indicating a conscious and voluntary decision."
+40,3,7,1,There is no indication that the agreement is merely sham or simulated.
+40,3,8,1,"Nothing in the round suggests error, deceit, or threat affecting either declaration of will."

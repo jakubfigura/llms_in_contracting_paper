@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for showing me this Yaris. It's in great condition with reasonable mileage. I've done my research on the market, and for a 2019 model with 65,000 km, I'm looking to offer $16,500. That's a fair starting point given current market values for this vehicle. What are your thoughts?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "I appreciate your offer of $16,500, and I can see you've done your homework. This Yaris is in excellent condition with full service history and zero accidents—that's worth recognizing. Given the market for well-maintained 2019 Yaris models, I'm looking for $17,500. However, I'm open to meeting somewhere in the middle. Would $17,000 work for you?", "offer_price": 17000, "agreed": false}
+
+BUYER: {"reply": "I appreciate you sharing the service history—that definitely adds value. $17,000 is closer, but I need to stay realistic with my budget. Given the current market and comparable listings I've seen, I'd like to counter at $16,800. That's a solid compromise that reflects the excellent condition and maintenance you've documented. Can we work with that?", "offer_price": 16800, "agreed": false}
+
+SELLER: {"reply": "I appreciate you meeting me halfway—that shows good faith. $16,800 is close to where I need to be. Given the excellent condition, full maintenance records, and low mileage for a 2019, I'd like to come down to $16,900. That's a fair compromise that reflects the true value of this well-cared-for vehicle. Can we settle at $16,900?", "offer_price": 16900, "agreed": false}
+
+BUYER: {"reply": "I appreciate the willingness to negotiate in good faith. $16,900 is very close to my position. Given that this is within my budget and you've clearly maintained this vehicle exceptionally well with full service records, I'm comfortable accepting $16,900. Let's move forward with that price.", "offer_price": 16900, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm glad we could find common ground. $16,900 it is. This Yaris is going to serve you well—it's been meticulously maintained and you can drive away with confidence. Let's get the paperwork started and finalize this sale.", "offer_price": 16900, "agreed": true}
