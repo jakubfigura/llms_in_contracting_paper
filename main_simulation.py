@@ -189,14 +189,15 @@ def call_model(model, messages, temperature, response_format=None):
 # --- Response parsing ---
 
 def parse_negotiator_reply(text):
+    cleaned = re.sub(r"^```(?:json)?\n?|```$", "", text.strip(), flags=re.MULTILINE).strip()
     try:
-        data = json.loads(text)
+        data = json.loads(cleaned)
     except json.JSONDecodeError:
         data = {}
     if not isinstance(data, dict):
         data = {}
     return {
-        "reply": str(data.get("reply") or f"PARSE_ERROR: {text[:200]}"),
+        "reply": str(data.get("reply")),
         "offer_price": data.get("offer_price"),
         "agreed": data.get("agreed"),
     }
@@ -254,8 +255,12 @@ def parse_judge_reply(text):
 # --- Agents ---
 
 def invoke_negotiator(model, temperature, history, usage_bucket):
+    if len(history) == 1:  # buyer's first turn: only system prompt, no conversation history
+        nudge = {"role": "user", "content": "You are starting the negotiation. Make your initial offer for the car."}
+    else:
+        nudge = TURN_NUDGE
     text, usage = call_model(
-        model, history + [TURN_NUDGE], temperature, response_format=NEGOTIATOR_RESPONSE_FORMAT
+        model, history + [nudge], temperature, response_format=NEGOTIATOR_RESPONSE_FORMAT
     )
     add_usage(usage_bucket, usage)
     return parse_negotiator_reply(text)
