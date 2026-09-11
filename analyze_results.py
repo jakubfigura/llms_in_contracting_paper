@@ -284,6 +284,49 @@ def label_distribution(df_verdicts):
     }
 
 
+def label_counts(df_verdicts):
+    """Counts of satisfied / not satisfied / unable labels pooled over all criteria."""
+    labels = df_verdicts["label"]
+    return {
+        "total": len(labels),
+        "satisfied": int((labels == 1).fillna(False).sum()),
+        "not_satisfied": int((labels == 0).fillna(False).sum()),
+        "unable": int(labels.isna().sum()),
+    }
+
+
+def print_overall_label_distribution(data, label, final_round_only=False):
+    """Share of each verdict type per model, pooled over all criteria.
+
+    Covers every round of every run, or only the last round of each run when
+    ``final_round_only`` is set.
+    """
+    scope = "FINAL ROUND ONLY" if final_round_only else "ALL ROUNDS"
+    print("\n" + "="*80)
+    print(f"OVERALL VERDICT DISTRIBUTION PER MODEL - {label.upper()} ({scope})")
+    print("="*80 + "\n")
+
+    rows = []
+    for model_name, (_, _, df_verdicts) in data.items():
+        if final_round_only:
+            df_verdicts = filter_final_round_verdicts(df_verdicts)
+        counts = label_counts(df_verdicts)
+        total = counts["total"]
+        rows.append({
+            "Model": model_name,
+            "Total Evaluations": total,
+            "Satisfied": counts["satisfied"],
+            "Satisfied %": f"{100*counts['satisfied']/total:.1f}%",
+            "Not Satisfied": counts["not_satisfied"],
+            "Not Satisfied %": f"{100*counts['not_satisfied']/total:.1f}%",
+            "Unable": counts["unable"],
+            "Unable %": f"{100*counts['unable']/total:.1f}%",
+        })
+
+    print(pd.DataFrame(rows).to_string(index=False))
+    print()
+
+
 def analyze_dataset(label, experiments, suffix):
     """Run the full analysis for a single dataset and return its loaded data."""
     data = load_data(experiments)
@@ -296,6 +339,8 @@ def analyze_dataset(label, experiments, suffix):
         print_summary_single(model_name, df_results, df_traj)
 
     print_summary_all(data, label)
+    print_overall_label_distribution(data, label)
+    print_overall_label_distribution(data, label, final_round_only=True)
     print_criteria_comparison(data, label)
 
     print(f"\nCreating comparative plots for {label.lower()}...")
