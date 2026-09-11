@@ -1,0 +1,19 @@
+{
+  "n_runs": 40,
+  "max_rounds": 8,
+  "seller_min_price": 15000,
+  "buyer_max_price": 18000,
+  "buyer": {
+    "model": "anthropic/claude-haiku-4-5-20251001",
+    "temperature": 0.7
+  },
+  "seller": {
+    "model": "anthropic/claude-haiku-4-5-20251001",
+    "temperature": 0.7
+  },
+  "judge": {
+    "model": "anthropic/claude-haiku-4-5-20251001",
+    "temperature": 0.0,
+    "strict_scoring": true
+  }
+}
