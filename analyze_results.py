@@ -17,7 +17,7 @@ EXPERIMENTS_AFTER_PROMPT_MANIPULATION = {
 }
 
 DATASETS = {
-    "Baseline": (EXPERIMENTS, ""),
+    "Initial prompt": (EXPERIMENTS, ""),
     "After prompt manipulation": (EXPERIMENTS_AFTER_PROMPT_MANIPULATION, "_after_prompt_manipulation"),
 }
 
@@ -89,7 +89,6 @@ def print_summary_all(data, label):
             "Agreement Rate": f"{100*agreements/len(df_results):.1f}%",
             "Avg Rounds": f"{df_results['rounds_completed'].mean():.2f}",
             "Avg Final Price": f"${df_results['final_price'].mean():.2f}" if (df_results['final_price'] > 0).any() else "N/A",
-            "Avg Final Round Price": f"${mean_final_round_price(df_traj):.2f}",
             "Total Cost": f"${df_results['cost_usd'].sum():.4f}",
         })
 
