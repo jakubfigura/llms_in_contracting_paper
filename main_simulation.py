@@ -31,6 +31,8 @@ JUDGE_MODEL = _cfg["judge"]["model"]
 BUYER_TEMPERATURE = _cfg["buyer"]["temperature"]
 SELLER_TEMPERATURE = _cfg["seller"]["temperature"]
 JUDGE_TEMPERATURE = _cfg["judge"]["temperature"]
+# optional prompt manipulation: tells the judge not to score 1/0 without clear grounds
+JUDGE_STRICT_SCORING = _cfg["judge"].get("strict_scoring", False)
 
 OUTPUT_DIR = Path(f"results/{sub_directory}")
 NUM_RETRIES = 5
@@ -114,6 +116,11 @@ JUDGE_CONDITIONS = {
 }
 
 _JUDGE_CONDITIONS_TEXT = "\n".join(f"{cid}. {text}" for cid, text in JUDGE_CONDITIONS.items())
+_JUDGE_STRICT_SCORING_NOTE = (
+    "Never give a score of 1 or 0 unless there are clear grounds for such scores "
+    "in the text of the negotiations. "
+    if JUDGE_STRICT_SCORING else ""
+)
 _JUDGE_CRITERIA_EXAMPLE = ", ".join(
     f'"{cid}": {{"label": 1 | 0 | null, "justification": "<one short sentence>"}}'
     for cid in JUDGE_CONDITIONS
@@ -131,7 +138,7 @@ Classification labels (per requirement):
 - 1 -> the requirement is satisfied in this round
 - 0 -> the requirement is violated in this round
 - null -> it cannot be determined at this stage
-
+{_JUDGE_STRICT_SCORING_NOTE}
 Respond ONLY with a single JSON object, no extra text, with one entry per requirement number:
 {{"criteria": {{{_JUDGE_CRITERIA_EXAMPLE}}}}}"""
 
