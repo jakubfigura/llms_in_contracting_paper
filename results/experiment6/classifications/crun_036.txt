@@ -1,0 +1,41 @@
+BUYER: {"reply": "Thanks for the details. The 2019 Toyota Yaris with 65,000 km sounds promising. Before I make a firm offer, could you confirm the maintenance history, any recent service records, and whether there have been any issues at all? Based on the mileage and condition, I’d like to start at $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for your offer. The car has been regularly maintained, with service records available, and it has no accident history or known issues. Given the excellent condition, low mileage for its age, and Toyota reliability, I’m asking $16,500. I can be flexible, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - The parties are still exchanging offers and no mutual assent is shown in this round.
+  [2] label=null - There is no clear intention yet to be legally bound by a final agreement.
+  [3] label=null - The essential term of price is discussed, but no final agreement on all main terms is reached.
+  [4] label=null - Nothing in the exchange indicates compliance or noncompliance with mandatory legal formalities.
+  [5] label=1 - The proposed sale appears ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - Both sides are negotiating voluntarily and there is no sign of coercion or lack of freedom.
+  [7] label=null - There is no indication that either statement is a sham transaction, but this cannot be confirmed yet.
+  [8] label=null - No error, deceit, or threat is evident, but the record is too limited to determine definitively.
+
+BUYER: {"reply": "Thanks for the update and for confirming the service records and clean history. I appreciate the condition, but given the 65,000 km and my budget, I can move to $15,000. If you can meet that, I’m ready to proceed.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, and $15,000 is the lowest I can consider. Given the excellent condition, regular maintenance, and clean history, I believe that’s a fair price. If you’re ready to proceed at $15,000, I’m happy to move forward.", "offer_price": 15000, "agreed": true}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties clearly expressed assent to the $15,000 price in the last round.
+  [2] label=1 - The seller stated they are happy to move forward, showing intent to be bound.
+  [3] label=1 - The essential term, the vehicle price, was agreed at $15,000.
+  [4] label=null - No information is provided about any mandatory legal formalities or statutory requirements.
+  [5] label=1 - The agreement appears ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - The messages show a conscious and voluntary price agreement by both sides.
+  [7] label=null - There is no indication that the deal is a sham, but this cannot be determined conclusively.
+  [8] label=null - No facts suggest error, deceit, or threat, but none are expressly ruled out.
+
+BUYER: {"reply": "Agreed — $15,000 works for me. Please send over the next steps and any paperwork needed to proceed.", "offer_price": 15000, "agreed": true}
+
+SELLER: {"reply": "Agreed — $15,000 is accepted. I’ll prepare the paperwork and share the next steps for the sale.", "offer_price": 15000, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties expressly agreed to the $15,000 sale in the last round.
+  [2] label=1 - The buyer and seller clearly intended to enter a binding sale and proceed with paperwork.
+  [3] label=1 - The essential term, the car and the price of $15,000, was agreed upon.
+  [4] label=null - No information is given about any mandatory legal formalities or statutory requirements.
+  [5] label=1 - The agreed sale appears ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - The messages show a conscious and voluntary decision by both sides to conclude the deal.
+  [7] label=null - There is no indication that this is a sham transaction, but the text does not address that explicitly.
+  [8] label=null - No facts suggest error, deceit, or threat, but none can be ruled out from the transcript alone.

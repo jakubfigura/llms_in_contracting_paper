@@ -1,0 +1,41 @@
+BUYER: {"reply": "Thanks. Before I make an offer, can you confirm the full maintenance history, any recent service records, and whether there have been any mechanical issues at all? Based on the year, mileage, and condition, my initial offer is $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Yes — the car has a full maintenance history, with regular servicing up to date, and I can provide the recent service records. There have been no mechanical issues, and it has never been in an accident. Given the excellent condition, low mileage for the year, and strong reliability of the Toyota Yaris, I think $15,500 is a bit low. I can come down to $16,500.", "offer_price": 16500, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - The parties have exchanged offers, but there is no mutual assent to the same price yet.
+  [2] label=null - They are negotiating with intent to contract, but no final commitment to be bound is shown.
+  [3] label=null - The essential term of price is still unsettled because the seller counteroffered $16,500.
+  [4] label=null - No mandatory legal formalities are discussed in this negotiation.
+  [5] label=1 - Nothing in the exchange suggests an unlawful or bad-faith purpose or content.
+  [6] label=1 - Both sides appear to be negotiating consciously and voluntarily.
+  [7] label=1 - There is no indication that either statement is a sham transaction.
+  [8] label=null - No error, deceit, or threat is apparent, but the record is too limited to rule it out conclusively.
+
+BUYER: {"reply": "Thanks for the details — that’s reassuring. $16,500 is closer, but I’m still trying to stay disciplined on budget. If we can meet at $16,000, I’m ready to move forward quickly and close the deal.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the quick response. Given the full maintenance history, no accidents, and excellent condition, $16,000 is fair, but I’d like to hold a bit firmer. I can meet you at $16,250, and if that works, we can close the deal today.", "offer_price": 16250, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=null - The parties are still exchanging counteroffers and have not yet shown mutual assent on the same price in this round.
+  [2] label=null - Although both mention closing the deal, the seller’s latest message is still a counteroffer, so binding intent is not yet clear.
+  [3] label=null - The essential term of price is not yet agreed because the buyer offered $16,000 and the seller countered with $16,250.
+  [4] label=1 - Nothing in the round suggests any mandatory legal rule is being breached by the negotiation itself.
+  [5] label=1 - The proposed sale appears ordinary and consistent with good faith and fair dealing on its face.
+  [6] label=1 - Both sides are negotiating openly and voluntarily, with no sign of coercion or lack of free decision-making.
+  [7] label=1 - There is no indication that either party is pretending or using the negotiation as a sham.
+  [8] label=1 - No error, deceit, or threat is apparent in the latest exchange.
+
+BUYER: {"reply": "Thanks — I appreciate you coming down. $16,250 is reasonable, and I’m prepared to accept that and close the deal at that price.", "offer_price": 16250, "agreed": true}
+
+SELLER: {"reply": "Great — we have a deal at $16,250. I appreciate the smooth negotiation, and I’m ready to move forward with the sale.", "offer_price": 16250, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties clearly accepted the $16,250 price in the last round.
+  [2] label=1 - The buyer and seller both stated they were ready to close the deal and move forward with the sale.
+  [3] label=1 - The essential term, the car and its price, was agreed at $16,250.
+  [4] label=null - No facts indicate any mandatory legal formalities or whether they were complied with.
+  [5] label=1 - The agreed sale appears ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - Nothing suggests the parties were not acting consciously and freely.
+  [7] label=1 - There is no indication that the agreement was a sham transaction.
+  [8] label=null - The transcript shows no error, deceit, or threat, but none can be ruled out conclusively.

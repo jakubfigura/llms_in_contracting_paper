@@ -1,0 +1,41 @@
+BUYER: {"reply": "Thanks for the details. Before we proceed, can you confirm the full maintenance history and whether there have been any mechanical issues or repainting? Based on the year and mileage, I’m prepared to start at $15,000 if everything checks out.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "Thanks for your offer. The car has a full regular maintenance history, has never been in an accident, and there’s no repainting or known mechanical issues. Given the excellent condition, low mileage for the year, and Toyota reliability, I’m asking $16,500. I’m open to reasonable negotiation, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - The parties are still negotiating and have not yet expressed mutual assent to the same terms.
+  [2] label=null - There is no clear intention yet to be legally bound by a concluded contract in this round.
+  [3] label=null - Price is discussed, but no final agreement on all essential terms is reached.
+  [4] label=null - No mandatory legal formalities are addressed in the negotiation text.
+  [5] label=1 - The proposed terms appear ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - Both sides are negotiating voluntarily and without any sign of coercion.
+  [7] label=null - Nothing indicates a sham transaction, but that cannot be determined from this round alone.
+  [8] label=null - There is no evidence of error, deceit, or threat, but defects in consent cannot be ruled out.
+
+BUYER: {"reply": "Thanks for confirming the maintenance and accident-free history. I appreciate the condition, but $16,500 is a bit above where I can be. I can move to $15,500 if everything is as described. If you can meet me closer to that, I’m ready to proceed.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer. Given the excellent condition, full maintenance history, and accident-free record, $15,500 is still a bit low for me. I can come down to $16,000 and include a clean, straightforward sale. If you’re able to meet there, we have a deal.", "offer_price": 16000, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=null - The parties are still exchanging offers and no mutual assent is shown in this round.
+  [2] label=null - They discuss willingness to deal, but there is no clear final intention to be legally bound yet.
+  [3] label=null - Price is still being negotiated, so the essential terms are not yet fully agreed.
+  [4] label=null - Nothing in the round indicates compliance or noncompliance with any mandatory formalities.
+  [5] label=1 - The proposed sale appears ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - Both sides are negotiating openly and appear to be deciding freely.
+  [7] label=null - There is no indication that the deal is sham, but that cannot be confirmed yet.
+  [8] label=null - No error, deceit, or threat is evident from the messages, but this cannot be fully determined.
+
+BUYER: {"reply": "Thanks, I appreciate you coming down. $16,000 is fair given the condition and history, and I’m happy to agree at that price. Let’s proceed.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Agreed — $16,000 works for me. I’m happy to proceed with the sale.", "offer_price": 16000, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties expressly agreed to the $16,000 price in this round.
+  [2] label=1 - The buyer and seller clearly intended to be bound and proceed with the sale.
+  [3] label=1 - The essential term, the car and its price, was agreed at $16,000.
+  [4] label=null - No information is provided about any mandatory formalities or statutory requirements.
+  [5] label=1 - Nothing in the exchange suggests an unlawful or bad-faith purpose or content.
+  [6] label=1 - The messages show a voluntary and conscious decision by both sides to conclude the deal.
+  [7] label=1 - There is no indication that the agreement is merely sham or simulated.
+  [8] label=null - The transcript does not show any error, deceit, or threat affecting either declaration.

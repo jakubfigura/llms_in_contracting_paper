@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for showing me this Yaris. It's in great condition with reasonable mileage. I'm interested in moving forward, but I'd like to start the negotiation at $16,500. That's a fair price for a 2019 model with 65,000 km. What are your thoughts on that?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "I appreciate your interest in the Yaris. At $16,500, we're actually quite close. This vehicle has been meticulously maintained with full service records, zero accidents, and excellent condition throughout. Given the current market for 2019 Yaris models with this mileage, I'd be comfortable meeting you at $16,800. That's a solid value for a reliable, well-kept car. Can we work with that?", "offer_price": 16800, "agreed": false}
+
+BUYER: {"reply": "I appreciate the full service records and the excellent condition—that definitely adds value. $16,800 is closer to where I'd like to be. However, I'd like to propose $16,650 as a middle ground. That gives you a fair return while staying within my budget constraints. Can we settle at that price?", "offer_price": 16650, "agreed": false}
+
+SELLER: {"reply": "You know what, I think that's a fair compromise. $16,650 reflects the quality and condition of this Yaris, and it shows you're serious about moving forward. I'm satisfied with that price. Let's make this deal happen.", "offer_price": 16650, "agreed": true}
+
+BUYER: {"reply": "Excellent! I'm glad we could reach an agreement. $16,650 is a fair price for a well-maintained 2019 Yaris with this mileage and condition. I'm ready to move forward with the purchase. Let's proceed with the paperwork and next steps.", "offer_price": 16650, "agreed": true}
+
+SELLER: {"reply": "Perfect! I'm pleased we've reached an agreement at $16,650. This is a great outcome for both of us. Let's move forward with the paperwork. I'll have the title, service records, and all documentation ready for you. We can schedule a time that works for you to complete the transfer and finalize everything. Thank you for your professionalism throughout this negotiation.", "offer_price": 16650, "agreed": true}

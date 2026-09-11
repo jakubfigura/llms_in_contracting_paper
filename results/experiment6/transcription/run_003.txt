@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks. Before I make an offer, can you confirm the maintenance history, any recent service records, and whether the car has had any accidents or mechanical issues? Based on the year, mileage, and condition, I’d like to start at $15,000.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "Yes — the car has a full regular maintenance history, with recent service records available. It has never been in an accident and has no mechanical issues. Given the excellent condition, low mileage for the year, and clean history, I’m asking $16,500. I can be flexible, but I won’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for the details — that’s reassuring. Given the 65,000 km and the market for a 2019 Yaris, $16,500 is a bit high for me. I can move up to $15,500, and if we can agree there, I’m ready to proceed.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer. With the excellent condition, clean accident-free history, and full maintenance records, $15,500 is still a bit below where I need to be. I can meet you at $16,000, and that would be a fair deal for both of us.", "offer_price": 16000, "agreed": false}
+
+BUYER: {"reply": "I appreciate you coming down to $16,000. That’s close, but given the mileage and my budget, I can do $15,800 if we can finalize today. If that works, I’m ready to move forward.", "offer_price": 15800, "agreed": false}
+
+SELLER: {"reply": "I appreciate the seriousness of your offer. Given the car’s excellent condition, full maintenance history, and accident-free record, $15,800 is acceptable, and I’m happy to agree if we can finalize today.", "offer_price": 15800, "agreed": true}
+
+BUYER: {"reply": "Great — $15,800 works for me. I’m ready to finalize the purchase today.", "offer_price": 15800, "agreed": true}
+
+SELLER: {"reply": "Great — we have a deal at $15,800. I’ll prepare the paperwork and coordinate the handover today.", "offer_price": 15800, "agreed": true}

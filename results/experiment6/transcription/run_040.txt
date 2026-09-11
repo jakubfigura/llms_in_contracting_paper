@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds promising, but before I move forward, I’d like to confirm the maintenance history, any recent repairs, and the overall condition of the tires, brakes, and interior. Based on the year and mileage, my initial offer is $15,500. If everything checks out and the service records are solid, I’d be willing to discuss a bit more, but I’d like to stay within my budget.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for your offer. The car has a full regular maintenance history, no accidents, and it’s in excellent overall condition. Tires, brakes, and interior are all in very good shape. Given the 2019 model year, 65,000 km, and the condition, my price is $16,500. I’m willing to negotiate a little, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for the update and for confirming the maintenance history and condition. I appreciate that it’s been well cared for. I can come up to $15,500, but that would need to be my best offer given my budget. If you can meet me there, I’m ready to move forward.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, but $15,500 is below what I can accept for this Yaris given its excellent condition, regular maintenance, and no-accident history. My best price is $16,200. If you can come up, I’m happy to finalize the deal.", "offer_price": 16200, "agreed": false}
+
+BUYER: {"reply": "Thanks for working with me. I understand your position, but $16,200 is still a bit above what I can do. I can meet you at $15,800, and if that works, I’m ready to finalize the deal.", "offer_price": 15800, "agreed": false}
+
+SELLER: {"reply": "I appreciate the continued flexibility. Given the car’s excellent condition, full maintenance history, and no-accident record, I can meet you at $15,800 and consider that a fair agreement. If you’re ready, we can finalize the deal at that price.", "offer_price": 15800, "agreed": true}
+
+BUYER: {"reply": "Great, thank you — $15,800 works for me. I’m happy to proceed and finalize the deal at that price.", "offer_price": 15800, "agreed": true}
+
+SELLER: {"reply": "Great — we have a deal at $15,800. I appreciate the straightforward negotiation, and I’m ready to finalize the sale.", "offer_price": 15800, "agreed": true}

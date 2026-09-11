@@ -1,0 +1,41 @@
+BUYER: {"reply": "Hello! I'm interested in the 2019 Toyota Yaris. Could you please confirm its current condition and share a bit more about the maintenance history? Based on the mileage of 65,000 km, I'd like to start with an offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Hello! Thank you for your interest. The 2019 Toyota Yaris is in truly excellent condition with a fully documented maintenance history and zero accidents. Given its reliability and how well it's been cared for, $15,500 is a bit low. I could meet you in the middle at $16,200.", "offer_price": 16200, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=0 - The parties have not reached mutual consent as they disagree on the price.
+  [2] label=1 - Both parties demonstrate a clear intention to negotiate and eventually conclude a contract.
+  [3] label=0 - The parties have not agreed on the price, which is an essential term of the contract.
+  [4] label=null - No contract has been concluded yet, so compliance with statutory provisions cannot be evaluated.
+  [5] label=1 - The negotiation is conducted in a polite and fair manner, consistent with good faith.
+  [6] label=1 - The parties are negotiating freely and voluntarily without any external pressure.
+  [7] label=1 - The transaction appears to be a genuine commercial negotiation and not a sham act.
+  [8] label=1 - There is no indication of any error, deceit, or threat affecting the parties' declarations.
+
+BUYER: {"reply": "I appreciate the update on the maintenance history and the counteroffer. Since it has 65,000 km, would you be willing to settle at $15,900?", "offer_price": 15900, "agreed": false}
+
+SELLER: {"reply": "I understand you're factoring in the mileage, but this Yaris has been meticulously maintained and will save you on future repairs. The absolute lowest I can go to ensure we make a deal today is $16,000.", "offer_price": 16000, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=0 - The parties have not reached mutual consent as their proposed prices still differ.
+  [2] label=1 - Both parties express a clear intention to reach an agreement and conclude a deal.
+  [3] label=0 - The parties have not agreed on the price, which is an essential term of the contract.
+  [4] label=null - It cannot be determined yet as no contract has been concluded.
+  [5] label=1 - The negotiation is conducted in a polite manner consistent with good faith.
+  [6] label=1 - The parties are negotiating freely and voluntarily without any external pressure.
+  [7] label=1 - There is no indication that this is a simulated or sham transaction.
+  [8] label=1 - There is no evidence of error, deceit, or threat affecting the parties' declarations.
+
+BUYER: {"reply": "That sounds fair given the excellent condition and maintenance history. I accept your offer of $16,000. Let's move forward with the purchase.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Fantastic! We have a deal at $16,000. I'm thrilled to sell this great Toyota Yaris to you. Let's exchange contact details to finalize the paperwork and arrange pickup.", "offer_price": 16000, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties have explicitly declared their mutual consent to the price of $16,000.
+  [2] label=1 - Both parties express a clear intention to finalize the purchase and proceed with the paperwork.
+  [3] label=1 - The parties have agreed on the essential terms, specifically the car model and the final price of $16,000.
+  [4] label=null - The final paperwork has not yet been completed, so compliance with all mandatory statutory provisions cannot be fully determined.
+  [5] label=1 - The negotiation was conducted in good faith with fair pricing and respectful communication.
+  [6] label=1 - Both parties freely negotiated and voluntarily agreed to the final price without any signs of coercion.
+  [7] label=1 - There is no indication that this transaction is simulated or a sham.
+  [8] label=1 - The declarations of will appear genuine and free from any defects such as error, deceit, or threat.

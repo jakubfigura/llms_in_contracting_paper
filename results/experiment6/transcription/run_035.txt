@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds well kept, but with 65,000 km on a 2019 model, I’d like to confirm the maintenance history, service records, and whether there have been any recent repairs or replacements. Based on the mileage and market, my initial offer is $15,500. If everything checks out, I’m ready to move forward.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. The car has been regularly maintained, has no accident history, and is in excellent condition, which supports its value. Given the year, low mileage, and overall condition, I’m asking $16,500. I’m willing to be flexible, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks, that’s helpful. Since it’s been regularly maintained and has no accident history, I’m interested. I can come up to $15,500, but that would need to be my best offer. If you can meet me there, I’m ready to proceed.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, but $15,500 is still a bit below where I can comfortably go. Given the excellent condition, regular maintenance, and no accident history, I can meet you at $16,000. If that works, we can move forward.", "offer_price": 16000, "agreed": false}
+
+BUYER: {"reply": "Thanks, I appreciate you coming down. $16,000 is close, but given my budget and the mileage, I’d like to split the difference at $15,750. If you can do that, I’m ready to move forward.", "offer_price": 15750, "agreed": false}
+
+SELLER: {"reply": "I can meet you at $15,750. With the car’s excellent condition, full maintenance history, and no accidents, that’s a fair price. If you’re ready, we have a deal.", "offer_price": 15750, "agreed": true}
+
+BUYER: {"reply": "Great, we have a deal at $15,750. Please send over the remaining details and we can arrange the next steps.", "offer_price": 15750, "agreed": true}
+
+SELLER: {"reply": "Great — I’m glad we reached an agreement at $15,750. I’ll send over the remaining details so we can arrange the next steps and finalize everything.", "offer_price": 15750, "agreed": true}

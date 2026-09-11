@@ -1,0 +1,19 @@
+BUYER: {"reply": "Thanks for the details. The 2019 Toyota Yaris with 65,000 km sounds promising. Before I move forward, can you confirm the maintenance history, any recent service records, and whether there are any known issues at all? Based on the mileage and market, I’d like to start at $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Yes — the car has regular maintenance records, including recent service, and it has never been in an accident. There are no known issues; it’s in excellent condition overall. Given the 2019 model year, low mileage, and clean history, $15,500 is a bit low. I can meet you at $16,500.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks, that’s helpful. The clean history and recent service are reassuring. I’m interested, but I’d like to stay disciplined on price given the mileage. I can come up to $16,000 and be ready to move quickly if everything checks out.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, and I’m already pricing this fairly based on the excellent condition, regular maintenance, and accident-free history. $16,000 is close, but I can’t go that low. If you’re ready to move quickly, I can settle at $16,250.", "offer_price": 16250, "agreed": false}
+
+BUYER: {"reply": "Thanks, I appreciate you working with me. Given my budget and the market, I can meet you at $16,100 if we can finalize now and everything is as described.", "offer_price": 16100, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer and your willingness to move quickly. Considering the Toyota Yaris’s excellent condition, full maintenance history, and accident-free record, I can come down a bit, but $16,100 is still below what I can accept. My best price is $16,250. If you can meet me there, we have a deal.", "offer_price": 16250, "agreed": false}
+
+BUYER: {"reply": "Thanks for coming down. I understand your position, and $16,250 is still within my budget, but I’d like to close a bit lower if possible. If you can do $16,150, I’m ready to proceed and finalize the purchase.", "offer_price": 16150, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, but I can’t go that low. Given the car’s excellent condition, regular maintenance, no accidents, and the 2019 model with 65,000 km, $16,250 is my best and final price. If you’re ready, I’m happy to move forward at that amount.", "offer_price": 16250, "agreed": false}
+
+BUYER: {"reply": "Understood — thanks for being firm on the price. I can accept $16,250 and we have a deal, provided the car is exactly as described and the maintenance records are available at pickup.", "offer_price": 16250, "agreed": true}
+
+SELLER: {"reply": "Great — we have a deal at $16,250. The car is exactly as described, and I’ll have the maintenance records ready at pickup. Looking forward to finalizing the sale.", "offer_price": 16250, "agreed": true}

@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds like a solid car, but I’d like to confirm a couple things first: can you share the maintenance records, any recent service work, and confirm there have been no accidents or mechanical issues? Based on the year and mileage, I’m prepared to start at $15,000.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "Yes, I can confirm it has a clean history with no accidents or mechanical issues, and the car has been regularly maintained with service records available. It’s in excellent condition for a 2019 Yaris with 65,000 km. Given that, I’d be looking for $16,500. I can be flexible, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks, that’s helpful. I appreciate the clean history and service records. $16,500 is a bit above where I can be on this one, especially with 65,000 km. If you can meet me at $15,500, I’m ready to move forward quickly.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer and the quick decision. Given the excellent condition, regular maintenance, and clean accident-free history, $15,500 is still a bit low for me. I can come down to $16,000, and that would be my best price.", "offer_price": 16000, "agreed": false}
+
+BUYER: {"reply": "Thanks for coming down to $16,000. I’m prepared to agree at that price, provided the car is exactly as described and the service records are included. Let’s proceed.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Agreed — $16,000 works for me, and I’ll include the service records as discussed. The car is exactly as described: excellent condition, regularly maintained, and accident-free. Let’s proceed with the sale.", "offer_price": 16000, "agreed": true}

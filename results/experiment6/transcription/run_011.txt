@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks for the details. Before I make a final decision, could you confirm the maintenance history, any recent service records, and whether there are any cosmetic or mechanical issues? Based on the year and mileage, I’m prepared to start at $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. The car has a full regular maintenance history, with recent service records available. It has no accidents, no mechanical issues, and only very minor cosmetic wear consistent with its age. Given the excellent condition, I’m asking $16,500. I can be flexible, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks, that’s helpful. The maintenance history and condition sound good. Given the mileage, I’d be comfortable moving to $16,000, but I’d need to stay within my budget and I can’t go above $18,000. If you can do $16,000, I’m ready to move forward.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer. Given the excellent condition, full maintenance history, and no accident record, $16,000 is a fair step, but I’d like to hold at $16,500. If you can meet me there, we have a deal and I’m ready to proceed.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "I appreciate the flexibility, and I understand your position. Based on the mileage, I can meet you halfway at $16,250. If you can accept that, I’m ready to proceed with the purchase.", "offer_price": 16250, "agreed": false}
+
+SELLER: {"reply": "I appreciate the counteroffer. Given the Toyota Yaris’s excellent condition, regular maintenance, and clean history, I can come down to $16,250 and accept that as a fair deal. We’re agreed.", "offer_price": 16250, "agreed": true}
+
+BUYER: {"reply": "Agreed — $16,250 works for me. Thank you, and I’m ready to proceed with the purchase.", "offer_price": 16250, "agreed": true}
+
+SELLER: {"reply": "Agreed — $16,250 works for me. Thank you, and I’m ready to proceed with the purchase.", "offer_price": 16250, "agreed": true}

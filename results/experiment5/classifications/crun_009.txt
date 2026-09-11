@@ -1,0 +1,41 @@
+BUYER: {"reply": "Hello, I'm interested in this 2019 Toyota Yaris. I can see it has 65,000 km and appears to be in excellent condition. Before I make an offer, could you walk me through the maintenance history? Has it been serviced regularly at a Toyota dealer? Also, I'd like to confirm there are no accident records or hidden issues. Based on the mileage and condition, I'm thinking around $16,500 to start our discussion. What are your thoughts?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "Thank you for your interest! I appreciate your thorough approach. Yes, this Yaris has been meticulously maintained with full service records at an authorized Toyota dealer—oil changes, filters, and all scheduled maintenance completed on time. There are absolutely no accident records, and it's been a single-owner vehicle with a clean history report. At 65,000 km, it's barely broken in for a Yaris. Your opening offer of $16,500 is reasonable, and I'm comfortable in that ballpark. Given the excellent condition, full maintenance documentation, and low mileage, I'd like to start at $17,500. However, I'm open to negotiating. Would $17,000 work for you as a middle ground?", "offer_price": 17000, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=1 - Both parties have clearly expressed their declarations of intent through specific offer prices ($16,500 from buyer, $17,000 counter-offer from seller) and willingness to negotiate.
+  [2] label=null - While both parties are actively negotiating, it cannot yet be determined if they share a common intention to be legally bound, as they have not reached agreement on price or finalized terms.
+  [3] label=null - The parties have discussed the main subject matter (vehicle specifications, maintenance, history, price range) but have not yet agreed on the essential term of price, which is critical for contract formation.
+  [4] label=null - Compliance with mandatory statutory provisions cannot be assessed until the parties reach agreement and the contract terms are finalized.
+  [5] label=1 - Both parties are conducting the negotiation in good faith with transparent disclosure of vehicle condition, maintenance records, and honest counter-offers without deception.
+  [6] label=1 - Both parties are consciously and freely participating in the negotiation, making independent decisions about their offers without apparent coercion or duress.
+  [7] label=1 - There are no indications that either party is engaging in a simulated or sham transaction; both appear genuinely interested in concluding a real car sale.
+  [8] label=1 - Neither party's declarations of will show signs of error, deceit, or threat; the seller provides verifiable documentation and the buyer asks clarifying questions.
+
+BUYER: {"reply": "I appreciate the detailed maintenance history and the single-owner status—that's definitely valuable. The full service records at an authorized dealer give me confidence in the vehicle's condition. However, at $17,000, I'm still a bit above my comfortable range. Given current market conditions for 2019 Yaris models with this mileage, I'd like to counter at $16,800. This reflects the excellent maintenance you've documented while staying within my budget constraints. Can we meet at $16,800?", "offer_price": 16800, "agreed": false}
+
+SELLER: {"reply": "I appreciate you meeting me closer to the middle—that shows good faith. You're right that the maintenance history is a strong selling point, and I value your recognition of that. At $16,800, we're very close. Let me be straightforward: my bottom line is $16,900. This reflects the true value of a single-owner, accident-free Yaris with full dealer service records and only 65,000 km. It's a solid investment for a reliable vehicle. Can we settle at $16,900?", "offer_price": 16900, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties are making clear declarations of intent with specific offer prices ($16,800 from buyer, $16,900 from seller) in response to each other.
+  [2] label=null - While both parties are negotiating, neither has yet accepted the other's offer, so a common intention to be bound cannot be definitively established at this stage.
+  [3] label=1 - The essential terms are substantially agreed: vehicle identification (2019 Toyota Yaris), mileage (65,000 km), condition (excellent with full maintenance records), and price is nearly settled ($100 difference between $16,800 and $16,900).
+  [4] label=null - Compliance with mandatory statutory provisions cannot be assessed without knowing the applicable jurisdiction and whether required documentation procedures are being followed.
+  [5] label=1 - Both parties are negotiating transparently, acknowledging each other's positions, and demonstrating good faith by moving toward agreement without deception or unreasonable demands.
+  [6] label=1 - Both parties are consciously and freely making counteroffers without any indication of coercion, duress, or lack of voluntary participation in the negotiation.
+  [7] label=1 - The negotiation appears genuine with substantive discussion of vehicle condition, maintenance records, and price justification, showing no signs of a simulated or sham transaction.
+  [8] label=1 - Neither party's declarations show evidence of error, deceit, or threat; both are providing factual information and making reasoned counteroffers.
+
+BUYER: {"reply": "You've made a fair case, and I can see this vehicle is genuinely well-maintained. At $16,900, we're only $100 apart, and honestly, that's a reasonable price for a Yaris in this condition with full service records. I'm satisfied with the transparency you've shown throughout this negotiation. Let's go with $16,900—I'm ready to move forward.", "offer_price": 16900, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm glad we could find common ground. At $16,900, I'm confident you're getting outstanding value with this Yaris. The full maintenance history, single-owner status, and excellent condition speak for themselves. Let's move forward with the paperwork. I'll have all the service records and documentation ready for you. When would you like to finalize the sale?", "offer_price": 16900, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties have clearly expressed their declarations of intent and will regarding the purchase at $16,900, with both marking 'agreed': true.
+  [2] label=1 - Both parties explicitly demonstrate a common intention to conclude the contract and be bound by it, as evidenced by their agreement statements and willingness to proceed with paperwork.
+  [3] label=1 - The essential terms are agreed upon: the vehicle (2019 Toyota Yaris with 65,000 km), the price ($16,900), and key conditions (full maintenance history, single-owner, accident-free status).
+  [4] label=null - Compliance with mandatory statutory provisions cannot be determined from the negotiation transcript alone, as it depends on jurisdiction-specific requirements not addressed in the dialogue.
+  [5] label=1 - The negotiation demonstrates good faith and fair dealing, with both parties showing transparency, reasonableness, and mutual respect throughout the process.
+  [6] label=1 - Both parties have consciously and freely decided to conclude the contract, with the buyer explicitly stating satisfaction and readiness to move forward without any indication of coercion.
+  [7] label=1 - There is no evidence suggesting this is a simulated or sham transaction; both parties appear genuinely committed to completing the sale.
+  [8] label=1 - Neither party's declarations of will show signs of error, deceit, or threat; the buyer has verified information and the seller has provided transparent documentation.

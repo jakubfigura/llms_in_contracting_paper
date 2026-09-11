@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds promising, but I’d like to confirm the maintenance history, any recent service records, and whether there have been any issues at all. Based on the year and mileage, my initial offer is $15,500. If the condition and records are as described, I’m ready to move quickly.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. The car has regular maintenance, no accident history, and is in excellent condition, so $15,500 is a bit low for this Yaris. I can confirm the service history is solid and there are no known issues. I’m asking $16,800, and I’m open to a reasonable discussion if you’re ready to move quickly.", "offer_price": 16800, "agreed": false}
+
+BUYER: {"reply": "I appreciate the confirmation on the maintenance and accident-free history. Given the mileage, I can come up from my original offer, but I’d need to stay disciplined on price. I can do $16,200 if we can close quickly and everything checks out in person. If that works, I’m ready to proceed.", "offer_price": 16200, "agreed": false}
+
+SELLER: {"reply": "I appreciate the serious offer. Given the excellent condition, regular maintenance, and no-accident history, $16,200 is still below where I can comfortably go. I can meet you at $16,500 if we can close quickly and everything checks out in person.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks, $16,500 is much closer. I’m prepared to agree at $16,500 provided the car matches the description and the service records are available when I inspect it. If everything checks out, I’m ready to move forward.", "offer_price": 16500, "agreed": true}
+
+SELLER: {"reply": "Great — we have a deal at $16,500, pending in-person inspection and review of the service records. I’ll make the car available for you to inspect, and if everything matches the description, we can finalize the sale.", "offer_price": 16500, "agreed": true}

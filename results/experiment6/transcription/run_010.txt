@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds promising, but I’d like to confirm a few things first: can you share the maintenance records, confirm there have been no accidents or major repairs, and let me know the condition of the tires, brakes, and battery? Based on the year and mileage, my initial offer is $15,000.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "Thanks for your offer. I can confirm the car has regular maintenance records, no accidents, and no major repairs. The tires, brakes, and battery are all in good condition. Given the excellent condition, low mileage for the year, and Toyota’s reliability, I’m asking $16,500. I can be flexible, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for confirming the maintenance history and condition. That’s reassuring. I understand your position, but $16,500 is a bit above where I’m comfortable. I can move up to $15,500 today if we can close the deal and include the full maintenance records. If that doesn’t work, I’d be willing to meet at $15,000 as my best offer.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer and your willingness to close today. I can include the full maintenance records, and I’m prepared to meet you halfway at $15,800. Given the car’s excellent condition, no accident history, and strong maintenance record, that’s a fair price. If you’re ready to proceed, I can confirm the deal at $15,800.", "offer_price": 15800, "agreed": false}
+
+BUYER: {"reply": "I appreciate you coming down and including the maintenance records. $15,800 is reasonable, but I’m still trying to keep this within budget. If you can confirm there are no hidden issues and the car is exactly as described, I can agree at $15,800 and proceed.", "offer_price": 15800, "agreed": true}
+
+SELLER: {"reply": "Agreed — the car is exactly as described, with no hidden issues. I confirm the sale at $15,800 and will provide the full maintenance records. Looking forward to finalizing the deal.", "offer_price": 15800, "agreed": true}

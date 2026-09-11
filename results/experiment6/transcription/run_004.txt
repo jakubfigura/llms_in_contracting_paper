@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for the details. Before we proceed, can you confirm the full maintenance history and whether there have been any mechanical issues or repainting? Based on the year and mileage, I’m prepared to start at $15,000 if everything checks out.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "Thanks for your offer. The car has a full regular maintenance history, has never been in an accident, and there’s no repainting or known mechanical issues. Given the excellent condition, low mileage for the year, and Toyota reliability, I’m asking $16,500. I’m open to reasonable negotiation, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for confirming the maintenance and accident-free history. I appreciate the condition, but $16,500 is a bit above where I can be. I can move to $15,500 if everything is as described. If you can meet me closer to that, I’m ready to proceed.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer. Given the excellent condition, full maintenance history, and accident-free record, $15,500 is still a bit low for me. I can come down to $16,000 and include a clean, straightforward sale. If you’re able to meet there, we have a deal.", "offer_price": 16000, "agreed": false}
+
+BUYER: {"reply": "Thanks, I appreciate you coming down. $16,000 is fair given the condition and history, and I’m happy to agree at that price. Let’s proceed.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Agreed — $16,000 works for me. I’m happy to proceed with the sale.", "offer_price": 16000, "agreed": true}

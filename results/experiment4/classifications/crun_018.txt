@@ -1,0 +1,27 @@
+BUYER: {"reply": "Hello! I'm interested in the 2019 Toyota Yaris. Given the mileage of 65,000 km, could you share a bit more about its maintenance history and overall condition? Assuming everything checks out, I'd like to start with an offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Hello! Thanks for your interest. The car has been meticulously maintained with a full service history, and it has never been in any accidents—it's truly in excellent condition. Given its reliability and great shape, $15,500 is a bit low for us. We were hoping for closer to $16,500, but we could meet in the middle at $16,000.", "offer_price": 16000, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=0 - The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a higher price.
+  [2] label=1 - Both parties demonstrate a clear intention to negotiate and eventually enter into a binding contract for the vehicle.
+  [3] label=0 - There is no agreement on the essential terms yet, specifically the purchase price of the vehicle.
+  [4] label=null - It cannot be determined at this stage of negotiation whether mandatory statutory provisions will be met upon contract conclusion.
+  [5] label=1 - The negotiation is conducted in a polite, professional manner consistent with good faith and fair dealing.
+  [6] label=1 - Both parties are participating voluntarily and freely proposing their own terms without any external pressure.
+  [7] label=1 - The negotiation appears to be a genuine commercial transaction and not a simulated or sham act.
+  [8] label=1 - There is no indication that either party's declarations are affected by error, deceit, or threat.
+
+BUYER: {"reply": "I appreciate you sharing the maintenance history and confirming the excellent condition. Since it's been well cared for, I'm willing to accept your offer of $16,000. Let's make a deal.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Fantastic! We have a deal at $16,000. I'm thrilled the Toyota Yaris is going to a good home. Let's proceed with the paperwork.", "offer_price": 16000, "agreed": true}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties have explicitly declared their mutual consent to the price of $16,000.
+  [2] label=1 - Both parties express a clear intention to be bound by the agreement and proceed with the paperwork.
+  [3] label=1 - The parties have agreed on the essential terms, which are the specific car (2019 Toyota Yaris) and the price ($16,000).
+  [4] label=1 - There are no indications of any violations of mandatory statutory provisions in this agreement.
+  [5] label=1 - The negotiation was conducted in good faith, with fair terms and polite communication.
+  [6] label=1 - Both parties entered into the agreement freely and consciously without any external pressure.
+  [7] label=1 - The transaction appears to be a genuine sale of a vehicle with no signs of being a sham.
+  [8] label=1 - There is no evidence of any defect in consent, such as error, deceit, or threat.

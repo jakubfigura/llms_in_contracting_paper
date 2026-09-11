@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds well kept, but I’d like to confirm a few things first: can you share the full maintenance history, any recent service work, and confirm there have been no accidents or mechanical issues? Based on the year, mileage, and condition, my initial offer is $15,500. I’m ready to move quickly if everything checks out.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. Yes — the car has a full maintenance history, with regular servicing done on schedule. There have been no accidents or mechanical issues, and it’s in excellent condition overall. Given the 2019 year, 65,000 km, and the clean history, I’d be looking for $16,500. I’m open to a serious, quick deal, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks, that’s helpful. The maintenance history and clean condition are reassuring. I can come up to $16,000 if we can finalize quickly and the car is as described. That’s a fair middle ground from my side, and it keeps us within a serious deal range. If you can accept $16,000, I’m ready to proceed.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer and the quick turnaround. Based on the car’s excellent condition, full maintenance history, and clean record, $16,000 is a bit low for me. I can meet you at $16,250 if we finalize promptly. That’s a fair price for a well-maintained 2019 Toyota Yaris with 65,000 km.", "offer_price": 16250, "agreed": false}
+
+BUYER: {"reply": "Thanks for coming down. I appreciate the clean history and maintenance record. I can meet you at $16,100 if we can finalize now and everything matches what you’ve described. That’s my best offer.", "offer_price": 16100, "agreed": false}
+
+SELLER: {"reply": "I appreciate the serious offer. Given the excellent condition, regular maintenance, and no-accident history, I can’t quite do $16,100. If you can come to $16,250, we have a deal and can finalize right away.", "offer_price": 16250, "agreed": false}
+
+BUYER: {"reply": "I appreciate the counter. $16,250 is still a bit above where I want to be, but I’m prepared to accept it and finalize the deal, assuming the car matches the condition and maintenance history you’ve described.", "offer_price": 16250, "agreed": true}
+
+SELLER: {"reply": "Great — we have a deal at $16,250. I’ll hold the Toyota Yaris for you and we can move ahead to finalize the sale as discussed.", "offer_price": 16250, "agreed": true}

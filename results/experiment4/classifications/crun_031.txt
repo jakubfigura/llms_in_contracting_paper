@@ -1,0 +1,41 @@
+BUYER: {"reply": "Hello! I'm interested in the 2019 Toyota Yaris. Could you share a bit more about its condition and maintenance history? Given the mileage of 65,000 km, I'd like to start with an offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thank you for your interest! The car is in truly excellent condition with a complete regular maintenance record and absolutely no accidents. Given its spotless history and reliability, $15,500 is a bit low for us. However, we can meet in the middle at $16,200 to get this deal moving today.", "offer_price": 16200, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=0 - The parties have not reached mutual consent as they are still negotiating and have proposed different prices.
+  [2] label=1 - Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the vehicle.
+  [3] label=0 - The parties have not yet agreed on the essential term of price, with offers of $15,500 and $16,200.
+  [4] label=null - It cannot be determined at this stage as no final contract has been concluded or drafted.
+  [5] label=1 - The negotiation is conducted in a polite, fair, and professional manner consistent with good faith.
+  [6] label=1 - Both parties are participating in the negotiation freely and determining their offers without coercion.
+  [7] label=1 - There is no indication that this negotiation is a simulated or sham transaction.
+  [8] label=1 - The communications show no signs of being affected by error, deceit, or threats.
+
+BUYER: {"reply": "I appreciate the update on the maintenance history and the counteroffer. Since it's in such great shape and has a clean record, how about we settle at $15,900 to finalize the deal today?", "offer_price": 15900, "agreed": false}
+
+SELLER: {"reply": "That's a very fair proposal, and I appreciate your commitment to wrapping this up today. Let's shake on $15,900 and get the paperwork started!", "offer_price": 15900, "agreed": true}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties have explicitly agreed on the price of $15,900 to finalize the deal.
+  [2] label=1 - The parties express a clear intention to finalize the deal and start the paperwork immediately.
+  [3] label=1 - The parties have agreed on the specific vehicle (2019 Toyota Yaris) and the final price of $15,900.
+  [4] label=null - The text does not provide sufficient details to evaluate compliance with mandatory statutory provisions.
+  [5] label=1 - The negotiation was conducted in a polite, transparent, and fair manner by both parties.
+  [6] label=1 - Both parties negotiated freely and voluntarily arrived at the agreed price without any coercion.
+  [7] label=1 - There is no evidence or indication that this transaction is simulated or a sham.
+  [8] label=1 - The declarations of will appear genuine, free of error, deceit, or duress.
+
+BUYER: {"reply": "Wonderful, I'm glad we could reach an agreement on $15,900. Let's proceed with the paperwork.", "offer_price": 15900, "agreed": true}
+
+SELLER: {"reply": "Fantastic! I'll have all the paperwork and the maintenance records ready for you. Let's finalize the details.", "offer_price": 15900, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties have explicitly declared their mutual consent to the agreed price of $15,900.
+  [2] label=1 - Both parties express a clear, common intention to finalize the deal and proceed with the paperwork.
+  [3] label=1 - The parties have agreed on the essential terms, specifically the vehicle and the final price of $15,900.
+  [4] label=1 - The agreement appears to comply with standard legal requirements for a car sale, with paperwork being prepared.
+  [5] label=1 - The transaction is conducted in good faith and aligns with the principles of fair dealing.
+  [6] label=1 - Both parties negotiated freely and consciously arrived at the agreed terms without any coercion.
+  [7] label=1 - There is no indication that this transaction is a simulated or sham legal act.
+  [8] label=1 - The declarations of will are clear and free from any apparent error, deceit, or threat.

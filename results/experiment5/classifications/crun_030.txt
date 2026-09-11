@@ -1,0 +1,55 @@
+BUYER: {"reply": "Thanks for showing me this Yaris. It's in great condition with reasonable mileage. I've done some research on comparable 2019 models, and I'd like to start our negotiation at $16,500. That accounts for the excellent maintenance history you've mentioned. What are your thoughts on that opening offer?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "I appreciate your offer of $16,500, and I'm glad you recognize the excellent condition of this Yaris. With only 65,000 km, full maintenance records, and no accident history, this vehicle is well above average for a 2019 model. I'm looking to get $17,500 for it—that's a fair price given the low mileage and pristine condition. I'm open to negotiation, but that's my starting position. What do you think?", "offer_price": 17500, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - Both parties have made clear declarations of intent (buyer's offer at $16,500 and seller's counter-offer at $17,500), but mutual consent on a single price point has not yet been reached.
+  [2] label=null - Both parties express willingness to negotiate and be bound by a contract, but they have not yet agreed on the binding terms.
+  [3] label=null - The parties agree on the subject matter (2019 Yaris with 65,000 km and full maintenance records) but disagree on the essential term of price ($16,500 vs. $17,500).
+  [4] label=null - No contract has been concluded yet, so compliance with statutory provisions cannot be evaluated at this stage.
+  [5] label=null - Both parties are negotiating in good faith with transparent reasoning, but the contract has not been concluded to assess overall fairness.
+  [6] label=1 - Both parties demonstrate conscious and free decision-making, with reasoned positions and openness to negotiation without apparent coercion.
+  [7] label=null - No indication of simulated or sham intent; both parties appear to genuinely intend to negotiate a real car sale.
+  [8] label=null - No evidence of error, deceit, or threat affecting either party's declarations of will in this round.
+
+BUYER: {"reply": "I appreciate your position, and I understand the car is in excellent condition. However, $17,500 is at the higher end of the market for this model and mileage. Let me counter at $17,000. That's a solid offer that reflects the vehicle's quality while staying realistic with current market values. Can we meet somewhere in that range?", "offer_price": 17000, "agreed": false}
+
+SELLER: {"reply": "I appreciate you meeting me closer to my asking price. You're right that $17,000 is a strong offer, and I can see we're in the same ballpark now. Given the excellent maintenance history and the fact that this Yaris has no accidents with such low mileage, I think $17,250 is a fair middle ground. That's a reasonable compromise that reflects the true value of this vehicle. Can we settle at $17,250?", "offer_price": 17250, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties have made clear declarations of intent with specific offer prices ($17,000 from buyer, $17,250 from seller) in this round.
+  [2] label=null - While both parties are actively negotiating, neither has yet accepted the other's offer, so a common intention to be bound cannot be definitively established.
+  [3] label=null - The parties have not yet agreed on the essential term (price); they remain $250 apart with no agreement on other material terms.
+  [4] label=null - Compliance with mandatory statutory provisions cannot be assessed until the parties reach agreement on contract terms.
+  [5] label=1 - Both parties are negotiating in good faith with reasonable, market-based offers and transparent reasoning about the vehicle's condition.
+  [6] label=1 - Both parties are consciously and freely making their own decisions about offer prices without apparent coercion or constraint.
+  [7] label=1 - There is no indication that either party is engaging in a simulated or sham transaction; both appear genuinely interested in concluding a sale.
+  [8] label=1 - No evidence of error, deceit, or threat affecting either party's declarations of will in this round.
+
+BUYER: {"reply": "I appreciate you meeting me halfway. $17,250 is a reasonable offer, and I can see we're close. Let me make a final counter at $17,100. That gives us a fair split and keeps us both satisfied. I'm ready to move forward at that price if you can agree to it.", "offer_price": 17100, "agreed": false}
+
+SELLER: {"reply": "I appreciate your willingness to negotiate in good faith. $17,100 is very close to where I am, and I can see we're both being reasonable here. You know what? I'm comfortable accepting $17,100. That's a fair price for this well-maintained Yaris, and I'm ready to move forward with the sale at that price.", "offer_price": 17100, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties have clearly expressed their declarations of intent and will regarding the transaction in this round.
+  [2] label=1 - Both parties demonstrate a common intention to conclude a binding contract and accept its legal effects through their continued negotiation and eventual agreement.
+  [3] label=1 - The essential terms are agreed upon: the vehicle (2019 Yaris), the price ($17,100), and the parties' identities are established.
+  [4] label=null - Compliance with mandatory statutory provisions cannot be determined from the negotiation transcript alone without knowing the applicable jurisdiction's requirements.
+  [5] label=1 - Both parties negotiate in good faith with transparent reasoning, reasonable compromises, and fair dealing throughout the exchange.
+  [6] label=1 - Both parties demonstrate conscious and free decision-making through gradual negotiation steps and explicit acceptance without coercion or pressure.
+  [7] label=1 - There is no indication that this is a simulated or sham transaction; both parties appear genuinely interested in completing the sale.
+  [8] label=1 - No evidence of error, deceit, or threat affecting either party's declarations of will appears in the negotiation transcript.
+
+BUYER: {"reply": "Excellent! I'm glad we could reach an agreement. $17,100 is a fair price for this excellent Yaris, and I'm satisfied with the deal. Let's move forward with the paperwork and inspection. I appreciate your professionalism throughout this negotiation, and I'm confident I'm getting a quality vehicle here.", "offer_price": 17100, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm very pleased we could reach an agreement at $17,100. This is a great outcome for both of us. I appreciate your professionalism and fair approach to the negotiation as well. I'm confident you're getting a quality vehicle that will serve you well. Let's proceed with the paperwork and final inspection right away. I'll have all the maintenance records and documentation ready for you. Welcome to owning this Yaris!", "offer_price": 17100, "agreed": true}
+
+JUDGE [round 4]:
+  [1] label=1 - Both parties have clearly expressed mutual declarations of intent to conclude a contract at $17,100, with both confirming agreement.
+  [2] label=1 - Both parties explicitly demonstrate a common intention to be bound by the contract, as evidenced by their agreement to proceed with paperwork and finalization.
+  [3] label=1 - The essential terms are agreed upon: the vehicle (2019 Yaris), the price ($17,100), and the parties' identities are clear from context.
+  [4] label=null - Compliance with mandatory statutory provisions cannot be determined from the negotiation transcript alone, as it depends on jurisdiction-specific requirements not addressed in the dialogue.
+  [5] label=1 - Both parties have negotiated in good faith with transparent reasoning, reasonable compromises, and professional conduct throughout, consistent with fair dealing principles.
+  [6] label=1 - Both parties have consciously and freely made their decisions without any indication of coercion, duress, or external pressure affecting their choices.
+  [7] label=1 - There is no evidence suggesting this is a simulated or sham transaction; both parties appear genuinely committed to completing the sale.
+  [8] label=1 - Neither party's declarations of will show signs of error, deceit, or threat; the negotiation has been transparent and straightforward.

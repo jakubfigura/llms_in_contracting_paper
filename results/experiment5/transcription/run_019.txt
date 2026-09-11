@@ -1,0 +1,11 @@
+BUYER: {"reply": "Hi, thanks for showing me this Yaris. It's in great condition and I appreciate the maintenance history. For a 2019 with 65,000 km, I'd like to start negotiations at $16,500. I'm a serious buyer ready to move forward quickly if we can reach a fair price.", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "Thank you for your interest and for being a serious buyer. I appreciate that. Your offer of $16,500 is reasonable, and I'm glad you recognize the excellent condition of this Yaris. Given the low mileage, pristine maintenance record, and no accident history, I was initially looking at $17,500. However, since you're ready to move quickly, I'm willing to meet you at $17,000. That's a fair price for a vehicle in this condition. What do you think?", "offer_price": 17000, "agreed": false}
+
+BUYER: {"reply": "I appreciate you meeting me halfway. The $17,000 offer is closer, and I do value the excellent maintenance and clean history. However, at that price point, I'm still a bit above my comfortable range. Would you consider $16,800? That gives you a solid return while keeping me within my budget. I'm ready to finalize today if we can agree on that price.", "offer_price": 16800, "agreed": false}
+
+SELLER: {"reply": "I appreciate your flexibility, and I can see you're a serious buyer ready to close today. $16,800 is very close to where I need to be. Let me meet you there—$16,800 is acceptable to me. We have a deal. I can prepare the paperwork right away, and we can finalize everything today.", "offer_price": 16800, "agreed": true}
+
+BUYER: {"reply": "Excellent! I'm pleased we've reached an agreement at $16,800. That works perfectly for me. Yes, let's move forward with the paperwork right away. I'm ready to complete the purchase today. Thank you for being flexible and professional throughout this negotiation. Let's get the documents prepared.", "offer_price": 16800, "agreed": true}
+
+SELLER: {"reply": "Perfect! Thank you for being a straightforward and professional buyer. I'm glad we could reach an agreement at $16,800. I'll have all the paperwork ready for you immediately—title transfer, maintenance records, and any other documentation you need. Let's get this finalized today. Welcome to your new Toyota Yaris!", "offer_price": 16800, "agreed": true}

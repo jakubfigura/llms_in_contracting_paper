@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks for showing me this Yaris. It's in great condition with reasonable mileage. I'm very interested, but I'd like to start the negotiation at $16,500. That accounts for the age and current market value for this model. What's your asking price?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "I appreciate your interest! The $16,500 offer is a solid starting point. Given this Yaris's excellent condition, regular maintenance history, and relatively low mileage at 65,000 km, I'm looking at $18,500 as my asking price. That's competitive for a well-maintained 2019 model like this one. However, I'm open to negotiating. Where do you see room to meet in the middle?", "offer_price": 18500, "agreed": false}
+
+BUYER: {"reply": "I appreciate the details on the maintenance history—that's definitely a strong point. However, $18,500 is above my maximum budget of $18,000. I can see this car is well-maintained, but at 65,000 km and 2019 model year, I'd like to propose $17,200. That's a fair middle ground that reflects the car's value while staying within my range. Can we work with that?", "offer_price": 17200, "agreed": false}
+
+SELLER: {"reply": "I appreciate you working toward a middle ground. $17,200 is closer, but it's still a bit below what I need for this vehicle given its excellent condition and maintenance record. How about we meet at $17,750? That's a reasonable compromise that reflects the car's quality while staying within a range we can both feel good about. This Yaris is priced fairly for the market, and at that price, you're getting exceptional value.", "offer_price": 17750, "agreed": false}
+
+BUYER: {"reply": "I appreciate your willingness to negotiate. $17,750 is closer to where I need to be. Let me propose $17,500 as my counter-offer. That's a solid compromise—it's a $250 difference from your ask, and it gets us very close. Given the excellent condition and maintenance history you've highlighted, I think that's fair value for both of us. Can we agree at $17,500?", "offer_price": 17500, "agreed": false}
+
+SELLER: {"reply": "You know what, I think $17,500 is a fair deal. This car is in excellent condition with a solid maintenance history, and you're a serious buyer. Let's make this happen at $17,500. I'm comfortable with that price.", "offer_price": 17500, "agreed": true}
+
+BUYER: {"reply": "Excellent! I'm glad we could reach an agreement. $17,500 is a fair price for this well-maintained Yaris, and I'm confident in this purchase. Let's move forward with the paperwork and finalize the sale. Thank you for negotiating in good faith—I'm happy with this deal.", "offer_price": 17500, "agreed": true}
+
+SELLER: {"reply": "Perfect! I'm glad we could work this out together. $17,500 is a fair price for both of us, and I'm confident you're getting a great vehicle. Let's proceed with the paperwork right away. I'll have all the maintenance records and documentation ready for you. Thank you for being a straightforward negotiator—I appreciate it. Welcome to your new Yaris!", "offer_price": 17500, "agreed": true}

@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for showing me this Yaris. It's in great condition with reasonable mileage. Based on the 2019 model year, current market values, and the 65,000 km on it, I'd like to start our negotiation at $16,500. That gives us room to work with if there are any details about the maintenance history I should know about.", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "I appreciate your interest in the Yaris. At $16,500, we're actually quite close. This vehicle has been meticulously maintained with full service records, zero accidents, and the engine runs perfectly. Given the excellent condition and low mileage for a 2019, I'm confident in asking $17,200. However, I'm open to meeting somewhere in the middle if you'd like to move forward today. What works best for you?", "offer_price": 17200, "agreed": false}
+
+BUYER: {"reply": "I appreciate the full service records and the excellent maintenance—that definitely adds value. $17,200 is closer to where I'd like to be. Given that we're only $700 apart, how about we split the difference at $16,850? That's a fair compromise, and I'm ready to move forward today if we can agree on that price.", "offer_price": 16850, "agreed": false}
+
+SELLER: {"reply": "I appreciate you meeting me halfway—that shows good faith. You're right that we're very close. $16,850 is a solid offer, and I respect that you're ready to move forward today. Let's do it. We have a deal at $16,850.", "offer_price": 16850, "agreed": true}
+
+BUYER: {"reply": "Excellent! I'm glad we could reach an agreement. $16,850 is a fair price for a well-maintained 2019 Yaris in excellent condition. I'm satisfied with this deal. Let's move forward with the paperwork and finalize the purchase. Thank you for the smooth negotiation.", "offer_price": 16850, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm very pleased we could come to an agreement. $16,850 is fair for both of us, and I'm confident you're getting a reliable vehicle with outstanding maintenance records. I'll have all the documentation ready—service history, registration, and ownership transfer papers. When would you like to complete the paperwork and finalize everything?", "offer_price": 16850, "agreed": true}

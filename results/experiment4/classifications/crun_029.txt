@@ -1,0 +1,41 @@
+BUYER: {"reply": "Hello! I'm interested in the 2019 Toyota Yaris. Could you tell me a bit more about its condition and maintenance history? Based on the mileage of 65,000 km, I'd like to start with an offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thank you for your interest! The 2019 Toyota Yaris is in excellent condition, with a complete regular maintenance history and absolutely no accidents. Given its pristine condition and reliable history, $15,500 is a bit low. I could meet you in the middle at $16,500.", "offer_price": 16500, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - The parties are still negotiating and have not yet reached a mutual agreement.
+  [2] label=null - Although both parties show interest, a final common intention to be bound cannot be determined while negotiations are ongoing.
+  [3] label=0 - The parties have not agreed on the price, with the buyer offering $15,500 and the seller countering with $16,500.
+  [4] label=null - No contract has been concluded yet at this stage of the negotiation.
+  [5] label=1 - The negotiation is conducted in a polite, fair, and professional manner consistent with good faith.
+  [6] label=1 - Both parties are participating in the negotiation consciously and of their own free will.
+  [7] label=1 - There is no indication that this negotiation is a simulated or sham transaction.
+  [8] label=1 - The declarations of will are free from any apparent defects such as error, deceit, or threat.
+
+BUYER: {"reply": "That's good to hear about the maintenance history and lack of accidents. Since it's still a 2019 model with 65,000 km, could we settle at $16,000?", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate your offer. Considering the excellent mechanical shape and clean history of the Yaris, the absolute lowest I can go is $16,200. That is a great value for this car.", "offer_price": 16200, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=0 - The parties have not reached mutual consent, as the buyer offered $16,000 and the seller countered with $16,200.
+  [2] label=1 - Both parties demonstrate a clear intention to negotiate and eventually reach a binding agreement.
+  [3] label=0 - The parties have not agreed on the price, which is an essential term of the contract.
+  [4] label=null - No contract has been concluded yet, so compliance with statutory provisions cannot be determined.
+  [5] label=1 - The negotiation is conducted in a respectful manner, consistent with the principles of good faith and fair dealing.
+  [6] label=1 - Both parties are negotiating freely and determining their offers without any external pressure.
+  [7] label=null - No contract has been concluded yet, so it cannot be evaluated as a simulated act.
+  [8] label=1 - There is no indication of error, deceit, or threat in the parties' current declarations of intent.
+
+BUYER: {"reply": "That sounds fair. I can agree to $16,200 for the Yaris.", "offer_price": 16200, "agreed": true}
+
+SELLER: {"reply": "Wonderful! We have a deal at $16,200. I'm glad we could reach an agreement, and I'm sure you'll love driving this Yaris.", "offer_price": 16200, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties have explicitly declared their mutual consent to the price of $16,200.
+  [2] label=1 - The parties clearly express their intention to finalize the deal and be bound by the agreed price.
+  [3] label=1 - The parties have agreed on the essential terms, which are the specific car model and the final price of $16,200.
+  [4] label=null - It cannot be determined at this stage whether all mandatory statutory provisions for a vehicle transfer have been met.
+  [5] label=1 - The negotiation was conducted in good faith with fair concessions from both sides.
+  [6] label=1 - Both parties freely negotiated and arrived at the final price without any signs of coercion.
+  [7] label=1 - There is no indication that this transaction is simulated or a sham.
+  [8] label=1 - The declarations of will appear free from any defects such as error, deceit, or duress.

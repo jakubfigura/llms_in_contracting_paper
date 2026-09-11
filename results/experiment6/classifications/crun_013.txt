@@ -1,0 +1,55 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds promising, but before I move forward, can you confirm the full maintenance history, any recent repairs, and whether there are any cosmetic or mechanical issues I should know about? Based on the year and mileage, my initial offer is $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. The car has a full regular maintenance history, has never been in an accident, and there are no known mechanical issues. It’s in excellent condition with only normal cosmetic wear for its age and mileage. Given the 2019 model year, 65,000 km, and the condition, I’m asking $16,800. I can be flexible, but I can’t go below $15,000.", "offer_price": 16800, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - The parties are still exchanging offers and information, so mutual consent to a final contract is not yet clear.
+  [2] label=null - There is no clear intention yet to be legally bound by a concluded sale agreement.
+  [3] label=null - The essential term of price is still unsettled, with buyer at $15,500 and seller at $16,800/$15,000 floor.
+  [4] label=null - No mandatory formalities or statutory compliance issues are addressed in this negotiation round.
+  [5] label=null - Nothing in the exchange suggests bad faith or an unlawful purpose.
+  [6] label=null - Both sides are negotiating voluntarily, but a final conscious decision to contract has not yet been shown.
+  [7] label=null - There is no indication that the discussion is a sham transaction.
+  [8] label=null - No error, deceit, or threat is apparent from the messages.
+
+BUYER: {"reply": "Thanks, that’s helpful. The maintenance and accident-free history are reassuring. Given the mileage and normal cosmetic wear, I can come up to $15,500, but that would be my strongest offer. If you can meet me there, I’m ready to move forward.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, but $15,500 is still below what I can accept for this Toyota Yaris in excellent condition with full maintenance history and no accidents. I can come down to $16,200 to keep things moving, and that’s a fair price for the year, mileage, and condition. If you can meet me there, we can close it.", "offer_price": 16200, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=null - The parties are still negotiating and have not both clearly expressed final consent to the same terms in this round.
+  [2] label=null - There is an intention to close if the price is met, but no mutual binding commitment has been formed yet.
+  [3] label=null - The main subject matter is identified as a Toyota Yaris, but the final agreed price is still unsettled.
+  [4] label=null - Nothing in the exchange indicates compliance or noncompliance with any mandatory legal formalities.
+  [5] label=1 - The proposed sale appears ordinary and lawful, with no sign of bad faith or socially unacceptable purpose.
+  [6] label=1 - Both sides are negotiating openly and appear to be deciding freely on the terms.
+  [7] label=null - There is no indication that this is a sham transaction, but the transcript does not address that directly.
+  [8] label=null - No error, deceit, or threat is apparent, but the record is insufficient to rule out defects conclusively.
+
+BUYER: {"reply": "I appreciate the flexibility and the condition details. $16,200 is still a bit above my target, but I do want to keep this moving. I can meet you at $15,800 if everything checks out in person. If that works, I’m ready to proceed.", "offer_price": 15800, "agreed": false}
+
+SELLER: {"reply": "Thanks, I appreciate the serious offer. At $15,800, we’re very close, and given the excellent condition, full maintenance history, and accident-free record, I can agree to that if everything checks out in person. Let’s proceed at $15,800.", "offer_price": 15800, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties clearly expressed assent to proceed at $15,800 if the car checks out in person.
+  [2] label=1 - The buyer and seller showed a shared intention to be bound by a sale at the stated price, subject to inspection.
+  [3] label=null - The essential terms are mostly clear, but the final agreement is still conditional on the in-person check.
+  [4] label=null - No information is provided about any mandatory legal formalities for this car sale.
+  [5] label=1 - Nothing in the exchange suggests unfairness or inconsistency with good faith and fair dealing.
+  [6] label=1 - The messages indicate both sides voluntarily negotiated and accepted the price without apparent coercion.
+  [7] label=null - There is no indication that the deal is sham, but the text does not conclusively rule it out.
+  [8] label=null - No error, deceit, or threat is apparent from the negotiation transcript.
+
+BUYER: {"reply": "Great, thank you. I’m happy to proceed at $15,800, pending a quick in-person check of the car’s condition and documents. Please let me know a convenient time to inspect it and finalize the sale.", "offer_price": 15800, "agreed": true}
+
+SELLER: {"reply": "Great, we’re agreed at $15,800 pending the in-person check. I’m available tomorrow afternoon or this weekend—let me know what time works best for you, and I’ll have the documents ready.", "offer_price": 15800, "agreed": true}
+
+JUDGE [round 4]:
+  [1] label=1 - Both parties clearly expressed assent to the $15,800 deal in this round.
+  [2] label=1 - They showed an intention to be bound, subject only to a routine in-person check.
+  [3] label=1 - The essential terms, namely the car and the price, are sufficiently agreed.
+  [4] label=null - No facts indicate whether any mandatory legal formalities are required or satisfied.
+  [5] label=1 - The agreed terms appear lawful and consistent with good faith and fair dealing.
+  [6] label=1 - The messages show a conscious and voluntary decision to proceed with the sale.
+  [7] label=null - There is no indication that this is a sham transaction, but it cannot be determined conclusively.
+  [8] label=null - No error, deceit, or threat is apparent from the negotiation text.

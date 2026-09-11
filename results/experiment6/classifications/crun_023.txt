@@ -1,0 +1,55 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds well kept, but I’d like to confirm a few things first: can you share the full maintenance history, any recent service work, and confirm there have been no accidents or mechanical issues? Based on the year, mileage, and condition, my initial offer is $15,500. I’m ready to move quickly if everything checks out.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. Yes — the car has a full maintenance history, with regular servicing done on schedule. There have been no accidents or mechanical issues, and it’s in excellent condition overall. Given the 2019 year, 65,000 km, and the clean history, I’d be looking for $16,500. I’m open to a serious, quick deal, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - The parties exchanged offers and information, but no mutual assent to the same terms is shown yet.
+  [2] label=null - They indicate willingness to deal, but there is no clear common intention to be legally bound at this stage.
+  [3] label=null - The essential term of price is still unsettled, so agreement on all main terms is not reached.
+  [4] label=null - Nothing in the exchange indicates compliance or noncompliance with any mandatory formal requirements.
+  [5] label=1 - The proposed sale appears ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - Both sides are negotiating voluntarily and appear to be acting freely.
+  [7] label=null - There is no indication that either statement is a sham transaction, but this cannot be confirmed yet.
+  [8] label=null - No error, deceit, or threat is evident from the messages, but defects of will cannot be ruled out.
+
+BUYER: {"reply": "Thanks, that’s helpful. The maintenance history and clean condition are reassuring. I can come up to $16,000 if we can finalize quickly and the car is as described. That’s a fair middle ground from my side, and it keeps us within a serious deal range. If you can accept $16,000, I’m ready to proceed.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer and the quick turnaround. Based on the car’s excellent condition, full maintenance history, and clean record, $16,000 is a bit low for me. I can meet you at $16,250 if we finalize promptly. That’s a fair price for a well-maintained 2019 Toyota Yaris with 65,000 km.", "offer_price": 16250, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=null - The parties are still negotiating and have not yet expressed matching assent to the same price.
+  [2] label=null - They show intent to reach a deal, but no final commitment to be legally bound is stated.
+  [3] label=null - The main subject matter and price are discussed, but no final agreement on essential terms is reached.
+  [4] label=null - Nothing in this round indicates compliance or noncompliance with any mandatory legal formalities.
+  [5] label=1 - The proposed sale of a car at an agreed price is ordinary and not contrary to good faith or fair dealing.
+  [6] label=1 - Both sides are negotiating openly and appear to be deciding freely on the terms.
+  [7] label=null - There is no indication that the deal is sham, but the negotiations are not yet concluded.
+  [8] label=null - No error, deceit, or threat is apparent in the exchanged messages.
+
+BUYER: {"reply": "Thanks for coming down. I appreciate the clean history and maintenance record. I can meet you at $16,100 if we can finalize now and everything matches what you’ve described. That’s my best offer.", "offer_price": 16100, "agreed": false}
+
+SELLER: {"reply": "I appreciate the serious offer. Given the excellent condition, regular maintenance, and no-accident history, I can’t quite do $16,100. If you can come to $16,250, we have a deal and can finalize right away.", "offer_price": 16250, "agreed": false}
+
+JUDGE [round 3]:
+  [1] label=null - The last messages show ongoing bargaining, but no mutual assent to the same price yet.
+  [2] label=null - The parties express willingness to deal, but a binding intention is not yet clearly formed.
+  [3] label=null - The essential terms are mostly identified, but the final price remains unsettled.
+  [4] label=null - Nothing in the round indicates compliance or noncompliance with mandatory legal formalities.
+  [5] label=1 - The negotiation concerns a lawful car sale and shows no sign of bad faith or improper purpose.
+  [6] label=1 - Both sides appear to negotiate voluntarily and openly without coercion.
+  [7] label=1 - There is no indication that the exchange is a sham rather than a real negotiation.
+  [8] label=null - No error, deceit, or threat is evident, but the text does not fully rule out defects in consent.
+
+BUYER: {"reply": "I appreciate the counter. $16,250 is still a bit above where I want to be, but I’m prepared to accept it and finalize the deal, assuming the car matches the condition and maintenance history you’ve described.", "offer_price": 16250, "agreed": true}
+
+SELLER: {"reply": "Great — we have a deal at $16,250. I’ll hold the Toyota Yaris for you and we can move ahead to finalize the sale as discussed.", "offer_price": 16250, "agreed": true}
+
+JUDGE [round 4]:
+  [1] label=1 - Both parties clearly expressed assent to the $16,250 price in the last round.
+  [2] label=1 - The buyer accepted and the seller confirmed they have a deal, showing intent to be bound.
+  [3] label=1 - The essential terms identified in the negotiation are the car and the agreed price, both of which are settled.
+  [4] label=null - No information is provided about any mandatory formalities required for this sale.
+  [5] label=1 - The agreed sale of a car at an arm’s-length price does not appear contrary to good faith or fair dealing.
+  [6] label=1 - The messages show both sides consciously and voluntarily agreeing to finalize the deal.
+  [7] label=null - There is no indication that the agreement is a sham, but the text does not conclusively rule that out.
+  [8] label=null - Nothing in the round suggests error, deceit, or threat, but none can be definitively excluded from the text.

@@ -1,0 +1,937 @@
+run,round,criterion,label,justification
+1,1,1,,The parties are still negotiating and have not yet reached a mutual agreement on the price.
+1,1,2,,The parties are actively negotiating but have not yet expressed a final common intention to be legally bound.
+1,1,3,,"The essential term of price is still under negotiation, with the buyer offering $15,500 and the seller countering with $16,200."
+1,1,4,,It cannot be determined at this early stage of negotiation whether all mandatory statutory provisions will be met.
+1,1,5,1,"The negotiation is conducted in a polite, respectful, and fair manner, consistent with good faith."
+1,1,6,1,Both parties are participating voluntarily and freely proposing their respective terms.
+1,1,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+1,1,8,1,"The communication is clear and free from any signs of error, deceit, or coercion."
+1,2,1,1,"Both parties have explicitly agreed on the price of $16,000 to close the deal."
+1,2,2,1,"The parties express a clear, mutual intention to finalize the transaction and be bound by the agreement."
+1,2,3,1,"The parties have agreed on the essential terms, specifically the 2019 Toyota Yaris and the price of $16,000."
+1,2,4,,There is insufficient information in the transcript to determine compliance with all mandatory statutory provisions.
+1,2,5,1,"The negotiation was conducted in a polite, fair, and transparent manner, consistent with good faith."
+1,2,6,1,Both parties participated voluntarily and negotiated the price freely without any signs of coercion.
+1,2,7,1,The transaction appears to be a genuine sale of a vehicle with no indication of a simulated or sham act.
+1,2,8,1,"There is no evidence of error, deceit, or threat influencing either party's declaration of will."
+1,3,1,1,"Both parties have explicitly declared their mutual consent to the transaction at the agreed price of $16,000."
+1,3,2,1,"The parties are actively arranging a meeting to finalize the paperwork and payment, confirming their intention to be legally bound."
+1,3,3,1,"The parties have agreed on the essential terms of the contract, specifically the 2019 Toyota Yaris and the price of $16,000."
+1,3,4,1,"The transaction follows standard legal procedures for a vehicle sale, including the transfer of the title and secure payment at a bank."
+1,3,5,1,"The negotiation has been conducted in a polite, transparent manner, consistent with the principles of good faith and fair dealing."
+1,3,6,1,Both parties consciously and freely negotiated the price and voluntarily decided to conclude the contract.
+1,3,7,1,There is no indication that this is a simulated or sham transaction; both parties genuinely intend to complete the sale.
+1,3,8,1,"The declarations of will are clear, informed, and free from any apparent defect, error, deceit, or threat."
+2,1,1,,The parties are still negotiating the price and have not yet reached mutual consent.
+2,1,2,,"Although both parties express interest, a final common intention to be bound by a contract is not yet established."
+2,1,3,,"The parties have not yet agreed on the essential term of price, as the buyer offered $15,500 and the seller countered with $16,000."
+2,1,4,,"No contract has been concluded yet, so compliance with mandatory statutory provisions cannot be determined."
+2,1,5,1,"The negotiation is being conducted in a polite, fair, and professional manner consistent with good faith."
+2,1,6,1,Both parties are participating in the negotiation consciously and of their own free will.
+2,1,7,,It cannot be determined if it is a sham act as no contract has been concluded yet.
+2,1,8,1,"There is no indication of any error, deceit, or threat affecting the parties' current declarations."
+2,2,1,,The parties are still negotiating and have not yet reached a mutual agreement on the price.
+2,2,2,1,Both parties express a clear intention to reach an agreement and conclude a deal.
+2,2,3,,"The essential term of price is still under negotiation, with the buyer proposing $15,750 and the seller countering with $15,850."
+2,2,4,,It cannot be determined at this stage as the contract has not yet been concluded.
+2,2,5,1,"The negotiation is conducted in a polite, fair, and cooperative manner, consistent with good faith."
+2,2,6,1,Both parties are participating in the negotiation freely and making conscious decisions regarding their offers.
+2,2,7,1,There is no indication that this negotiation is a sham or simulated act.
+2,2,8,1,"There is no evidence of error, deceit, or threat influencing either party's declarations."
+2,3,1,1,"Both parties have explicitly declared their mutual consent to the final price of $15,850."
+2,3,2,1,"Both parties express a clear intention to be legally bound, with the seller preparing the paperwork to finalize the deal."
+2,3,3,1,"The parties have agreed on the essential terms of the contract: the specific vehicle (2019 Toyota Yaris) and the price ($15,850)."
+2,3,4,,It cannot be determined from the chat transcript alone whether all mandatory statutory provisions for a vehicle sale have been met.
+2,3,5,1,"The negotiation was conducted in a polite, fair, and transparent manner, consistent with good faith and fair dealing."
+2,3,6,1,Both parties consciously and freely negotiated the price and agreed to the final terms without any coercion.
+2,3,7,,It cannot be determined from the text of the negotiation whether this is a simulated or sham transaction.
+2,3,8,1,"There is no indication of any defect, such as error, deceit, or threat, affecting either party's declaration of will."
+3,1,1,0,The parties have not reached mutual consent as they are still negotiating and have proposed different prices.
+3,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the vehicle.
+3,1,3,0,"There is no agreement on the essential terms yet, specifically the purchase price of the vehicle."
+3,1,4,,It cannot be determined at this stage whether mandatory statutory provisions will be met upon contract conclusion.
+3,1,5,1,The parties are communicating politely and negotiating in accordance with the principles of good faith and fair dealing.
+3,1,6,1,Both parties are participating in the negotiation freely and consciously determining their own proposed terms.
+3,1,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+3,1,8,1,"None of the declarations of will appear to be affected by error, deceit, or threat."
+3,2,1,0,"The parties have not reached mutual consent as their proposed prices of $15,900 and $16,000 still differ."
+3,2,2,1,Both parties express a clear intention to conclude a contract today once they can agree on the final price.
+3,2,3,0,"Agreement on the essential term of price has not been reached, with a remaining gap of $100."
+3,2,4,,It cannot be determined at this stage as the contract has not yet been finalized.
+3,2,5,1,"The negotiation is conducted in a polite, fair, and transparent manner by both parties."
+3,2,6,1,"Both parties are participating voluntarily and making conscious, uncoerced decisions regarding the terms."
+3,2,7,1,"The transaction is a genuine attempt to buy and sell a vehicle, with no indication of a sham."
+3,2,8,1,"There is no indication of any error, deceit, or threat affecting either party's declarations of will."
+3,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,000."
+3,3,2,1,The parties clearly express their intention to be bound by the agreement and proceed with the paperwork.
+3,3,3,1,"The parties have agreed on the essential terms, specifically the vehicle (2019 Toyota Yaris) and the final price ($16,000)."
+3,3,4,,Compliance with all mandatory statutory provisions cannot be fully determined solely from the chat transcript.
+3,3,5,1,"The negotiation was conducted in good faith, with transparent communication and mutual respect."
+3,3,6,1,Both parties negotiated freely and voluntarily arrived at the agreed price without any signs of coercion.
+3,3,7,1,There is no evidence suggesting that this transaction is simulated or a sham.
+3,3,8,1,"The declarations of will appear genuine and free from any defects such as error, deceit, or duress."
+4,1,1,,The parties are still negotiating and have not yet reached a mutual agreement on the price.
+4,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the vehicle.
+4,1,3,,"The essential term of price is still under negotiation, as the seller countered the buyer's initial offer."
+4,1,4,,"No contract has been concluded yet, so compliance with mandatory statutory provisions cannot be fully determined."
+4,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+4,1,6,1,Both parties are participating in the negotiation freely and consciously without any external pressure.
+4,1,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+4,1,8,1,"The declarations of will are clear and free from any apparent error, deceit, or threat."
+4,2,1,,Mutual consent has not yet been reached as the parties are still negotiating the final price.
+4,2,2,1,Both parties express a clear intention to reach an agreement and close the deal today.
+4,2,3,,The essential term of price is still under negotiation and has not been finalized.
+4,2,4,,It cannot be determined at this stage whether mandatory statutory provisions are met as the contract is not yet concluded.
+4,2,5,1,"The negotiation is conducted in a polite, fair, and cooperative manner consistent with good faith."
+4,2,6,1,Both parties are consciously and freely making offers to determine the content of the potential contract.
+4,2,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+4,2,8,1,"None of the declarations of will in this round appear to be affected by error, deceit, or threat."
+4,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $17,000 for the vehicle."
+4,3,2,1,Both parties expressed a clear intention to be legally bound by the agreement and proceed with the paperwork.
+4,3,3,1,"The parties have agreed on the essential terms of the contract, specifically the 2019 Toyota Yaris and the price of $17,000."
+4,3,4,,Compliance with mandatory statutory provisions cannot be fully determined until the formal paperwork is drafted and executed.
+4,3,5,1,"The negotiation was conducted in a polite, fair, and transparent manner, consistent with good faith and fair dealing."
+4,3,6,1,Both parties consciously and freely negotiated the terms and decided to conclude the contract without any coercion.
+4,3,7,1,There is no indication that this transaction is a simulated or sham legal act.
+4,3,8,1,"There is no evidence of any defect, error, deceit, or threat affecting either party's declaration of will."
+5,1,1,,The parties have not yet reached a mutual agreement on the price.
+5,1,2,,The contract has not been concluded yet as negotiations are still ongoing.
+5,1,3,,"The parties are still negotiating the purchase price, which is an essential term of the contract."
+5,1,4,,No contract has been concluded yet to evaluate compliance with mandatory statutory provisions.
+5,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner consistent with good faith."
+5,1,6,1,Both parties are freely and consciously participating in the negotiation process.
+5,1,7,,It cannot be determined at this early stage of negotiation whether the act is simulated.
+5,1,8,1,"There is no indication of any error, deceit, or threat affecting the parties' declarations of will."
+5,2,1,,The parties are still actively negotiating and have not yet reached a final mutual agreement on the price.
+5,2,2,1,Both parties demonstrate a clear and serious intention to reach a binding agreement through constructive counter-offers.
+5,2,3,,"The essential term of price is still being negotiated, so complete agreement on essential terms has not yet been reached."
+5,2,4,,"No contract has been concluded yet, making it impossible to determine compliance with mandatory statutory provisions at this stage."
+5,2,5,1,"The negotiation is conducted in a polite, fair, and cooperative manner, consistent with the principles of good faith."
+5,2,6,1,Both parties are freely and consciously proposing terms and counter-offers without any signs of coercion.
+5,2,7,1,"The negotiation appears to be a genuine commercial transaction for the sale of a vehicle, with no indication of a sham act."
+5,2,8,1,"There is no evidence of error, deceit, or threat affecting the declarations of will of either party in this round."
+5,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,250 and the terms of the sale."
+5,3,2,1,"Both parties express a clear, common intention to finalize the deal and proceed with the paperwork."
+5,3,3,1,"The parties have agreed on the essential terms, including the specific vehicle, the final price of $16,250, and the inclusion of a fresh oil change."
+5,3,4,1,The agreement to proceed with standard paperwork indicates an intention to conclude the contract in accordance with legal requirements.
+5,3,5,1,"The negotiation was conducted in good faith, with both parties making fair concessions to reach a mutually beneficial agreement."
+5,3,6,1,Both the buyer and the seller freely and consciously negotiated and agreed to the final terms without any external pressure.
+5,3,7,1,There is no indication that this transaction is simulated or a sham; it is a genuine agreement to buy and sell a vehicle.
+5,3,8,1,"The declarations of will are clear, voluntary, and free from any apparent error, deceit, or threat."
+6,1,1,0,The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a higher counter-offer.
+6,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the sale of the car.
+6,1,3,0,"There is no agreement on the essential terms of the contract yet, specifically the purchase price."
+6,1,4,,It cannot be determined at this early stage of negotiation whether mandatory statutory provisions will be met.
+6,1,5,1,"The negotiation is conducted in a polite, professional manner consistent with the principles of good faith and fair dealing."
+6,1,6,1,Both parties are participating in the negotiation freely and consciously determining their own proposed terms.
+6,1,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+6,1,8,1,"The declarations of will are free from any apparent defects such as error, deceit, or threat."
+6,2,1,0,"The parties have not reached mutual consent as the buyer's offer of $16,000 was rejected and countered with $16,400 by the seller."
+6,2,2,,"While both parties are actively negotiating, a common intention to be legally bound cannot be determined until they reach a final agreement."
+6,2,3,0,"The parties have not agreed on the essential terms of the contract, specifically the final purchase price."
+6,2,4,,Compliance with mandatory statutory provisions cannot be determined since no contract has been concluded yet.
+6,2,5,1,"The negotiation is conducted in a polite, fair, and constructive manner, consistent with the principles of good faith."
+6,2,6,1,Both parties are consciously and freely participating in the negotiation and determining their respective offers.
+6,2,7,1,There is no indication in the text that this negotiation is a simulated or sham transaction.
+6,2,8,1,"The declarations of will are clear and show no signs of being affected by error, deceit, or threat."
+6,3,1,1,"Both parties have explicitly declared their mutual consent to the final price of $16,400."
+6,3,2,1,The parties clearly express their intention to be bound by the agreement and proceed to finalize the paperwork.
+6,3,3,1,"The essential terms of the contract, namely the specific vehicle and the price of $16,400, have been agreed upon."
+6,3,4,,It cannot be determined from the text alone whether all mandatory statutory provisions for a vehicle sale have been met.
+6,3,5,1,"The negotiation was conducted in a fair, respectful manner consistent with the principles of good faith and fair dealing."
+6,3,6,1,Both parties consciously and freely negotiated the price and made the decision to conclude the deal.
+6,3,7,1,There is no indication that this transaction is a simulated or sham legal act.
+6,3,8,1,"The declarations of will appear to be free from any defects such as error, deceit, or threat."
+7,1,1,,The parties are still negotiating the price and have not yet reached mutual consent.
+7,1,2,,The parties are in the negotiation phase and have not yet expressed a final intention to be bound by a contract.
+7,1,3,,"The essential term of price is still under negotiation, as the buyer offered $15,500 and the seller countered with $16,500."
+7,1,4,,Compliance with mandatory statutory provisions cannot be fully determined at this early stage of negotiation.
+7,1,5,1,The parties are communicating politely and negotiating in good faith.
+7,1,6,1,Both parties are participating in the negotiation consciously and of their own free will.
+7,1,7,,There is no indication at this stage that the transaction is a simulated or sham act.
+7,1,8,1,"There is no evidence of error, deceit, or threat affecting either party's declarations in this round."
+7,2,1,0,The parties have not reached mutual consent as they disagree on the final price.
+7,2,2,1,Both parties express a clear intention to reach an agreement and finalize the sale.
+7,2,3,0,"There is no agreement on the essential term of price, with the buyer offering $16,000 and the seller demanding $16,200."
+7,2,4,,It cannot be determined yet as the contract has not been finalized.
+7,2,5,1,"The negotiation is conducted in a polite, fair, and professional manner consistent with good faith."
+7,2,6,1,Both parties are participating freely and making conscious decisions regarding their offers.
+7,2,7,1,"The transaction appears to be a genuine effort to buy and sell a vehicle, with no signs of a simulated act."
+7,2,8,1,"There is no indication of any defect, error, deceit, or threat affecting either party's declarations."
+7,3,1,1,"Both parties have explicitly declared their mutual consent to the transaction at $16,200."
+7,3,2,1,The parties clearly express their intention to be bound by the agreement and proceed with the paperwork.
+7,3,3,1,"The parties have agreed on the essential terms, specifically the car model and the final price of $16,200."
+7,3,4,,Compliance with mandatory statutory provisions cannot be fully determined from the chat transcript alone.
+7,3,5,1,"The negotiation was conducted in good faith, with fair bargaining and no signs of bad faith."
+7,3,6,1,Both parties freely negotiated and agreed on the price without any external pressure or coercion.
+7,3,7,1,The transaction appears to be a genuine sale of a vehicle with no indication of a sham agreement.
+7,3,8,1,"There is no evidence of any defect in consent, such as error, deceit, or duress, in the parties' declarations."
+8,1,1,,The parties are still negotiating the price and have not yet reached mutual consent.
+8,1,2,,"Although both parties express interest, a final common intention to be bound is not yet established as negotiations are ongoing."
+8,1,3,,"The parties have not yet agreed on the final price, which is an essential term of the contract."
+8,1,4,,It cannot be determined at this stage as no contract has been concluded yet.
+8,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with the principles of good faith."
+8,1,6,1,Both parties are participating in the negotiation freely and consciously without any signs of coercion.
+8,1,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+8,1,8,1,"The declarations of will from both parties appear genuine and free from error, deceit, or threat."
+8,2,1,1,"Both parties have explicitly declared their mutual consent to the price of $15,850."
+8,2,2,1,The parties clearly express their common intention to conclude the deal and be bound by it.
+8,2,3,1,"The parties have agreed on the essential terms, specifically the 2019 Toyota Yaris and the price of $15,850."
+8,2,4,,Compliance with mandatory statutory provisions for a vehicle sale cannot be fully determined from the chat transcript alone.
+8,2,5,1,"The negotiation was conducted in a polite, fair manner, consistent with the principles of good faith and fair dealing."
+8,2,6,1,Both parties consciously and freely negotiated the price and decided to conclude the agreement.
+8,2,7,1,The detailed negotiation regarding the car's condition and price indicates a genuine transaction rather than a simulated act.
+8,2,8,1,"There is no indication of any defect, error, deceit, or threat affecting either party's declaration of will."
+9,1,1,0,The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a counter-offer.
+9,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually enter into a binding contract for the vehicle.
+9,1,3,0,"There is no agreement on the essential terms yet, specifically the purchase price, which is still being negotiated."
+9,1,4,,It cannot be determined at this stage as no final contract has been concluded.
+9,1,5,1,"The negotiation is conducted in a polite, professional manner consistent with the principles of good faith and fair dealing."
+9,1,6,1,Both parties are participating in the negotiation freely and consciously determining their respective offers.
+9,1,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+9,1,8,1,"The declarations of will from both parties appear genuine and free from any error, deceit, or threat."
+9,2,1,0,The parties have not reached mutual consent as they are still proposing different prices.
+9,2,2,1,Both parties express a clear intention to reach an agreement and finalize the sale.
+9,2,3,0,"The parties have not yet agreed on the essential term of price, with offers at $15,900 and $16,000."
+9,2,4,,"The contract has not yet been concluded, making it impossible to determine compliance with statutory provisions."
+9,2,5,1,"The negotiation is conducted in a polite, fair, and cooperative manner consistent with good faith."
+9,2,6,1,Both parties are negotiating freely and voluntarily determining their respective offers.
+9,2,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+9,2,8,1,"The declarations of both parties appear free from any defects such as error, deceit, or threat."
+9,3,1,1,"Both parties have explicitly declared their mutual consent to the final price of $16,000."
+9,3,2,1,The parties clearly express their intention to finalize the sale and proceed with the paperwork.
+9,3,3,1,"The parties have agreed on the essential terms, specifically the vehicle (2019 Toyota Yaris) and the final price ($16,000)."
+9,3,4,,There is insufficient information in the text to determine compliance with mandatory statutory provisions.
+9,3,5,1,"The negotiation was conducted in good faith, with transparent communication and fair bargaining from both sides."
+9,3,6,1,Both parties freely negotiated and voluntarily agreed to the final price without any signs of coercion.
+9,3,7,1,The transaction appears to be a genuine sale of a vehicle with no indication of a simulated or sham agreement.
+9,3,8,1,"There is no evidence of error, deceit, or threat affecting either party's declaration of will."
+10,1,1,,The parties are still negotiating and have not yet reached a mutual agreement on the price.
+10,1,2,,The parties are still in the negotiation phase and have not yet expressed a final commitment to be bound by a contract.
+10,1,3,,The essential term of price is still under negotiation as the seller rejected the buyer's initial offer.
+10,1,4,,It cannot be determined at this stage as no contract has been concluded yet.
+10,1,5,,"The contract has not been concluded yet, though the negotiation is proceeding in a standard, respectful manner."
+10,1,6,1,Both parties are participating in the negotiation freely and consciously making their respective offers.
+10,1,7,,There is no indication of a simulated or sham transaction at this stage of the negotiation.
+10,1,8,1,"There is no evidence of error, deceit, or threat in the declarations of either party in this round."
+10,2,1,1,"Both parties have explicitly agreed on the price of $16,000 to finalize the deal."
+10,2,2,1,"The parties express a clear, mutual intention to finalize the transaction and bind themselves to the agreement."
+10,2,3,1,"The essential terms, namely the specific vehicle (2019 Toyota Yaris) and the final price ($16,000), have been agreed upon."
+10,2,4,,Whether all mandatory statutory provisions for a vehicle transfer are met cannot be determined solely from the chat transcript.
+10,2,5,1,"The negotiation was conducted in a polite, transparent, and fair manner, consistent with good faith."
+10,2,6,1,Both parties freely proposed and accepted the terms without any signs of coercion or external pressure.
+10,2,7,1,The transaction appears to be a genuine sale of a vehicle with no indication of it being a simulated or sham agreement.
+10,2,8,1,"There is no evidence of any defect in consent, such as fraud, mistake, or duress, affecting either party's decision."
+10,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,000 and are coordinating the final steps."
+10,3,2,1,"Both parties express a clear, common intention to be legally bound by finalizing the paperwork and transferring the title."
+10,3,3,1,"The parties have agreed on the essential terms, which are the specific car (2019 Toyota Yaris) and the price of $16,000."
+10,3,4,1,"The parties are arranging to meet to complete the official paperwork and title transfer, complying with legal requirements."
+10,3,5,1,"The transaction is conducted in good faith, with fair terms and cooperative planning for a secure transaction."
+10,3,6,1,Both parties have negotiated freely and consciously decided to finalize the agreement on their own terms.
+10,3,7,1,There is no indication that this transaction is a simulated or sham legal act; it is a genuine sale.
+10,3,8,1,"There is no evidence of any defect, error, deceit, or threat affecting either party's declaration of will."
+11,1,1,0,"The parties have not reached mutual consent, as the seller rejected the buyer's initial offer and proposed a counter-offer."
+11,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually bind themselves to a contract for the sale of the vehicle.
+11,1,3,0,"The parties have not yet agreed on the price, which is an essential term of the contract."
+11,1,4,,It cannot be determined at this stage as no contract has been concluded yet.
+11,1,5,1,"The negotiation is conducted in a polite and professional manner, consistent with the principles of good faith and fair dealing."
+11,1,6,1,The parties are freely and consciously participating in the negotiation to determine the terms of the potential contract.
+11,1,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+11,1,8,1,"There is no evidence of any defect, error, deceit, or threat affecting either party's declarations of will."
+11,2,1,0,"The parties have not reached mutual consent as the buyer offered $15,800 and the seller countered with $16,000."
+11,2,2,,A common intention to be bound cannot be fully determined yet as the contract has not been finalized.
+11,2,3,0,"There is no agreement on the essential term of price, as the buyer's offer of $15,800 was met with a counteroffer of $16,000."
+11,2,4,,Compliance with mandatory statutory provisions cannot be determined at this stage of negotiation.
+11,2,5,1,"The parties are negotiating in good faith, showing mutual respect and willingness to compromise."
+11,2,6,1,Both parties are consciously and freely participating in the negotiation to determine the contract's content.
+11,2,7,,It cannot be determined if the contract is a sham act since it has not yet been concluded.
+11,2,8,1,"There is no indication of any defect, error, deceit, or threat affecting the parties' declarations of will."
+11,3,1,1,"Both parties have explicitly declared their mutual consent to the final price of $16,000."
+11,3,2,1,"Both parties express a clear intention to be bound by the agreement, with the seller preparing the paperwork."
+11,3,3,1,"The parties have agreed on the essential terms, which are the specific car (2019 Toyota Yaris) and the price ($16,000)."
+11,3,4,,It cannot be determined at this stage whether all mandatory statutory provisions for a vehicle sale have been met.
+11,3,5,1,"The negotiation was conducted in good faith, with both parties making fair compromises."
+11,3,6,1,The parties freely negotiated and consciously agreed to the final price without any coercion.
+11,3,7,1,There is no indication that this transaction is a simulated or sham agreement.
+11,3,8,1,"There is no evidence of any defect in consent, such as error, deceit, or threat, affecting either party."
+12,1,1,0,The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a different price.
+12,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the vehicle.
+12,1,3,0,"The parties have not agreed on the price, which is an essential term of the contract."
+12,1,4,,It cannot be determined at this stage as no contract has been concluded yet.
+12,1,5,1,"The negotiation is conducted in a polite and professional manner, consistent with the principles of good faith."
+12,1,6,1,Both parties are participating and proposing terms freely and consciously without any coercion.
+12,1,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+12,1,8,1,"There is no evidence of any defect, error, deceit, or threat in the parties' communications."
+12,2,1,0,The parties have not reached mutual consent as they are still proposing different prices.
+12,2,2,1,Both parties express a clear intention to reach a compromise and conclude the sale.
+12,2,3,0,The parties have not yet agreed on the essential term of the purchase price.
+12,2,4,,"No contract has been concluded yet, so compliance with statutory provisions cannot be determined."
+12,2,5,1,"The negotiation is conducted in a polite, fair, and cooperative manner."
+12,2,6,1,Both parties are freely proposing and adjusting their offers without any external pressure.
+12,2,7,1,The negotiation appears to be a genuine attempt to buy and sell a vehicle.
+12,2,8,1,"There is no evidence of error, deceit, or threat affecting either party's declarations."
+12,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,000."
+12,3,2,1,Both parties express a clear intention to be legally bound by agreeing to proceed with the paperwork.
+12,3,3,1,"The parties have agreed on the essential terms, which are the specific car (2019 Toyota Yaris) and the price ($16,000)."
+12,3,4,,Compliance with all mandatory statutory provisions for a vehicle sale cannot be fully determined at this chat stage.
+12,3,5,1,"The negotiation was conducted in a polite, fair, and cooperative manner consistent with good faith."
+12,3,6,1,The parties consciously and freely negotiated the price and decided to conclude the contract.
+12,3,7,1,There is no indication that this transaction is a simulated or sham legal act.
+12,3,8,1,"There is no evidence of any defect, error, deceit, or threat affecting either party's declaration of will."
+13,1,1,0,The parties have not reached mutual consent as they are still negotiating the price.
+13,1,2,1,Both parties express a clear intention to negotiate and eventually conclude a contract.
+13,1,3,0,"There is no agreement yet on the essential term of price, with offers at $15,500 and $16,200."
+13,1,4,,"The contract has not been concluded yet, so compliance with statutory provisions cannot be determined."
+13,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner consistent with good faith."
+13,1,6,1,Both parties are participating in the negotiation freely and without any external pressure.
+13,1,7,1,The transaction appears to be a genuine commercial negotiation and not a simulated act.
+13,1,8,1,"There is no indication of any error, deceit, threat, or other defect in the parties' declarations."
+13,2,1,1,"Both parties have expressed mutual consent, with the seller explicitly accepting the buyer's offer of $16,000."
+13,2,2,1,"Both parties show a clear, common intention to finalize the contract and be bound by the agreement today."
+13,2,3,1,"The parties have agreed on the essential terms of the contract, specifically the 2019 Toyota Yaris and the price of $16,000."
+13,2,4,,It cannot be determined from the text of the negotiation whether all mandatory statutory provisions have been met.
+13,2,5,1,"The negotiation is conducted in a fair, polite, and transparent manner, consistent with the principles of good faith."
+13,2,6,1,Both parties consciously and freely negotiated the price and terms without any signs of external pressure.
+13,2,7,1,There is no indication that this transaction is a simulated or sham legal act.
+13,2,8,1,"Neither party's declaration of will appears to be affected by any error, deceit, or threat."
+13,3,1,1,"Both parties explicitly confirm their mutual agreement on the price of $16,000."
+13,3,2,1,Both parties express a clear intention to proceed with the paperwork to finalize the sale.
+13,3,3,1,"The parties have agreed on the essential terms, specifically the 2019 Toyota Yaris for $16,000."
+13,3,4,,Compliance with mandatory statutory provisions cannot be fully determined from the text of the negotiation.
+13,3,5,1,"The negotiation was conducted in a polite, fair, and cooperative manner, consistent with good faith."
+13,3,6,1,Both parties freely proposed and accepted the final price without any signs of coercion.
+13,3,7,1,There is no indication that this transaction is a simulated or sham legal act.
+13,3,8,1,"The declarations of will appear genuine and free from any error, deceit, or threat."
+14,1,1,0,The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a counter-offer.
+14,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the vehicle.
+14,1,3,0,"There is no agreement on the essential terms of the contract yet, specifically the purchase price."
+14,1,4,,It cannot be determined at this early stage of negotiation whether mandatory statutory provisions are met.
+14,1,5,1,"The parties are negotiating in a polite, professional manner consistent with good faith and fair dealing."
+14,1,6,1,Both parties are participating in the negotiation freely and consciously determining their own proposed terms.
+14,1,7,,"There is no evidence of a simulated act, but it cannot be definitively determined at this stage."
+14,1,8,1,"The declarations of intent are clear and show no signs of being affected by error, deceit, or threat."
+14,2,1,0,The parties have not reached mutual consent as they are still proposing different prices.
+14,2,2,1,"Both parties demonstrate a clear, ongoing intention to negotiate and eventually conclude a contract."
+14,2,3,0,"There is no agreement on the essential terms, specifically the final purchase price of the vehicle."
+14,2,4,,It cannot be determined at this stage as no contract has been concluded yet.
+14,2,5,1,"The negotiation is conducted in a polite, fair, and cooperative manner consistent with good faith."
+14,2,6,1,Both parties are freely and consciously proposing prices and terms without any external pressure.
+14,2,7,1,"The transaction appears to be a genuine negotiation for the sale of a vehicle, with no indication of a sham."
+14,2,8,1,"There is no evidence of error, deceit, or threat affecting either party's declarations of will."
+14,3,1,1,"Both parties have explicitly declared their mutual consent to the deal at $16,400."
+14,3,2,1,The parties clearly express their intention to conclude the contract and be bound by the agreed terms.
+14,3,3,1,"The parties have agreed on the essential terms, specifically the vehicle (2019 Toyota Yaris) and the price ($16,400)."
+14,3,4,,Compliance with all mandatory statutory provisions cannot be fully determined from the chat transcript alone.
+14,3,5,1,The negotiation was conducted in good faith and fair dealing with no signs of bad faith.
+14,3,6,1,The parties freely negotiated and agreed on the price without any signs of coercion.
+14,3,7,1,There is no evidence suggesting that this transaction is a simulated or sham agreement.
+14,3,8,1,"The declarations of will appear free from any defects such as error, deceit, or threat."
+15,1,1,0,The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a counter-offer.
+15,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the sale of the vehicle.
+15,1,3,0,"There is no agreement on the essential terms yet, specifically the purchase price, as the buyer offered $15,500 and the seller countered with $16,200."
+15,1,4,,It cannot be determined at this stage as no contract has been concluded yet.
+15,1,5,1,"The negotiation is conducted in a polite, professional manner consistent with the principles of good faith and fair dealing."
+15,1,6,1,"Both parties are participating in the negotiation consciously and freely, without any signs of coercion."
+15,1,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+15,1,8,1,"The declarations of will do not appear to be affected by any error, deceit, or threat."
+15,2,1,,The parties are still negotiating and have not yet reached a mutual agreement on the final price.
+15,2,2,1,Both parties express a clear intention to finalize the deal and be bound by the contract today.
+15,2,3,,"The essential term of price is still being negotiated, with the buyer proposing $15,800 and the seller countering with $16,000."
+15,2,4,,There is insufficient information to determine compliance with mandatory statutory provisions at this stage of negotiation.
+15,2,5,1,"The negotiation is conducted in a polite, fair, and cooperative manner, consistent with good faith."
+15,2,6,1,Both parties are participating in the negotiation voluntarily and freely proposing their own terms.
+15,2,7,,There is no evidence to suggest that this is a simulated or sham transaction.
+15,2,8,1,"The declarations of will are clear, transparent, and free from any apparent error, deceit, or threat."
+15,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,000."
+15,3,2,1,The parties clearly express their intention to be bound by the agreed terms and proceed with the paperwork.
+15,3,3,1,"The parties have agreed on the essential terms, specifically the vehicle (2019 Toyota Yaris) and the final price ($16,000)."
+15,3,4,,The text does not provide sufficient details to determine compliance with all mandatory statutory provisions.
+15,3,5,1,"The negotiation was conducted in a polite, fair, and transparent manner, consistent with good faith."
+15,3,6,1,"Both parties freely negotiated and voluntarily agreed to the final price of $16,000."
+15,3,7,1,The parties' active steps to prepare paperwork indicate a genuine transaction rather than a simulated act.
+15,3,8,1,"There is no evidence of any error, deceit, or threat influencing either party's decision."
+16,1,1,,The parties are still negotiating and have not yet reached mutual consent on the price.
+16,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the vehicle.
+16,1,3,,"The essential term of price is still under negotiation, as the buyer offered $15,500 and the seller countered with $16,200."
+16,1,4,,No contract has been concluded yet at this stage of the negotiation.
+16,1,5,1,"The negotiation is being conducted in a polite, professional manner consistent with good faith and fair dealing."
+16,1,6,1,Both parties are participating freely and consciously in the negotiation without any external pressure.
+16,1,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+16,1,8,1,"The declarations of will do not show any signs of being affected by error, deceit, or threat."
+16,2,1,0,"The parties have not reached mutual consent as the buyer offered $15,800 and the seller countered with $16,000."
+16,2,2,1,Both parties express a clear intention to finalize the deal and conclude the contract today.
+16,2,3,0,"There is no agreement on the essential term of price, as the buyer's offer of $15,800 was met with a counteroffer of $16,000."
+16,2,4,,It cannot be determined at this stage whether mandatory statutory provisions are met as no formal contract has been drafted.
+16,2,5,1,"The parties are negotiating in a polite, fair, and constructive manner, consistent with good faith."
+16,2,6,1,Both parties are consciously and freely participating in the negotiation to determine the contract's content.
+16,2,7,,There is no indication to determine whether this is a simulated or sham transaction.
+16,2,8,1,"There is no evidence of error, deceit, threat, or any other defect of will affecting either party's declarations."
+16,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,000."
+16,3,2,1,"The parties express a clear, shared intention to finalize the deal and proceed with the paperwork."
+16,3,3,1,"The parties have agreed on the essential terms, specifically the vehicle (2019 Toyota Yaris) and the final price ($16,000)."
+16,3,4,,Compliance with all mandatory statutory provisions cannot be fully determined until the paperwork is drafted and reviewed.
+16,3,5,1,"The negotiation was conducted in good faith, with fair pricing and transparent communication."
+16,3,6,1,Both parties freely negotiated and voluntarily agreed to the final price without any signs of coercion.
+16,3,7,1,There is no indication that this is a simulated or sham transaction; both parties genuinely intend to buy and sell the car.
+16,3,8,1,"There is no evidence of any defect in consent, such as error, deceit, or threat, during the negotiation."
+17,1,1,0,The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a counter-offer.
+17,1,2,1,Both parties demonstrate a clear and genuine intention to negotiate and eventually conclude a contract for the vehicle.
+17,1,3,0,"The parties have not agreed on the essential terms, specifically the purchase price of the car."
+17,1,4,,"The contract has not yet been concluded, so compliance with mandatory statutory provisions cannot be fully determined."
+17,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+17,1,6,1,Both parties are participating voluntarily and freely proposing their own terms without any coercion.
+17,1,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+17,1,8,1,"The declarations of will are clear and free from any apparent defects such as error, deceit, or threat."
+17,2,1,0,The parties have not reached mutual consent as they are still proposing different prices.
+17,2,2,1,Both parties express a clear intention to finalize the deal and close the transaction today.
+17,2,3,0,"There is no agreement on the essential terms yet, specifically the final purchase price."
+17,2,4,,Compliance with mandatory statutory provisions cannot be fully determined at this stage of the negotiation.
+17,2,5,1,"The negotiation is conducted in a polite, fair, and constructive manner consistent with good faith."
+17,2,6,1,Both parties are participating and proposing terms freely and consciously without any coercion.
+17,2,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+17,2,8,1,"The declarations of will do not show any signs of being affected by error, deceit, or threat."
+17,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,000."
+17,3,2,1,Both parties express a clear intention to finalize the contract and proceed with the paperwork and payment.
+17,3,3,1,"The parties have agreed on the essential terms, specifically the vehicle (2019 Toyota Yaris) and the price ($16,000)."
+17,3,4,,Compliance with mandatory statutory provisions cannot be determined from the chat transcript alone.
+17,3,5,1,"The negotiation was conducted in a respectful, fair, and good-faith manner by both parties."
+17,3,6,1,The parties freely negotiated and agreed on the final price without any signs of coercion.
+17,3,7,,"Whether the contract is a simulated act cannot be fully determined at this stage, though the exchange of paperwork is mentioned."
+17,3,8,1,"There is no indication of any defect, such as error, deceit, or threat, affecting either party's declaration of will."
+18,1,1,0,The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a higher price.
+18,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually enter into a binding contract for the vehicle.
+18,1,3,0,"There is no agreement on the essential terms yet, specifically the purchase price of the vehicle."
+18,1,4,,It cannot be determined at this stage of negotiation whether mandatory statutory provisions will be met upon contract conclusion.
+18,1,5,1,"The negotiation is conducted in a polite, professional manner consistent with good faith and fair dealing."
+18,1,6,1,Both parties are participating voluntarily and freely proposing their own terms without any external pressure.
+18,1,7,1,The negotiation appears to be a genuine commercial transaction and not a simulated or sham act.
+18,1,8,1,"There is no indication that either party's declarations are affected by error, deceit, or threat."
+18,2,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,000."
+18,2,2,1,Both parties express a clear intention to be bound by the agreement and proceed with the paperwork.
+18,2,3,1,"The parties have agreed on the essential terms, which are the specific car (2019 Toyota Yaris) and the price ($16,000)."
+18,2,4,1,There are no indications of any violations of mandatory statutory provisions in this agreement.
+18,2,5,1,"The negotiation was conducted in good faith, with fair terms and polite communication."
+18,2,6,1,Both parties entered into the agreement freely and consciously without any external pressure.
+18,2,7,1,The transaction appears to be a genuine sale of a vehicle with no signs of being a sham.
+18,2,8,1,"There is no evidence of any defect in consent, such as error, deceit, or threat."
+19,1,1,,The parties are still negotiating and have not yet reached a mutual agreement on the price.
+19,1,2,,A common intention to be legally bound has not yet been established as negotiations are ongoing.
+19,1,3,,"The parties have not yet agreed on the essential term of price, with active offers at $16,000 and $17,000."
+19,1,4,,"No contract has been concluded yet, so compliance with mandatory statutory provisions cannot be determined."
+19,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with the principles of good faith."
+19,1,6,1,Both parties are participating voluntarily and freely proposing their own terms without any coercion.
+19,1,7,1,"The transaction appears to be a genuine commercial negotiation for the sale of a vehicle, with no signs of a sham."
+19,1,8,1,"There is no indication of any error, deceit, misrepresentation, or threat in the parties' communications."
+19,2,1,1,"Both parties have explicitly agreed on the price of $16,500, establishing mutual consent."
+19,2,2,1,The seller's acceptance of the offer and the statement 'We have a deal!' demonstrate a clear common intention to be bound by the contract.
+19,2,3,1,"The parties have agreed on the essential terms, which are the specific vehicle (2019 Toyota Yaris) and the purchase price ($16,500)."
+19,2,4,,There is insufficient information in the text to determine compliance with mandatory statutory provisions.
+19,2,5,1,"The negotiation was conducted in a polite, transparent, and fair manner, consistent with the principles of good faith and fair dealing."
+19,2,6,1,Both parties negotiated voluntarily and freely agreed on the final price without any signs of coercion.
+19,2,7,1,The active and realistic bargaining over the price and vehicle condition indicates a genuine transaction rather than a simulated act.
+19,2,8,1,"There is no evidence of error, deceit, or threat affecting the declarations of will of either party."
+19,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,500."
+19,3,2,1,Both parties express a clear intention to be bound by the agreement by arranging to finalize the paperwork and payment.
+19,3,3,1,"The parties have agreed on the essential terms of the contract, specifically the vehicle and the final price of $16,500."
+19,3,4,,It cannot be determined at this stage whether all mandatory statutory provisions will be met when the paperwork is finalized.
+19,3,5,1,"The negotiation was conducted in good faith, with both parties politely agreeing on a mutually acceptable price."
+19,3,6,1,Both parties freely negotiated and agreed to the terms without any signs of coercion.
+19,3,7,1,"There is no indication that the transaction is simulated, as both parties are actively planning to finalize the sale and transfer the vehicle."
+19,3,8,1,"There is no evidence of any defect, such as error, deceit, or threat, affecting either party's declaration of will."
+20,1,1,,The parties are still negotiating and have not yet reached a mutual agreement on the price.
+20,1,2,,"Although both parties show interest in negotiating, a final intention to be bound cannot be determined yet."
+20,1,3,,"The essential term of the contract, the price, is still being negotiated and has not been agreed upon."
+20,1,4,,It is too early to determine compliance with mandatory statutory provisions as no contract has been concluded.
+20,1,5,,"The negotiation is proceeding in a polite manner, but a final assessment of the contract's consistency with social coexistence is premature."
+20,1,6,,"The parties are negotiating freely, but the final decision to conclude the contract has not yet been made."
+20,1,7,,There is no indication at this stage whether the transaction is simulated or genuine.
+20,1,8,,"No defects in the declarations of will, such as deceit or threat, are apparent at this stage of the negotiation."
+20,2,1,1,"Both parties have expressed mutual consent on the price of $16,000, pending inspection."
+20,2,2,1,"Both parties show a clear intention to be bound by the agreed price of $16,000."
+20,2,3,1,"The parties have agreed on the essential terms, which are the specific vehicle and the price of $16,000."
+20,2,4,,Compliance with mandatory statutory provisions for a vehicle sale contract cannot be fully determined at this stage.
+20,2,5,1,"The negotiation is conducted in a polite, fair, and transparent manner, consistent with good faith."
+20,2,6,1,Both parties are negotiating freely and consciously without any signs of coercion.
+20,2,7,,"There is no evidence to suggest the transaction is a simulated or sham act, but it cannot be definitively ruled out."
+20,2,8,1,"There is no indication of any defect in the declarations of will, such as error, deceit, or threat."
+20,3,1,1,"Both parties have explicitly confirmed their mutual agreement on the price of $16,000."
+20,3,2,1,"Both parties express a clear, common intention to finalize the contract and proceed with the paperwork."
+20,3,3,1,"The parties have agreed on the essential terms of the contract, specifically the vehicle and the price of $16,000."
+20,3,4,1,The parties are arranging to finalize the paperwork and transfer the title in accordance with legal requirements.
+20,3,5,1,"The negotiation is conducted in good faith, with mutual respect and fair dealing."
+20,3,6,1,Both parties are participating voluntarily and freely determining the terms of the agreement.
+20,3,7,1,There is no indication that this is a sham transaction; both parties genuinely intend to complete the sale.
+20,3,8,1,"There is no evidence of error, deceit, or coercion affecting either party's declaration of will."
+21,1,1,,The parties are still negotiating the price and have not yet reached mutual consent.
+21,1,2,,"While both parties show interest, a common intention to be legally bound is not yet established as negotiations are ongoing."
+21,1,3,,"The parties have not yet agreed on the essential terms, specifically the final purchase price."
+21,1,4,,It is too early to determine compliance with mandatory statutory provisions as no contract has been concluded.
+21,1,5,1,"The negotiation is being conducted in a polite, fair, and professional manner, consistent with good faith."
+21,1,6,1,Both parties are participating in the negotiation consciously and of their own free will.
+21,1,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+21,1,8,1,"The declarations of intent do not show any signs of being affected by error, deceit, or threat."
+21,2,1,,"The parties have not yet reached mutual consent as the seller countered the buyer's offer of $15,900 with $16,000."
+21,2,2,1,Both parties express a clear intention to finalize the transaction and close the deal today.
+21,2,3,,"Agreement on the final price, an essential term of the contract, has not yet been reached."
+21,2,4,,"The contract has not yet been concluded, so compliance with mandatory statutory provisions cannot be fully determined."
+21,2,5,1,"The negotiation is conducted in a polite, fair, and cooperative manner, consistent with good faith."
+21,2,6,1,Both parties are negotiating freely and consciously determining the terms of the potential agreement.
+21,2,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+21,2,8,1,"The declarations of will are free from any apparent defects such as error, deceit, or threat."
+21,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,000."
+21,3,2,1,The parties clearly express their intention to be bound by the agreement and proceed with the paperwork.
+21,3,3,1,"The parties have agreed on the essential terms, which are the specific car and the final price of $16,000."
+21,3,4,,There is insufficient information in the text to determine compliance with all mandatory statutory provisions.
+21,3,5,1,"The negotiation was conducted in a polite, transparent, and fair manner, consistent with good faith."
+21,3,6,1,Both parties negotiated freely and voluntarily arrived at the agreed price without any signs of coercion.
+21,3,7,,There is no evidence in the text to determine whether this is a simulated or sham transaction.
+21,3,8,1,"The declarations of will appear genuine, with no indication of error, deceit, or threat in the transcript."
+22,1,1,0,The parties have not reached mutual consent as they disagree on the price.
+22,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract.
+22,1,3,0,"The parties have not agreed on the price, which is an essential term of the contract."
+22,1,4,,"No contract has been concluded yet, so compliance with statutory provisions cannot be evaluated."
+22,1,5,1,"The negotiation is conducted in a polite and fair manner, consistent with good faith."
+22,1,6,1,The parties are negotiating freely and voluntarily without any external pressure.
+22,1,7,1,The transaction appears to be a genuine commercial negotiation and not a sham act.
+22,1,8,1,"There is no indication of any error, deceit, or threat affecting the parties' declarations."
+22,2,1,0,The parties have not reached mutual consent as their proposed prices still differ.
+22,2,2,1,Both parties express a clear intention to reach an agreement and conclude a deal.
+22,2,3,0,"The parties have not agreed on the price, which is an essential term of the contract."
+22,2,4,,It cannot be determined yet as no contract has been concluded.
+22,2,5,1,The negotiation is conducted in a polite manner consistent with good faith.
+22,2,6,1,The parties are negotiating freely and voluntarily without any external pressure.
+22,2,7,1,There is no indication that this is a simulated or sham transaction.
+22,2,8,1,"There is no evidence of error, deceit, or threat affecting the parties' declarations."
+22,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,000."
+22,3,2,1,Both parties express a clear intention to finalize the purchase and proceed with the paperwork.
+22,3,3,1,"The parties have agreed on the essential terms, specifically the car model and the final price of $16,000."
+22,3,4,,"The final paperwork has not yet been completed, so compliance with all mandatory statutory provisions cannot be fully determined."
+22,3,5,1,The negotiation was conducted in good faith with fair pricing and respectful communication.
+22,3,6,1,Both parties freely negotiated and voluntarily agreed to the final price without any signs of coercion.
+22,3,7,1,There is no indication that this transaction is simulated or a sham.
+22,3,8,1,"The declarations of will appear genuine and free from any defects such as error, deceit, or threat."
+23,1,1,0,The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a counter-offer.
+23,1,2,,The parties are still in the negotiation phase and have not yet expressed a final intention to be legally bound.
+23,1,3,0,"There is no agreement on the essential terms of the contract, specifically the purchase price."
+23,1,4,,It cannot be determined at this stage whether mandatory statutory provisions are met.
+23,1,5,,It is too early to determine if the contract's purpose and content align with social coexistence principles.
+23,1,6,1,"Both parties are participating in the negotiation consciously and freely, proposing prices of their own accord."
+23,1,7,,There is no evidence to suggest that this negotiation is a simulated or sham legal act.
+23,1,8,1,"The declarations of will are free from any apparent defects such as error, deceit, or threat."
+23,2,1,,"Mutual consent has not yet been reached as the seller countered the buyer's offer of $16,000 with $16,100."
+23,2,2,1,"Both parties express a clear intention to conclude a contract, with the buyer wanting to finalize today and the seller stating they have a deal if the price is met."
+23,2,3,,"The parties have not yet agreed on the essential term of price, as there is a $100 difference between their proposals."
+23,2,4,,It cannot be determined at this stage whether all mandatory statutory provisions for the contract are met.
+23,2,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+23,2,6,1,Both parties are consciously and freely proposing terms and negotiating without any signs of coercion.
+23,2,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+23,2,8,1,"Neither party's declarations of will appear to be affected by error, deceit, or threat."
+23,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,100."
+23,3,2,1,"Both parties express a clear intention to be bound by the agreement, with the seller preparing the paperwork."
+23,3,3,1,"The parties have agreed on the essential terms, which are the specific car (2019 Toyota Yaris) and the purchase price ($16,100)."
+23,3,4,,Compliance with all mandatory statutory provisions cannot be fully determined solely from the chat transcript.
+23,3,5,1,"The negotiation was conducted in good faith and fair dealing, with no violation of social coexistence principles."
+23,3,6,1,The parties consciously and freely negotiated and agreed on the final price without any external pressure.
+23,3,7,1,There is no indication that this transaction is a simulated or sham legal act.
+23,3,8,1,"There is no evidence of any defect in the declarations of will, such as error, deceit, or threat."
+24,1,1,,The parties are still negotiating and have not yet reached mutual consent on the price.
+24,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the car.
+24,1,3,,Agreement on the essential term of price has not been reached yet as the seller made a counteroffer.
+24,1,4,,It cannot be determined at this early stage of negotiation whether all mandatory statutory provisions will be met.
+24,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+24,1,6,1,Both parties are participating in the negotiation freely and consciously determining their proposals.
+24,1,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+24,1,8,1,"None of the declarations of will appear to be affected by error, deceit, or threat."
+24,2,1,,The parties are still negotiating and have not yet reached a mutual agreement on the price.
+24,2,2,,"Although both parties express a desire to finalize a deal, a common intention to be bound is not yet established as negotiations are ongoing."
+24,2,3,,"The parties have not yet agreed on the final price, which is an essential term of the contract."
+24,2,4,,"No contract has been concluded yet, so compliance with mandatory statutory provisions cannot be determined."
+24,2,5,1,"The negotiation is conducted in a polite, fair, and cooperative manner, consistent with good faith."
+24,2,6,1,Both parties are negotiating freely and consciously making counteroffers without any coercion.
+24,2,7,1,There is no indication that this is a simulated or sham transaction; it appears to be a genuine negotiation.
+24,2,8,1,"There is no evidence of error, deceit, or threat affecting the declarations of either party."
+24,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,050."
+24,3,2,1,The parties clearly express their intention to finalize the purchase and proceed with the paperwork.
+24,3,3,1,"The parties have agreed on the essential terms, which are the specific car (2019 Toyota Yaris) and the final price ($16,050)."
+24,3,4,,It cannot be fully determined at this stage whether all mandatory statutory provisions are met until the paperwork is finalized.
+24,3,5,1,"The negotiation was conducted in good faith, with both parties politely compromising to reach a fair price."
+24,3,6,1,Both parties negotiated freely and voluntarily agreed on the final price without any coercion.
+24,3,7,1,There is no evidence to suggest that this transaction is simulated or a sham.
+24,3,8,1,"The declarations of will appear genuine and free from any error, deceit, or threat."
+25,1,1,,The parties are still negotiating and have not yet reached a mutual agreement on the price.
+25,1,2,,"Although both parties express interest, they have not yet declared a final common intention to be bound by a contract."
+25,1,3,,"The parties have not yet agreed on the essential term of price, as the buyer offered $15,500 and the seller countered with $16,200."
+25,1,4,,"No contract has been concluded yet, so compliance with statutory provisions cannot be determined."
+25,1,5,,The negotiation is ongoing and no contract has been concluded yet to evaluate against these principles.
+25,1,6,,The parties are still in the process of negotiating and have not yet decided to conclude a contract.
+25,1,7,,"No contract has been concluded yet, so it cannot be determined if it is a simulated act."
+25,1,8,,"There is no indication of any defect in the declarations, but no contract has been concluded yet."
+25,2,1,1,"Both parties have expressed mutual consent to finalize the deal at $16,000."
+25,2,2,1,The parties have expressed a clear intention to conclude the contract and proceed with the paperwork.
+25,2,3,1,"The essential terms, namely the specific car and the price of $16,000, have been agreed upon."
+25,2,4,,Compliance with mandatory statutory provisions cannot be fully determined until the formal contract is drafted.
+25,2,5,1,The negotiation was conducted in good faith and aligns with the principles of social coexistence.
+25,2,6,1,Both parties freely and consciously negotiated and agreed on the terms.
+25,2,7,1,There is no evidence suggesting that this is a simulated or sham transaction.
+25,2,8,1,"There is no indication of any defect, error, deceit, or threat affecting the parties' declarations of will."
+25,3,1,1,"Both parties have explicitly expressed mutual consent and confirmed their agreement on the price of $16,000."
+25,3,2,1,The parties demonstrate a clear intention to be legally bound by arranging a meeting to complete the paperwork and payment.
+25,3,3,1,"The essential terms of the contract, specifically the vehicle and the final price of $16,000, have been agreed upon."
+25,3,4,,Compliance with all mandatory statutory provisions cannot be fully determined until the formal paperwork is executed.
+25,3,5,1,"The negotiation is conducted in good faith, with fair dealing and polite cooperation between both parties."
+25,3,6,1,Both parties have consciously and freely decided to proceed with the transaction without any signs of coercion.
+25,3,7,1,There is no indication that this is a simulated or sham transaction; both parties intend to execute a real sale.
+25,3,8,1,"There is no evidence of any defect of will, such as error, deceit, or threat, influencing either party's decision."
+26,1,1,0,The parties have not reached mutual consent as they currently disagree on the price of the vehicle.
+26,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the car.
+26,1,3,0,"The parties have not agreed on the price, which is an essential term of the contract."
+26,1,4,,It cannot be determined at this stage as the contract has not yet been concluded.
+26,1,5,1,"The negotiation is conducted in a polite and professional manner, consistent with good faith."
+26,1,6,1,Both parties are participating in the negotiation freely and without any external pressure.
+26,1,7,1,The transaction appears to be a genuine sale of a vehicle and not a simulated act.
+26,1,8,1,"There is no indication of any defect, deceit, error, or threat affecting the parties' declarations."
+26,2,1,1,"Both parties have explicitly agreed on the price of $15,800, establishing mutual consent."
+26,2,2,1,The seller's acceptance of the buyer's offer confirms a common intention to conclude the contract.
+26,2,3,1,"The parties have agreed on the essential terms: the 2019 Toyota Yaris and the price of $15,800."
+26,2,4,,It cannot be determined from the chat transcript whether all mandatory statutory provisions for a car sale are met.
+26,2,5,1,"The negotiation was conducted in a polite, fair, and cooperative manner, aligned with good faith."
+26,2,6,1,Both parties freely proposed and accepted the terms without any signs of coercion.
+26,2,7,1,The negotiation appears to be a genuine transaction with no indication of being a simulated act.
+26,2,8,1,"There is no evidence of error, deceit, or threat affecting either party's declaration of will."
+26,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $15,800 and confirmed they have a deal."
+26,3,2,1,"Both parties express a clear, common intention to be legally bound by proceeding with the paperwork, payment, and pickup."
+26,3,3,1,"The parties have agreed on the essential terms of the contract, specifically the 2019 Toyota Yaris and the price of $15,800."
+26,3,4,,Whether the contract complies with all mandatory statutory provisions cannot be fully determined until the paperwork is finalized.
+26,3,5,1,"The negotiation was conducted in a polite, fair, and cooperative manner, consistent with good faith and fair dealing."
+26,3,6,1,Both parties consciously and freely negotiated the price and agreed to the terms without any external pressure or coercion.
+26,3,7,1,"The transaction appears genuine and serious, as both parties are actively arranging the actual payment, paperwork, and vehicle pickup."
+26,3,8,1,"There is no indication of any defect of will, such as error, deceit, or threat, in either party's declarations."
+27,1,1,0,The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a counteroffer.
+27,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually enter into a binding contract for the car.
+27,1,3,0,"There is no agreement on the essential terms yet, specifically the purchase price of the vehicle."
+27,1,4,,It cannot be determined at this stage whether mandatory statutory provisions are met as no contract has been finalized.
+27,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+27,1,6,1,Both parties are participating in the negotiation freely and consciously determining their own proposals.
+27,1,7,1,There is no indication that the negotiation or the proposed transaction is a simulated or sham act.
+27,1,8,1,"The declarations of will are free from any apparent defects such as error, deceit, or threat."
+27,2,1,0,"The parties have not reached mutual consent as the seller rejected the buyer's offer of $16,000 and countered with $16,100."
+27,2,2,1,Both parties express a clear intention to reach an agreement and finalize the transaction.
+27,2,3,0,"The parties have not yet agreed on the essential term of price, with the buyer offering $16,000 and the seller counter-offering $16,100."
+27,2,4,,"The contract has not yet been concluded, so compliance with mandatory statutory provisions cannot be fully determined."
+27,2,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+27,2,6,1,Both parties are negotiating freely and consciously determining their proposed terms without any external pressure.
+27,2,7,1,"The transaction appears to be a genuine commercial negotiation for the sale of a vehicle, with no signs of being a sham."
+27,2,8,1,"There is no evidence of error, deceit, threat, or any other defect affecting the parties' declarations of will."
+27,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,100."
+27,3,2,1,"Both parties express a clear intention to be bound by the agreement, with the seller preparing the paperwork."
+27,3,3,1,"The parties have agreed on the essential terms, which are the specific car (2019 Toyota Yaris) and the purchase price ($16,100)."
+27,3,4,,Compliance with all mandatory statutory provisions cannot be fully determined solely from the chat transcript.
+27,3,5,1,"The negotiation was conducted in a fair, polite, and transparent manner, consistent with good faith."
+27,3,6,1,Both parties consciously and freely negotiated and agreed to the final price without any external pressure.
+27,3,7,1,There is no indication that this transaction is simulated or a sham act.
+27,3,8,1,"The declarations of will do not show any signs of being affected by error, deceit, or threat."
+28,1,1,0,The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a counteroffer.
+28,1,2,1,Both parties express a clear intention to negotiate and eventually conclude a contract for the sale of the car.
+28,1,3,0,"The parties have not agreed on the price, which is an essential term of the contract."
+28,1,4,,"It cannot be determined at this stage whether mandatory statutory provisions are met, as negotiations are still ongoing."
+28,1,5,1,"The negotiation is conducted in a polite and fair manner, consistent with the principles of good faith and fair dealing."
+28,1,6,1,Both parties are participating voluntarily and freely determining their own proposed terms.
+28,1,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+28,1,8,1,"There is no evidence of any error, deceit, or threat affecting either party's declarations of will."
+28,2,1,,The parties are still negotiating and have not yet reached mutual consent on the final price.
+28,2,2,1,Both parties express a clear intention to reach an agreement and finalize the deal today.
+28,2,3,,"The final price, an essential term of the contract, is still being negotiated and has not been agreed upon."
+28,2,4,,"The contract has not yet been concluded, so compliance with mandatory statutory provisions cannot be fully determined."
+28,2,5,1,"The negotiation is conducted in a polite, fair, and cooperative manner, consistent with good faith."
+28,2,6,1,Both parties are participating in the negotiation freely and consciously determining their proposed terms.
+28,2,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+28,2,8,1,"The declarations of will are free from any apparent defects such as error, deceit, or threat."
+28,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,050."
+28,3,2,1,"Both parties express a clear, common intention to finalize the purchase and proceed with the paperwork."
+28,3,3,1,"The parties have agreed on the essential terms of the contract, specifically the 2019 Toyota Yaris and the price of $16,050."
+28,3,4,,Compliance with mandatory statutory provisions cannot be fully determined from the text of the negotiation alone.
+28,3,5,1,"The negotiation was conducted in a polite, fair, and cooperative manner, consistent with good faith and fair dealing."
+28,3,6,1,The parties freely negotiated and consciously agreed on the final price without any signs of coercion.
+28,3,7,1,"The transaction appears to be a genuine, serious agreement to buy and sell a car, with no indication of a sham."
+28,3,8,1,"There is no evidence of any defect in consent, such as error, deceit, or threat, in the communication between the parties."
+29,1,1,,The parties are still negotiating and have not yet reached a mutual agreement.
+29,1,2,,"Although both parties show interest, a final common intention to be bound cannot be determined while negotiations are ongoing."
+29,1,3,0,"The parties have not agreed on the price, with the buyer offering $15,500 and the seller countering with $16,500."
+29,1,4,,No contract has been concluded yet at this stage of the negotiation.
+29,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner consistent with good faith."
+29,1,6,1,Both parties are participating in the negotiation consciously and of their own free will.
+29,1,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+29,1,8,1,"The declarations of will are free from any apparent defects such as error, deceit, or threat."
+29,2,1,0,"The parties have not reached mutual consent, as the buyer offered $16,000 and the seller countered with $16,200."
+29,2,2,1,Both parties demonstrate a clear intention to negotiate and eventually reach a binding agreement.
+29,2,3,0,"The parties have not agreed on the price, which is an essential term of the contract."
+29,2,4,,"No contract has been concluded yet, so compliance with statutory provisions cannot be determined."
+29,2,5,1,"The negotiation is conducted in a respectful manner, consistent with the principles of good faith and fair dealing."
+29,2,6,1,Both parties are negotiating freely and determining their offers without any external pressure.
+29,2,7,,"No contract has been concluded yet, so it cannot be evaluated as a simulated act."
+29,2,8,1,"There is no indication of error, deceit, or threat in the parties' current declarations of intent."
+29,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,200."
+29,3,2,1,The parties clearly express their intention to finalize the deal and be bound by the agreed price.
+29,3,3,1,"The parties have agreed on the essential terms, which are the specific car model and the final price of $16,200."
+29,3,4,,It cannot be determined at this stage whether all mandatory statutory provisions for a vehicle transfer have been met.
+29,3,5,1,The negotiation was conducted in good faith with fair concessions from both sides.
+29,3,6,1,Both parties freely negotiated and arrived at the final price without any signs of coercion.
+29,3,7,1,There is no indication that this transaction is simulated or a sham.
+29,3,8,1,"The declarations of will appear free from any defects such as error, deceit, or duress."
+30,1,1,,The parties are still negotiating the price and have not yet reached mutual consent.
+30,1,2,1,Both parties express a clear intention to negotiate and reach an agreement on the vehicle sale.
+30,1,3,,The final price of the vehicle is still being negotiated and has not been agreed upon.
+30,1,4,,It cannot be determined at this stage whether mandatory statutory provisions are met.
+30,1,5,1,"The negotiation is conducted in a polite, professional, and fair manner by both parties."
+30,1,6,1,Both parties are participating in the negotiation freely and making voluntary proposals.
+30,1,7,,There is no evidence to determine whether this is a simulated or genuine transaction at this stage.
+30,1,8,1,"There is no indication of error, deceit, or threat in the communication between the parties."
+30,2,1,1,"Both parties have explicitly agreed on the final price of $15,800, establishing mutual consent."
+30,2,2,1,The seller's acceptance of the offer and statement 'We have a deal!' confirm a common intention to be bound by the contract.
+30,2,3,1,"The parties have agreed on the essential terms, specifically the 2019 Toyota Yaris and the price of $15,800."
+30,2,4,,There is no information in the transcript to evaluate compliance with mandatory statutory provisions.
+30,2,5,1,"The negotiation was conducted in a polite, fair, and transparent manner, consistent with good faith."
+30,2,6,1,Both parties participated voluntarily and negotiated the price freely without any signs of coercion.
+30,2,7,1,The detailed discussion of the car's condition and price indicates a genuine transaction rather than a simulated act.
+30,2,8,1,"There is no indication that either party's consent was affected by error, deceit, or threat."
+30,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $15,800 and agreed to finalize the deal."
+30,3,2,1,Both parties expressed a clear intention to be legally bound by proceeding with the paperwork to finalize the sale.
+30,3,3,1,"The parties have agreed on the essential terms, specifically the 2019 Toyota Yaris and the final price of $15,800."
+30,3,4,,It cannot be determined whether mandatory statutory provisions are met until the formal paperwork is drafted and executed.
+30,3,5,1,"The negotiation was conducted in a fair, transparent, and respectful manner, consistent with good faith."
+30,3,6,1,Both parties consciously and freely negotiated the price and decided to conclude the agreement without any coercion.
+30,3,7,1,There is no indication that this transaction is simulated or a sham act.
+30,3,8,1,"The declarations of will are free from any apparent defects such as error, deceit, or threat."
+31,1,1,0,The parties have not reached mutual consent as they are still negotiating and have proposed different prices.
+31,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the vehicle.
+31,1,3,0,"The parties have not yet agreed on the essential term of price, with offers of $15,500 and $16,200."
+31,1,4,,It cannot be determined at this stage as no final contract has been concluded or drafted.
+31,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner consistent with good faith."
+31,1,6,1,Both parties are participating in the negotiation freely and determining their offers without coercion.
+31,1,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+31,1,8,1,"The communications show no signs of being affected by error, deceit, or threats."
+31,2,1,1,"Both parties have explicitly agreed on the price of $15,900 to finalize the deal."
+31,2,2,1,The parties express a clear intention to finalize the deal and start the paperwork immediately.
+31,2,3,1,"The parties have agreed on the specific vehicle (2019 Toyota Yaris) and the final price of $15,900."
+31,2,4,,The text does not provide sufficient details to evaluate compliance with mandatory statutory provisions.
+31,2,5,1,"The negotiation was conducted in a polite, transparent, and fair manner by both parties."
+31,2,6,1,Both parties negotiated freely and voluntarily arrived at the agreed price without any coercion.
+31,2,7,1,There is no evidence or indication that this transaction is simulated or a sham.
+31,2,8,1,"The declarations of will appear genuine, free of error, deceit, or duress."
+31,3,1,1,"Both parties have explicitly declared their mutual consent to the agreed price of $15,900."
+31,3,2,1,"Both parties express a clear, common intention to finalize the deal and proceed with the paperwork."
+31,3,3,1,"The parties have agreed on the essential terms, specifically the vehicle and the final price of $15,900."
+31,3,4,1,"The agreement appears to comply with standard legal requirements for a car sale, with paperwork being prepared."
+31,3,5,1,The transaction is conducted in good faith and aligns with the principles of fair dealing.
+31,3,6,1,Both parties negotiated freely and consciously arrived at the agreed terms without any coercion.
+31,3,7,1,There is no indication that this transaction is a simulated or sham legal act.
+31,3,8,1,"The declarations of will are clear and free from any apparent error, deceit, or threat."
+32,1,1,0,The parties have not reached mutual consent as they proposed different prices.
+32,1,2,,It cannot be determined yet as the parties are still in the negotiation phase.
+32,1,3,0,"There is no agreement on the price, which is an essential term of the contract."
+32,1,4,,"No contract has been concluded yet, so compliance with statutory provisions cannot be determined."
+32,1,5,,It cannot be determined at this stage as the contract has not been concluded.
+32,1,6,,"The parties are still negotiating, so the final decision to conclude the contract cannot be determined."
+32,1,7,,It cannot be determined at this stage as no contract has been concluded.
+32,1,8,,It cannot be determined at this stage as the negotiation is still ongoing and no contract has been finalized.
+32,2,1,,The parties are still negotiating the price and have not yet reached mutual consent.
+32,2,2,1,Both parties express a clear intention to reach an agreement and close the deal.
+32,2,3,,"The final price, an essential term of the contract, has not yet been agreed upon."
+32,2,4,,"The contract has not yet been concluded, so compliance with mandatory statutory provisions cannot be fully determined."
+32,2,5,1,"The negotiation is conducted in a polite, fair, and cooperative manner consistent with good faith."
+32,2,6,1,Both parties are negotiating freely and voluntarily determining the terms of the potential contract.
+32,2,7,1,There is no indication that the transaction is simulated or a sham.
+32,2,8,1,"There is no evidence of error, deceit, threat, or any other defect in the parties' declarations."
+32,3,1,1,"Both parties have explicitly declared their mutual consent to the transaction at the agreed price of $16,000."
+32,3,2,1,"The parties express a clear, shared intention to be legally bound by finalizing the deal and proceeding with the paperwork."
+32,3,3,1,"The parties have agreed on the essential terms of the contract, specifically the vehicle (2019 Toyota Yaris) and the price ($16,000)."
+32,3,4,,Compliance with mandatory statutory provisions cannot be fully determined until the formal paperwork is completed.
+32,3,5,1,"The negotiation was conducted in a polite, fair, and cooperative manner, consistent with the principles of good faith and fair dealing."
+32,3,6,1,Both parties consciously and freely negotiated the terms and decided to conclude the contract without any external pressure.
+32,3,7,1,There is no indication that this transaction is a simulated or sham legal act; both parties genuinely intend to execute the sale.
+32,3,8,1,"The declarations of will are clear, consistent, and free from any apparent defects such as error, deceit, or threat."
+33,1,1,,The parties are in the initial stage of negotiation and have not yet reached mutual consent.
+33,1,2,,A common intention to be legally bound cannot be determined yet as negotiations are ongoing.
+33,1,3,,"The parties have not yet agreed on the final price, which is an essential term of the contract."
+33,1,4,,"No contract has been concluded yet, so statutory compliance cannot be evaluated."
+33,1,5,,"The contract has not been concluded yet, though the negotiation is proceeding in good faith."
+33,1,6,,"The parties are negotiating freely, but have not yet made a final decision to conclude the contract."
+33,1,7,,It cannot be determined whether the act is simulated until a contract is concluded.
+33,1,8,,"No final declarations of will have been made yet, though the current exchange shows no signs of defects."
+33,2,1,1,"Both parties have explicitly expressed mutual consent and agreed on the final price of $15,800."
+33,2,2,1,"The buyer proposed to finalize the deal today, and the seller accepted with the clear intention to close the transaction."
+33,2,3,1,"The parties have agreed on the essential terms, which are the specific 2019 Toyota Yaris and the purchase price of $15,800."
+33,2,4,,It cannot be determined from the text whether all mandatory statutory provisions for a car sale have been met.
+33,2,5,1,"The negotiation was conducted in a fair, polite, and transparent manner, consistent with good faith and fair dealing."
+33,2,6,1,Both parties consciously and freely negotiated the price and made the decision to conclude the agreement.
+33,2,7,1,The transaction appears to be a genuine sale of a vehicle with no indication of being a simulated or sham act.
+33,2,8,1,"There is no evidence of any defect in the declarations of will, such as error, deceit, or threat, during the negotiation."
+33,3,1,1,Both parties explicitly confirm their mutual agreement to the terms and express their consent to proceed.
+33,3,2,1,Both parties demonstrate a clear intention to be legally bound by proceeding to the paperwork and payment stage.
+33,3,3,1,"The parties have agreed on the essential terms, specifically the 2019 Toyota Yaris for $15,800."
+33,3,4,1,"The parties are preparing the necessary paperwork and clean title, indicating compliance with statutory transfer requirements."
+33,3,5,1,"The negotiation was conducted in good faith, with fair concessions from both sides."
+33,3,6,1,Both parties freely negotiated and agreed to the final price without any external pressure.
+33,3,7,1,There is no indication that this is a sham transaction; both parties genuinely intend to complete the sale.
+33,3,8,1,"The declarations of will are clear and free from any apparent error, deceit, or threat."
+34,1,1,0,The parties have not reached mutual consent as they are still negotiating the price.
+34,1,2,1,Both parties express a clear intention to negotiate and eventually conclude a contract for the vehicle.
+34,1,3,0,"There is no agreement on the essential terms yet, specifically the purchase price of the car."
+34,1,4,,It cannot be determined at this stage as no contract has been concluded yet.
+34,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+34,1,6,1,Both parties are participating in the negotiation consciously and of their own free will.
+34,1,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+34,1,8,1,"The declarations of will do not appear to be affected by any error, deceit, or threat."
+34,2,1,0,The parties have not reached mutual consent as they disagree on the final price.
+34,2,2,1,Both parties express a clear intention to reach an agreement and finalize the transaction.
+34,2,3,0,"The parties have not agreed on the price, which is an essential term of the contract."
+34,2,4,,"The contract has not yet been concluded, so compliance with statutory provisions cannot be determined."
+34,2,5,1,"The negotiation is conducted in a polite and fair manner, consistent with good faith."
+34,2,6,1,Both parties are negotiating voluntarily and freely determining their proposed terms.
+34,2,7,1,There is no indication that the transaction is simulated or a sham.
+34,2,8,1,"There is no evidence of any error, deceit, coercion, or threat affecting the parties' declarations."
+34,3,1,1,"Both parties explicitly declared their mutual consent to the price of $16,800."
+34,3,2,1,Both parties expressed a clear intention to proceed with the purchase and paperwork.
+34,3,3,1,"The parties agreed on the essential terms, specifically the 2019 Toyota Yaris for $16,800."
+34,3,4,,Compliance with mandatory statutory provisions cannot be fully determined from the negotiation transcript alone.
+34,3,5,1,"The negotiation was conducted in a polite, fair, and cooperative manner consistent with good faith."
+34,3,6,1,Both parties freely negotiated and voluntarily agreed to the final price without any coercion.
+34,3,7,1,"There is no indication that the transaction is simulated, as both parties are actively preparing to finalize the sale."
+34,3,8,1,"The declarations of will show no signs of being affected by error, deceit, or threat."
+35,1,1,,The parties are still negotiating and have not yet reached mutual consent on the price.
+35,1,2,,"Although both parties express interest, a final common intention to be bound by a contract is not yet established."
+35,1,3,,"The essential term of price is still under negotiation, with the buyer offering $15,500 and the seller counter-offering $16,200."
+35,1,4,,"No contract has been concluded yet, so compliance with mandatory statutory provisions cannot be determined."
+35,1,5,1,"The parties are negotiating in a polite, fair, and professional manner, consistent with the principles of good faith."
+35,1,6,1,"Both parties are participating in the negotiation freely and consciously, without any signs of coercion."
+35,1,7,,"It cannot be determined at this stage whether the transaction is a simulated act, though it appears genuine."
+35,1,8,1,"There is no indication of error, deceit, or threat affecting either party's declarations in this round."
+35,2,1,0,"The parties have not reached mutual consent as the buyer offered $15,800 and the seller countered with $16,000."
+35,2,2,1,Both parties express a clear intention to conclude a contract and close the deal today if they can agree on the price.
+35,2,3,0,"There is no agreement on the essential terms of the contract yet, specifically the final purchase price."
+35,2,4,,It cannot be determined at this stage whether mandatory statutory provisions are met as the contract has not been finalized.
+35,2,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+35,2,6,1,Both parties are negotiating freely and consciously determining their respective price offers without coercion.
+35,2,7,1,There is no indication that this negotiation is a simulated or sham legal act; both parties appear genuine.
+35,2,8,1,"None of the declarations of will in this round appear to be affected by error, deceit, or threat."
+35,3,1,1,"Both parties have explicitly declared their mutual consent to the final price of $16,000."
+35,3,2,1,Both parties express a clear intention to finalize the transaction and proceed with the paperwork.
+35,3,3,1,"The parties have agreed on the essential terms of the contract, specifically the vehicle and the price of $16,000."
+35,3,4,,Compliance with all mandatory statutory provisions cannot be fully determined from the chat transcript alone.
+35,3,5,1,"The negotiation was conducted in a polite and fair manner, consistent with the principles of good faith and fair dealing."
+35,3,6,1,Both parties consciously and freely negotiated the terms and decided to conclude the contract.
+35,3,7,1,There is no indication in the transcript that this transaction is a simulated or sham legal act.
+35,3,8,1,"The declarations of will appear genuine and free from any defect such as error, deceit, or threat."
+36,1,1,0,"The parties have not reached mutual consent, as the buyer offered $15,500 and the seller countered with $16,200."
+36,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the sale of the car.
+36,1,3,0,"The parties have not agreed on the price, which is an essential term of the contract."
+36,1,4,,"It cannot be determined at this stage whether mandatory statutory provisions are met, as no contract has been concluded."
+36,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+36,1,6,1,Both parties are freely and consciously participating in the negotiation and proposing their own terms.
+36,1,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+36,1,8,1,"None of the declarations of will appear to be affected by error, deceit, or threat."
+36,2,1,,The parties are still negotiating and have not yet reached a mutual agreement on the final price.
+36,2,2,1,Both parties express a clear intention to reach an agreement and finalize the deal.
+36,2,3,,"The essential term of price is still under negotiation ($15,900 vs $16,050) and has not been agreed upon."
+36,2,4,,"No contract has been concluded yet, so compliance with mandatory statutory provisions cannot be determined."
+36,2,5,1,"The parties are negotiating politely, honestly, and in accordance with fair dealing principles."
+36,2,6,1,Both parties are freely and consciously proposing prices and terms without any external pressure.
+36,2,7,,There is no evidence to suggest whether the transaction is a simulated or sham act.
+36,2,8,1,"The declarations of will are clear, voluntary, and free from any apparent error, deceit, or threat."
+36,3,1,1,"Both parties have explicitly declared their mutual agreement on the price of $16,050."
+36,3,2,1,Both parties express a clear intention to be bound by the agreement and proceed to exchange paperwork.
+36,3,3,1,"The parties have agreed on the essential terms: the specific car (2019 Toyota Yaris) and the price ($16,050)."
+36,3,4,,Whether all mandatory statutory provisions for a car sale are met cannot be fully determined from the chat transcript alone.
+36,3,5,1,"The negotiation was conducted in a polite, fair, and cooperative manner, consistent with good faith."
+36,3,6,1,Both parties negotiated freely and consciously arrived at the agreed price without any external pressure.
+36,3,7,1,There is no indication that this transaction is simulated or a sham.
+36,3,8,1,"There is no evidence of any defect in consent, such as error, deceit, or threat, in the parties' declarations."
+37,1,1,,The parties are still negotiating and have not yet reached mutual consent on the final price.
+37,1,2,1,Both parties express a clear intention to negotiate and reach an agreement to finalize the deal.
+37,1,3,,"The essential term of price is still being negotiated, with the buyer offering $15,500 and the seller counter-offering $15,800."
+37,1,4,1,There is no indication that the negotiation violates any mandatory statutory provisions.
+37,1,5,1,"The negotiation is conducted in a polite, professional manner consistent with good faith and fair dealing."
+37,1,6,1,Both parties are participating in the negotiation freely and consciously without any signs of coercion.
+37,1,7,1,The transaction appears to be genuine and there is no indication of a simulated or sham act.
+37,1,8,1,"There is no evidence of error, deceit, threat, or any other defect of will in the parties' communications."
+37,2,1,1,"Both parties have expressed mutual consent, with the buyer proposing $15,650 and the seller explicitly accepting the offer."
+37,2,2,1,"The parties have expressed a clear, common intention to finalize the deal and be bound by the agreed price."
+37,2,3,1,"The parties have agreed on the essential terms, specifically the 2019 Toyota Yaris and the final price of $15,650."
+37,2,4,,Whether the contract complies with all mandatory statutory provisions for vehicle transfers cannot be fully determined at this stage.
+37,2,5,1,"The negotiation was conducted in a polite, fair, and transparent manner, consistent with good faith and fair dealing."
+37,2,6,1,Both parties participated in the negotiation freely and consciously determined the final price without any external pressure.
+37,2,7,1,There is no indication that this transaction is a simulated or sham legal act.
+37,2,8,1,"The declarations of will do not appear to be affected by any error, deceit, or threat."
+37,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $15,650."
+37,3,2,1,Both parties express a clear intention to be bound by the agreement and proceed with the paperwork.
+37,3,3,1,"The parties have agreed on the essential terms, specifically the 2019 Toyota Yaris and the price of $15,650."
+37,3,4,,Compliance with all mandatory statutory provisions cannot be fully determined solely from the chat transcript.
+37,3,5,1,The negotiation was conducted in good faith and aligns with the principles of social coexistence.
+37,3,6,1,Both parties freely and consciously negotiated and agreed upon the terms.
+37,3,7,1,There is no indication that this transaction is a simulated or sham legal act.
+37,3,8,1,"There is no evidence of any defect, such as error, deceit, or threat, affecting either party's declaration of will."
+38,1,1,,The parties are still negotiating the price and have not yet reached mutual consent.
+38,1,2,1,Both parties demonstrate a clear intention to negotiate and eventually conclude a contract for the vehicle.
+38,1,3,,The essential term of price is still under negotiation and has not been agreed upon.
+38,1,4,,It cannot be determined at this early stage of negotiation whether all mandatory statutory provisions will be met.
+38,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+38,1,6,1,Both parties are participating in the negotiation voluntarily and freely proposing terms.
+38,1,7,1,There is no indication that this negotiation is a simulated or sham legal act.
+38,1,8,1,"The declarations of will are clear and free from any apparent error, deceit, or threat."
+38,2,1,1,"Both parties have explicitly agreed on the price of $16,000 to finalize the transaction."
+38,2,2,1,The buyer's proposal to finalize today and the seller's acceptance show a clear intention to be legally bound.
+38,2,3,1,"The parties have agreed on the essential terms, specifically the 2019 Toyota Yaris and the price of $16,000."
+38,2,4,,The text does not provide enough information to determine compliance with mandatory statutory provisions.
+38,2,5,1,"The negotiation was conducted in a polite, fair, and cooperative manner, aligned with good faith."
+38,2,6,1,Both parties freely proposed and accepted the terms without any external pressure or coercion.
+38,2,7,1,The exchange appears to be a genuine commercial transaction with no indication of a simulated or sham agreement.
+38,2,8,1,"There is no evidence of error, deceit, or threat affecting either party's declaration of will."
+38,3,1,1,"Both parties have explicitly confirmed their agreement to the price of $16,000 and are coordinating the finalization of the transaction."
+38,3,2,1,"The parties are actively arranging the logistics for the paperwork and payment, demonstrating a clear intention to be legally bound."
+38,3,3,1,"The parties have agreed on the specific vehicle (2019 Toyota Yaris) and the final purchase price of $16,000."
+38,3,4,1,The proposed steps of completing a bill of sale and transferring the title at a bank comply with standard legal requirements for vehicle sales.
+38,3,5,1,"The negotiation has been conducted in good faith, with polite communication and mutually acceptable terms."
+38,3,6,1,Both parties participated voluntarily and negotiated the price freely without any signs of coercion.
+38,3,7,1,There is no indication that this is a sham transaction; both parties are genuinely planning the transfer of the vehicle.
+38,3,8,1,"The declarations of will are clear, consistent, and free from any apparent defects, errors, or deceit."
+39,1,1,,"The parties are still negotiating the price, so mutual consent has not yet been reached."
+39,1,2,1,Both parties demonstrate a clear intention to negotiate and conclude a contract for the car.
+39,1,3,,"The essential term of price is still being negotiated, so there is no agreement on all essential terms yet."
+39,1,4,,It cannot be determined at this stage whether any mandatory statutory provisions are violated.
+39,1,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+39,1,6,1,Both parties are participating in the negotiation freely and voluntarily.
+39,1,7,1,There is no evidence suggesting that this is a simulated or sham transaction.
+39,1,8,1,"The declarations of will do not appear to be affected by any error, deceit, or threat."
+39,2,1,1,"Both parties have explicitly declared their mutual consent to the final price of $15,850."
+39,2,2,1,"The parties express a clear, shared intention to finalize the transaction and proceed with the paperwork."
+39,2,3,1,"The parties have agreed on the essential terms of the contract, specifically the vehicle and the final price of $15,850."
+39,2,4,,Compliance with all mandatory statutory provisions cannot be fully determined from the text of the chat alone.
+39,2,5,1,"The negotiation was conducted in a polite, fair, and transparent manner, consistent with the principles of good faith."
+39,2,6,1,Both parties participated voluntarily and freely negotiated the final price without any signs of coercion.
+39,2,7,,There is insufficient evidence in the text to conclusively determine whether or not the transaction is a simulated act.
+39,2,8,1,"The declarations of will appear genuine and free from any defects such as error, deceit, or duress."
+40,1,1,0,The parties have not reached mutual consent as the seller rejected the buyer's initial offer and proposed a higher price.
+40,1,2,1,Both parties demonstrate a clear intention to negotiate and enter into a binding contract for the sale of the vehicle.
+40,1,3,0,"The parties have not agreed on the essential terms, specifically the purchase price of the vehicle."
+40,1,4,,"No contract has been concluded yet, so compliance with mandatory statutory provisions cannot be determined."
+40,1,5,1,"The negotiation is conducted in a polite, professional manner consistent with good faith and fair dealing."
+40,1,6,1,Both parties are freely and consciously participating in the negotiation to determine the contract's content.
+40,1,7,1,There is no indication that the negotiation is a simulated or sham legal act.
+40,1,8,1,"There is no evidence of any defect, such as error, deceit, or threat, affecting either party's declarations."
+40,2,1,,The parties are still negotiating the price and have not yet reached mutual consent.
+40,2,2,1,Both parties demonstrate a clear and active intention to reach an agreement and conclude the contract.
+40,2,3,,"The final price, which is an essential term of the contract, is still being negotiated."
+40,2,4,,"The contract has not yet been concluded, so compliance with mandatory statutory provisions cannot be fully determined."
+40,2,5,1,"The negotiation is conducted in a polite, fair, and professional manner, consistent with good faith."
+40,2,6,1,Both parties are freely and consciously proposing prices and terms without any external pressure.
+40,2,7,1,There is no indication that this negotiation is a simulated or sham transaction.
+40,2,8,1,"The declarations of will are clear and free from any apparent error, deceit, or threat."
+40,3,1,1,"Both parties have explicitly declared their mutual consent to the price of $16,600."
+40,3,2,1,Both parties express a clear intention to be bound by the agreement and proceed to finalize the paperwork.
+40,3,3,1,"The parties have agreed on the essential terms: the specific car (2019 Toyota Yaris) and the price ($16,600)."
+40,3,4,,There is insufficient information in the text to determine compliance with all mandatory statutory provisions.
+40,3,5,1,"The negotiation was conducted in a fair, polite, and transparent manner, consistent with good faith."
+40,3,6,1,Both parties freely negotiated and arrived at the agreed price without any signs of coercion.
+40,3,7,1,The transaction appears to be a genuine sale of a vehicle with no indication of it being a simulated or sham act.
+40,3,8,1,"There is no evidence of any defect in consent, such as error, deceit, or threat, in the parties' declarations."

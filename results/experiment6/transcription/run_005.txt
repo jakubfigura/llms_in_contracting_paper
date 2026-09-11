@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks for the details. The Yaris sounds promising, but I’d like to confirm a few things first: can you share the full maintenance history, any recent service records, and confirm there have been no accidents or mechanical issues? Based on the mileage and market, my initial offer is $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. The car has a full regular maintenance history, with recent service records available, and it has never been in an accident or had any mechanical issues. Given the excellent condition, low mileage for its year, and Toyota reliability, I’m asking $16,500. I can be flexible, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks for confirming the maintenance history and condition. I appreciate the flexibility. Given my budget and the mileage, I can come up to $15,500, but I’d need to stay within that range. If you can meet me there, I’m ready to move forward.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, and $15,500 is close. Given the excellent condition, full maintenance history, and no-accident record, I can come down to $15,900. That’s a fair middle ground, and I’m ready to proceed if that works for you.", "offer_price": 15900, "agreed": false}
+
+BUYER: {"reply": "Thanks, I appreciate the counteroffer and the car’s condition. $15,900 is still a bit above where I can be comfortable, but I can meet you at $15,700 if we can finalize it at that price. If that works, I’m ready to proceed.", "offer_price": 15700, "agreed": false}
+
+SELLER: {"reply": "I appreciate the continued interest. Given the excellent condition, regular maintenance, and no-accident history, I can meet you at $15,700 and we have a deal at that price.", "offer_price": 15700, "agreed": true}
+
+BUYER: {"reply": "Great, thank you — $15,700 works for me, and we have a deal at that price. Please send the next steps and any paperwork needed.", "offer_price": 15700, "agreed": true}
+
+SELLER: {"reply": "Great — we’re agreed at $15,700. I’ll prepare the bill of sale and title/transfer paperwork, and we can arrange a time to finalize payment and handover. Please let me know your preferred day and time.", "offer_price": 15700, "agreed": true}

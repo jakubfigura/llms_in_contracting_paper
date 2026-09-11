@@ -1,0 +1,15 @@
+BUYER: {"reply": "Thanks for the details. Before we go further, can you confirm the maintenance history, any recent repairs, and whether there are any outstanding issues with the car? Given the 2019 Yaris with 65,000 km, I’d like to start at $15,000 and see if we can work toward a fair deal.", "offer_price": 15000, "agreed": false}
+
+SELLER: {"reply": "Yes — the car has regular maintenance records, no accidents, and no outstanding issues. Recent servicing has been kept up to date, and it runs very well. Given the excellent condition, low mileage for its year, and Toyota reliability, my asking price is $16,500. I can be flexible, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "Thanks, that’s helpful. The maintenance history and no-accident record are reassuring. Given the mileage and my budget, I can come up to $15,500. If you can meet me there, I’m ready to move forward.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer, and $15,500 is close. Considering the excellent condition, full maintenance history, and no-accident record, I can meet you at $15,800. That’s a fair price for this Yaris, and it’s still below my asking price. If that works, we have a deal.", "offer_price": 15800, "agreed": false}
+
+BUYER: {"reply": "I appreciate you coming down. Based on the mileage and my budget, I can do $15,700, and if you can agree to that, I’m ready to proceed.", "offer_price": 15700, "agreed": false}
+
+SELLER: {"reply": "I can agree to $15,700. That’s a fair price for the 2019 Toyota Yaris in excellent condition, with 65,000 km, regular maintenance, and no accidents. We have a deal.", "offer_price": 15700, "agreed": true}
+
+BUYER: {"reply": "Great — thank you. I’m happy to confirm the deal at $15,700 for the 2019 Toyota Yaris, subject to final inspection and paperwork. Please let me know the next steps and when I can arrange pickup/payment.", "offer_price": 15700, "agreed": true}
+
+SELLER: {"reply": "Great, we’re agreed at $15,700 subject to final inspection and paperwork. Next step is to arrange a time for you to inspect the car, then we can complete payment and transfer documents. I’m available to coordinate pickup at your convenience.", "offer_price": 15700, "agreed": true}

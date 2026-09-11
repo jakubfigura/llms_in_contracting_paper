@@ -1,0 +1,41 @@
+BUYER: {"reply": "Hi, thanks for showing me this Yaris. It's in great condition and I appreciate the maintenance history. For a 2019 with 65,000 km, I'd like to start negotiations at $16,500. I'm a serious buyer ready to move forward quickly if we can reach a fair price.", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "Thank you for your interest and for being a serious buyer. I appreciate that. Your offer of $16,500 is reasonable, and I'm glad you recognize the excellent condition of this Yaris. Given the low mileage, pristine maintenance record, and no accident history, I was initially looking at $17,500. However, since you're ready to move quickly, I'm willing to meet you at $17,000. That's a fair price for a vehicle in this condition. What do you think?", "offer_price": 17000, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=1 - Both parties have made clear declarations of intent with specific offer prices ($16,500 from buyer, $17,000 from seller).
+  [2] label=null - While both parties express willingness to negotiate, neither has yet accepted the other's terms, so common intention to be bound cannot be confirmed.
+  [3] label=null - Essential terms like price remain in dispute; agreement on the main subject matter (the vehicle itself) is clear, but the price term is not yet settled.
+  [4] label=null - No statutory compliance issues are apparent at this stage of negotiation.
+  [5] label=1 - Both parties are negotiating transparently with reasonable justifications for their positions, demonstrating good faith and fair dealing.
+  [6] label=1 - Both parties explicitly indicate conscious and free decision-making (buyer states readiness to move quickly, seller acknowledges willingness to negotiate).
+  [7] label=1 - The negotiations appear genuine with substantive discussion of vehicle condition and pricing rationale, showing no signs of simulation.
+  [8] label=1 - No evidence of error, deceit, or threat affecting either party's declarations of will in this round.
+
+BUYER: {"reply": "I appreciate you meeting me halfway. The $17,000 offer is closer, and I do value the excellent maintenance and clean history. However, at that price point, I'm still a bit above my comfortable range. Would you consider $16,800? That gives you a solid return while keeping me within my budget. I'm ready to finalize today if we can agree on that price.", "offer_price": 16800, "agreed": false}
+
+SELLER: {"reply": "I appreciate your flexibility, and I can see you're a serious buyer ready to close today. $16,800 is very close to where I need to be. Let me meet you there—$16,800 is acceptable to me. We have a deal. I can prepare the paperwork right away, and we can finalize everything today.", "offer_price": 16800, "agreed": true}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties have made clear declarations of intent in this round, with the seller explicitly accepting the buyer's offer of $16,800.
+  [2] label=1 - Both parties demonstrate a common intention to conclude a binding contract, with the seller stating 'We have a deal' and offering to prepare paperwork immediately.
+  [3] label=1 - The essential terms are agreed upon: the vehicle (2019 Yaris), the price ($16,800), and the parties' intent to finalize today.
+  [4] label=null - Compliance with mandatory statutory provisions cannot be determined from the negotiation transcript alone, as it depends on jurisdiction-specific requirements not addressed in the dialogue.
+  [5] label=1 - The negotiation demonstrates good faith and fair dealing, with both parties making reasonable concessions and the seller acknowledging the buyer's seriousness.
+  [6] label=1 - Both parties appear to have consciously and freely decided to conclude the contract without evidence of coercion or undue pressure.
+  [7] label=1 - There is no indication that this is a simulated or sham transaction; both parties appear genuinely committed to completing the sale.
+  [8] label=1 - No defects such as error, deceit, or threat are evident in either party's declarations during this round.
+
+BUYER: {"reply": "Excellent! I'm pleased we've reached an agreement at $16,800. That works perfectly for me. Yes, let's move forward with the paperwork right away. I'm ready to complete the purchase today. Thank you for being flexible and professional throughout this negotiation. Let's get the documents prepared.", "offer_price": 16800, "agreed": true}
+
+SELLER: {"reply": "Perfect! Thank you for being a straightforward and professional buyer. I'm glad we could reach an agreement at $16,800. I'll have all the paperwork ready for you immediately—title transfer, maintenance records, and any other documentation you need. Let's get this finalized today. Welcome to your new Toyota Yaris!", "offer_price": 16800, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties have clearly expressed their declarations of intent and will, with the buyer offering $16,800 and the seller accepting this price.
+  [2] label=1 - Both parties explicitly demonstrate a common intention to conclude the contract and be bound by it, with the seller stating 'We have a deal' and the buyer confirming readiness to finalize.
+  [3] label=1 - The essential terms are agreed upon: the vehicle (2019 Toyota Yaris), the price ($16,800), and the parties' intent to complete the transaction today.
+  [4] label=null - Compliance with mandatory statutory provisions cannot be determined from the negotiation transcript alone, as it depends on jurisdiction-specific requirements and actual contract documentation.
+  [5] label=1 - The negotiation demonstrates good faith and fair dealing, with both parties making reasonable compromises and conducting themselves professionally throughout.
+  [6] label=1 - Both parties have consciously and freely decided to conclude the contract at $16,800, with no evidence of coercion or external pressure.
+  [7] label=1 - There is no indication that this is a simulated or sham transaction; both parties appear genuinely committed to completing the purchase.
+  [8] label=1 - Neither party's declarations of will show signs of error, deceit, or threat; the negotiation is transparent and straightforward.

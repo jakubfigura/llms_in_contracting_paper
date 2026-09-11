@@ -1,0 +1,41 @@
+BUYER: {"reply": "Thanks for the details. The car sounds well cared for, but I’d like to confirm the maintenance records and ask whether there are any recent repairs or pending issues. Based on the year, mileage, and condition, my initial offer is $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for the offer. The Toyota Yaris has been regularly maintained, has no accident history, and is in excellent condition, so I’m asking $16,500. Given the mileage and overall care, that’s a fair price. I’m open to reasonable negotiation, but I can’t go below $15,000.", "offer_price": 16500, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - The parties are still exchanging offers and have not shown mutual assent to the same terms.
+  [2] label=null - There is no clear indication yet that both sides intend to be legally bound by a final agreement.
+  [3] label=null - Price is discussed, but no final agreement on all essential terms is reached in this round.
+  [4] label=null - Nothing in the exchange suggests a breach of mandatory legal requirements, but this cannot yet be assessed.
+  [5] label=null - The negotiation appears ordinary and in good faith, with no sign of improper purpose.
+  [6] label=null - Both sides are negotiating voluntarily, but a concluded free decision to contract is not yet evident.
+  [7] label=null - There is no indication that the discussion is a sham transaction.
+  [8] label=null - No error, deceit, or threat is apparent from the messages.
+
+BUYER: {"reply": "Thanks — the maintenance and clean history are reassuring. I can move up to $16,000, but that would need to include the maintenance records and confirmation that there are no outstanding issues. If everything checks out, I’m prepared to proceed at that price.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the offer. I can confirm full maintenance records and that there are no outstanding issues. Given the excellent condition, regular service history, and clean accident-free record, $16,000 is acceptable. We have a deal.", "offer_price": 16000, "agreed": true}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties clearly expressed assent to the $16,000 price in the last round.
+  [2] label=1 - The seller explicitly stated 'We have a deal,' showing intent to be legally bound.
+  [3] label=1 - The essential terms are agreed: the car, price, and key condition disclosures/records.
+  [4] label=null - No facts indicate any mandatory legal formalities or whether they were complied with.
+  [5] label=1 - Nothing in the exchange suggests bad faith or an unlawful purpose.
+  [6] label=1 - The messages show a voluntary negotiation and acceptance without any sign of coercion.
+  [7] label=1 - The exchange appears to be a genuine sale negotiation, not a sham transaction.
+  [8] label=null - There is no indication of mistake, fraud, or threat, but none can be ruled out conclusively.
+
+BUYER: {"reply": "Great, thank you — $16,000 works for me. I appreciate the maintenance records and the clear condition. We have a deal.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "We have a deal at $16,000. I’ll provide the maintenance records and confirm the car’s excellent, accident-free condition for the handover.", "offer_price": 16000, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties clearly expressed assent to the $16,000 sale in the last round.
+  [2] label=1 - The buyer and seller both stated they have a deal and intend to be bound.
+  [3] label=1 - The essential term, the price of $16,000 for the Toyota Yaris, is agreed.
+  [4] label=null - No facts indicate any mandatory legal formalities or their compliance.
+  [5] label=1 - The agreed sale appears ordinary and consistent with good faith and fair dealing.
+  [6] label=1 - The messages show a conscious, voluntary decision to conclude the transaction.
+  [7] label=null - There is no indication that the deal is merely sham or simulated.
+  [8] label=null - The transcript does not reveal any error, deceit, or threat affecting consent.

@@ -1,0 +1,11 @@
+BUYER: {"reply": "Hello! I'm interested in the 2019 Toyota Yaris. Could you please share more details about its overall condition and maintenance history? Based on the mileage of 65,000 km and market value, I'd like to start with an initial offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thank you for your interest! The 2019 Toyota Yaris is in excellent condition, with a full regular maintenance history and absolutely no accidents. Given its pristine condition and low mileage, $15,500 is a bit low for us. However, since you're a serious buyer, I could meet you at $16,500.", "offer_price": 16500, "agreed": false}
+
+BUYER: {"reply": "I appreciate you sharing the maintenance details and coming down on the price. Since the car has 65,000 km and will need some routine wear-and-tear items addressed soon, would you be willing to split the difference at $16,000?", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "That's a fair point about the upcoming routine maintenance, and I want to make sure you get a great deal. Let's meet right in the middle at $16,250, and I'll include a fresh oil change before you drive off.", "offer_price": 16250, "agreed": false}
+
+BUYER: {"reply": "That sounds like a very reasonable deal, especially with the fresh oil change included. I accept your offer of $16,250. Let's move forward with the purchase!", "offer_price": 16250, "agreed": true}
+
+SELLER: {"reply": "Fantastic! We have a deal at $16,250. I'll get that oil change scheduled right away and we can proceed with the paperwork.", "offer_price": 16250, "agreed": true}

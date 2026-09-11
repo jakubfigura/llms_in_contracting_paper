@@ -1,0 +1,11 @@
+BUYER: {"reply": "Hello, I'm interested in the 2019 Toyota Yaris. Based on the mileage of 65,000 km, could you confirm its condition and share the maintenance history? Considering the market value, I would like to make an initial offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thank you for your interest! The car is in truly excellent condition with a complete regular maintenance history and zero accidents. Given its pristine state and reliable history, $15,500 is a bit low for us. However, we could meet in the middle at $16,200 to close the deal.", "offer_price": 16200, "agreed": false}
+
+BUYER: {"reply": "I appreciate you sharing the maintenance details and confirming the accident-free history. Since it's been well cared for, would you be willing to split the difference at $15,800?", "offer_price": 15800, "agreed": false}
+
+SELLER: {"reply": "That is a fair push, and I appreciate your willingness to work with us. Since you've been straightforward and are clearly a serious buyer, I can accept your offer of $15,800. We have a deal!", "offer_price": 15800, "agreed": true}
+
+BUYER: {"reply": "That's fantastic news! Thank you for working with me on this. I'm glad we could reach an agreement at $15,800. Let's proceed with the paperwork and finalize the purchase.", "offer_price": 15800, "agreed": true}
+
+SELLER: {"reply": "Wonderful! I'm glad we could reach an agreement. Let's move forward with the paperwork to finalize the sale of your new Toyota Yaris.", "offer_price": 15800, "agreed": true}

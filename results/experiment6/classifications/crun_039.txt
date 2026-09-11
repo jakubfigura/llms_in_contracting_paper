@@ -1,0 +1,41 @@
+BUYER: {"reply": "Hi, I’m interested in the 2019 Toyota Yaris with 65,000 km. Before we talk price, can you confirm the maintenance history, any recent servicing, and that there have been no accidents or major repairs? Based on the mileage and market, my initial offer is $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Thanks for your interest. Yes, the car has regular maintenance, recent servicing is up to date, and it has never been in an accident or had major repairs. Given the excellent condition, low mileage, and Toyota reliability, $15,500 is a bit low. I can come down to $16,800, and I believe that’s a fair price for this Yaris.", "offer_price": 16800, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=null - The parties have exchanged offers, but there is no mutual assent to the same price yet.
+  [2] label=null - They are negotiating with an apparent intent to contract, but no final commitment to be bound is shown.
+  [3] label=null - The essential term of price is still unsettled because the buyer and seller differ on the amount.
+  [4] label=null - Nothing in the exchange indicates compliance or noncompliance with any mandatory statutory formalities.
+  [5] label=1 - The negotiation concerns a lawful car sale and shows no sign of bad faith or improper purpose.
+  [6] label=1 - Both sides are bargaining openly and voluntarily without any indication of coercion.
+  [7] label=null - There is no indication that the discussion is a sham, but that cannot be confirmed from this round.
+  [8] label=null - No error, deceit, or threat is evident, but the record is too limited to rule definitively.
+
+BUYER: {"reply": "Thanks for confirming the maintenance and accident-free history. The car sounds well cared for, but $16,800 is still a bit above my target. I can move to $16,000 and can proceed quickly if we can settle there.", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the quick response. $16,000 is close, but given the excellent condition, regular maintenance, and accident-free history, I can meet you at $16,500. That’s a fair middle ground for this Yaris.", "offer_price": 16500, "agreed": false}
+
+JUDGE [round 2]:
+  [1] label=null - The parties are still exchanging offers and have not clearly expressed mutual assent to the same final terms.
+  [2] label=null - There is no clear statement that both sides intend to be legally bound by a concluded contract yet.
+  [3] label=null - Price is still unsettled because the buyer offered $16,000 and the seller countered with $16,500.
+  [4] label=null - No facts indicate whether any mandatory legal formalities apply or have been satisfied.
+  [5] label=1 - The proposed sale of a used car at an agreed market-based price appears lawful and consistent with good faith.
+  [6] label=1 - Both sides are negotiating voluntarily and without any sign of coercion or lack of freedom.
+  [7] label=null - Nothing in the dialogue indicates a sham transaction, but that cannot be confirmed from the text alone.
+  [8] label=null - There is no evidence of error, deceit, or threat, but the absence of defects cannot be determined conclusively.
+
+BUYER: {"reply": "Thanks, $16,500 is appreciated. Given my budget and the mileage, I can agree at $16,500 if that includes the car as described, with no hidden issues. Please confirm and we have a deal.", "offer_price": 16500, "agreed": true}
+
+SELLER: {"reply": "Agreed — $16,500 for the 2019 Toyota Yaris as described, with regular maintenance and no accidents or hidden issues. We have a deal.", "offer_price": 16500, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties clearly expressed matching assent to the $16,500 deal in the last round.
+  [2] label=1 - The buyer and seller both stated they have a deal and intend to be bound by it.
+  [3] label=1 - The essential terms are agreed: the specific car and the price of $16,500.
+  [4] label=null - The transcript does not address any mandatory legal formalities or statutory requirements.
+  [5] label=1 - Nothing in the last round suggests unfairness or inconsistency with good faith and fair dealing.
+  [6] label=1 - The messages indicate a conscious and voluntary agreement by both sides.
+  [7] label=null - There is no indication that the deal is a sham, but the transcript does not let us determine that conclusively.
+  [8] label=null - No error, deceit, or threat is apparent, but the record is insufficient to rule out defects definitively.

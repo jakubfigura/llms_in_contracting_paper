@@ -1,0 +1,11 @@
+BUYER: {"reply": "Thanks for showing me this Yaris. It's in great condition with reasonable mileage. I'm interested in moving forward, but I'd like to start the negotiation at $16,500. This accounts for the age of the vehicle and current market rates for 2019 Yaris models. What are your thoughts on that price?", "offer_price": 16500, "agreed": false}
+
+SELLER: {"reply": "I appreciate your interest in the Yaris. At $16,500, we're actually quite close. Given this vehicle's excellent condition, regular maintenance history, and no accident record, I believe $17,200 is a fair asking price. That's competitive for a well-maintained 2019 Yaris with only 65,000 km. However, I'm willing to meet you at $16,800 as a compromise. Does that work for you?", "offer_price": 16800, "agreed": false}
+
+BUYER: {"reply": "I appreciate the compromise at $16,800. The vehicle is definitely well-maintained, and I can see that. However, I'd like to counter at $16,950. That's a fair middle ground that reflects the car's excellent condition while staying realistic with current market values for this model and mileage. Can we agree on $16,950?", "offer_price": 16950, "agreed": false}
+
+SELLER: {"reply": "You know what, I think $16,950 is a fair deal. This car is genuinely in excellent condition with full service history and no accidents—that's worth recognizing. I'm comfortable accepting your offer at $16,950. We have an agreement.", "offer_price": 16950, "agreed": true}
+
+BUYER: {"reply": "Excellent! I'm glad we could reach an agreement. $16,950 is a fair price for a well-maintained 2019 Yaris in this condition. I'm satisfied with this deal. Let's move forward with the paperwork and complete the purchase. Thank you for the negotiation—it was straightforward and professional.", "offer_price": 16950, "agreed": true}
+
+SELLER: {"reply": "Excellent! I'm very pleased we could come to an agreement at $16,950. Thank you for being a reasonable negotiator—it made this process smooth and professional. I'm confident you're getting a quality vehicle that will serve you well. Let's proceed with the paperwork right away. I'll have the title and service records ready for you. When would you like to finalize everything?", "offer_price": 16950, "agreed": true}

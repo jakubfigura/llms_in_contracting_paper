@@ -1,0 +1,41 @@
+BUYER: {"reply": "Hello! I'm interested in the 2019 Toyota Yaris. Could you please share a bit more about its condition and maintenance history? Assuming everything checks out, I'd like to start with an offer of $15,500.", "offer_price": 15500, "agreed": false}
+
+SELLER: {"reply": "Hello! Thanks for your interest. The car is in truly excellent condition with a complete maintenance record and zero accidents. Given its great shape and low mileage of 65,000 km, $15,500 is a bit low for us. However, we could meet in the middle at $16,200 to close the deal today.", "offer_price": 16200, "agreed": false}
+
+JUDGE [round 1]:
+  [1] label=0 - The parties have not reached mutual consent as they are still negotiating the price.
+  [2] label=1 - Both parties express a clear intention to negotiate and eventually conclude a contract.
+  [3] label=0 - There is no agreement yet on the essential term of price, with offers at $15,500 and $16,200.
+  [4] label=null - The contract has not been concluded yet, so compliance with statutory provisions cannot be determined.
+  [5] label=1 - The negotiation is conducted in a polite, fair, and professional manner consistent with good faith.
+  [6] label=1 - Both parties are participating in the negotiation freely and without any external pressure.
+  [7] label=1 - The transaction appears to be a genuine commercial negotiation and not a simulated act.
+  [8] label=1 - There is no indication of any error, deceit, threat, or other defect in the parties' declarations.
+
+BUYER: {"reply": "That's good to hear about the maintenance record. Since it's in such great shape, would you be willing to do $16,000 even, and we can finalize the paperwork today?", "offer_price": 16000, "agreed": false}
+
+SELLER: {"reply": "I appreciate the straightforward offer and wanting to wrap things up today. Since you're ready to finalize now, I can agree to $16,000. We have a deal!", "offer_price": 16000, "agreed": true}
+
+JUDGE [round 2]:
+  [1] label=1 - Both parties have expressed mutual consent, with the seller explicitly accepting the buyer's offer of $16,000.
+  [2] label=1 - Both parties show a clear, common intention to finalize the contract and be bound by the agreement today.
+  [3] label=1 - The parties have agreed on the essential terms of the contract, specifically the 2019 Toyota Yaris and the price of $16,000.
+  [4] label=null - It cannot be determined from the text of the negotiation whether all mandatory statutory provisions have been met.
+  [5] label=1 - The negotiation is conducted in a fair, polite, and transparent manner, consistent with the principles of good faith.
+  [6] label=1 - Both parties consciously and freely negotiated the price and terms without any signs of external pressure.
+  [7] label=1 - There is no indication that this transaction is a simulated or sham legal act.
+  [8] label=1 - Neither party's declaration of will appears to be affected by any error, deceit, or threat.
+
+BUYER: {"reply": "Fantastic, I'm glad we could reach an agreement at $16,000. Let's proceed with the paperwork.", "offer_price": 16000, "agreed": true}
+
+SELLER: {"reply": "Wonderful! I'm glad we could reach an agreement. Let's move forward with the paperwork to finalize the sale of your 2019 Toyota Yaris.", "offer_price": 16000, "agreed": true}
+
+JUDGE [round 3]:
+  [1] label=1 - Both parties explicitly confirm their mutual agreement on the price of $16,000.
+  [2] label=1 - Both parties express a clear intention to proceed with the paperwork to finalize the sale.
+  [3] label=1 - The parties have agreed on the essential terms, specifically the 2019 Toyota Yaris for $16,000.
+  [4] label=null - Compliance with mandatory statutory provisions cannot be fully determined from the text of the negotiation.
+  [5] label=1 - The negotiation was conducted in a polite, fair, and cooperative manner, consistent with good faith.
+  [6] label=1 - Both parties freely proposed and accepted the final price without any signs of coercion.
+  [7] label=1 - There is no indication that this transaction is a simulated or sham legal act.
+  [8] label=1 - The declarations of will appear genuine and free from any error, deceit, or threat.
