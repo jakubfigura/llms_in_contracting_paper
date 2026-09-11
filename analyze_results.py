@@ -1,12 +1,32 @@
 from pathlib import Path
 import numpy as np
 import matplotlib.pyplot as plt
+from matplotlib.ticker import MaxNLocator
 import pandas as pd
 
 EXPERIMENTS = {
     "Gemini 3.5 Flash": "results/experiment1",
     "Claude Haiku 4.5": "results/experiment2",
     "GPT-5.4-mini": "results/experiment3"
+}
+
+EXPERIMENTS_AFTER_PROMPT_MANIPULATION = {
+    "Gemini 3.5 Flash": "results/experiment4",
+    "Claude Haiku 4.5": "results/experiment5",
+    "GPT-5.4-mini": "results/experiment6"
+}
+
+DATASETS = {
+    "Baseline": (EXPERIMENTS, ""),
+    "After prompt manipulation": (EXPERIMENTS_AFTER_PROMPT_MANIPULATION, "_after_prompt_manipulation"),
+}
+
+PRICE_CONSTRAINTS = (15000, 18000)
+
+MODEL_COLORS = {
+    "Gemini 3.5 Flash": "#4285F4",   # blue
+    "Claude Haiku 4.5": "#D97757",   # orange
+    "GPT-5.4-mini": "#6B7280",       # gray
 }
 
 
@@ -20,34 +40,47 @@ def load_experiment_data(exp_path):
     return df_results, df_traj, df_verdicts
 
 
-def load_all_data():
+def load_data(data_paths : dict):
     """Load data from all experiments."""
     data = {}
-    for name, path in EXPERIMENTS.items():
+    for name, path in data_paths.items():
         data[name] = load_experiment_data(path)
     return data
 
 
-def print_summary_single(model_name, df_results):
+def mean_final_round_price(df_traj):
+    """Average price offered in the last round of each run.
+
+    Buyer and seller offers coincide once they agree, so for concluded
+    negotiations this is the agreed price; where a run ended without
+    agreement it is the midpoint of the two standing offers.
+    """
+    last_round = df_traj.groupby("run")["round"].transform("max")
+    last = df_traj[df_traj["round"] == last_round]
+    return ((last["buyer_offer"] + last["seller_offer"]) / 2).mean()
+
+
+def print_summary_single(model_name, df_results, df_traj):
     """Print statistics for a single experiment."""
     agreements = (df_results["termination_reason"] == "agreement").sum()
     print(f"=== {model_name.upper()} ===")
     print(f"Runs: {len(df_results)}")
     print(f"Agreements: {agreements} / {len(df_results)}")
     print(f"Average rounds: {df_results['rounds_completed'].mean():.2f}")
+    print(f"Average price in final round: ${mean_final_round_price(df_traj):.2f}")
     print(f"Total cost: ${df_results['cost_usd'].sum():.6f}")
     print(f"Total tokens: {(df_results['input_tokens'] + df_results['output_tokens']).sum()}")
     print()
 
 
-def print_summary_all(data):
-    """Print comparative statistics for all experiments."""
+def print_summary_all(data, label):
+    """Print comparative statistics for all experiments in one dataset."""
     print("\n" + "="*60)
-    print("MODEL COMPARISON")
+    print(f"MODEL COMPARISON - {label.upper()}")
     print("="*60 + "\n")
 
     summary_list = []
-    for model_name, (df_results, _, _) in data.items():
+    for model_name, (df_results, df_traj, _) in data.items():
         agreements = (df_results["termination_reason"] == "agreement").sum()
         summary_list.append({
             "Model": model_name,
@@ -56,6 +89,7 @@ def print_summary_all(data):
             "Agreement Rate": f"{100*agreements/len(df_results):.1f}%",
             "Avg Rounds": f"{df_results['rounds_completed'].mean():.2f}",
             "Avg Final Price": f"${df_results['final_price'].mean():.2f}" if (df_results['final_price'] > 0).any() else "N/A",
+            "Avg Final Round Price": f"${mean_final_round_price(df_traj):.2f}",
             "Total Cost": f"${df_results['cost_usd'].sum():.4f}",
         })
 
@@ -73,11 +107,9 @@ def compute_average_trajectory(df_traj):
     return traj_by_round
 
 
-def plot_comparative_trajectories(data):
-    """Compare average price trajectories for all models."""
+def plot_comparative_trajectories(data, label, suffix):
+    """Compare average price trajectories for all models in one dataset."""
     fig, ax = plt.subplots(figsize=(10, 6))
-
-    colors = {"Gemini 3.5 Flash": "#4285F4", "Claude Haiku 4.5": "#000000", "GPT-5.4-mini": "#00A67E"}
 
     for model_name, (_, df_traj, _) in data.items():
         traj = compute_average_trajectory(df_traj)
@@ -87,24 +119,31 @@ def plot_comparative_trajectories(data):
         seller_stds = traj[("seller_offer", "std")]
 
         rounds = buyer_means.index
-        ax.plot(rounds, buyer_means, marker="o", linestyle="-", color=colors[model_name],
+        ax.plot(rounds, buyer_means, marker="o", linestyle="-", color=MODEL_COLORS[model_name],
                 linewidth=2, label=f"{model_name} (buyer)")
         ax.fill_between(rounds, buyer_means - buyer_stds, buyer_means + buyer_stds,
-                        color=colors[model_name], alpha=0.15)
+                        color=MODEL_COLORS[model_name], alpha=0.15)
 
-        ax.plot(rounds, seller_means, marker="s", linestyle="--", color=colors[model_name],
+        ax.plot(rounds, seller_means, marker="s", linestyle="--", color=MODEL_COLORS[model_name],
                 linewidth=2, label=f"{model_name} (seller)")
         ax.fill_between(rounds, seller_means - seller_stds, seller_means + seller_stds,
-                        color=colors[model_name], alpha=0.15)
+                        color=MODEL_COLORS[model_name], alpha=0.15)
+
+    for i, constraint in enumerate(PRICE_CONSTRAINTS):
+        ax.axhline(constraint, color="black", linestyle="--", linewidth=1.5, alpha=0.8,
+                   label="price constraints" if i == 0 else None)
 
     ax.set_xlabel("Negotiation Round", fontsize=11)
-    ax.set_ylabel("Average Offered Price", fontsize=11)
-    ax.set_title("Comparison of Average Price Trajectories Between Models", fontsize=12, fontweight="bold")
-    ax.legend(fontsize=9, loc="upper left", bbox_to_anchor=(1.02, 1), frameon=True)
+    ax.set_ylabel("Mean Offered Price", fontsize=11)
+    ax.set_title(f"Comparison of Mean Price Trajectories Between Models ({label})", fontsize=12)
+    ax.xaxis.set_major_locator(MaxNLocator(integer=True))
+    ax.legend(fontsize=9, frameon=True)
     ax.grid(True, alpha=0.3)
     fig.tight_layout()
-    fig.savefig("results/comparison_price_trajectories.png", dpi=150)
+    outfile = f"results/comparison_price_trajectories{suffix}.png"
+    fig.savefig(outfile, dpi=150)
     plt.close(fig)
+    return outfile
 
 
 def print_criteria_stats_single(model_name, df_verdicts):
@@ -126,12 +165,26 @@ def print_criteria_stats_single(model_name, df_verdicts):
     return criteria_stats
 
 
-def plot_comparative_criteria_satisfaction(data):
+def filter_final_round_verdicts(df_verdicts):
+    """Keep only the verdicts from the last round of each run."""
+    last_round = df_verdicts.groupby("run")["round"].transform("max")
+    return df_verdicts[df_verdicts["round"] == last_round]
+
+
+def plot_comparative_criteria_satisfaction(data, label, suffix, final_round_only=False):
     """Create separate plots for each model showing criteria satisfaction."""
+    if final_round_only:
+        title = f"Contract Criteria Evaluation in Final Rounds by Model ({label})"
+        ylabel = "Number of Runs"
+        outfile = f"results/comparison_criteria_satisfaction_final_round{suffix}.png"
+    else:
+        title = f"Legal Criteria Satisfaction by Model, Absolute Numbers ({label})"
+        ylabel = "Number of Evaluations"
+        outfile = f"results/comparison_criteria_satisfaction{suffix}.png"
+
     fig, axes = plt.subplots(1, 3, figsize=(16, 5), sharey=True)
 
     models = list(data.keys())
-    colors = {"Gemini 3.5 Flash": "#4285F4", "Claude Haiku 4.5": "#000000", "GPT-5.4-mini": "#00A67E"}
 
     status_colors = {
         "satisfied": "#2ecc71",      # green
@@ -143,6 +196,8 @@ def plot_comparative_criteria_satisfaction(data):
     all_criteria = set()
 
     for model_name, (_, _, df_verdicts) in data.items():
+        if final_round_only:
+            df_verdicts = filter_final_round_verdicts(df_verdicts)
         stats = print_criteria_stats_single(model_name, df_verdicts)
         criteria_per_model[model_name] = stats
         all_criteria.update(stats.index)
@@ -168,16 +223,15 @@ def plot_comparative_criteria_satisfaction(data):
                label="Unable to Determine", color=status_colors["unable"], alpha=0.85)
 
         ax.set_xlabel("Criterion", fontsize=10)
-        ax.set_title(model_name, fontsize=11, fontweight="bold")
+        ax.set_title(model_name, fontsize=11)
         ax.set_xticks(x_pos)
         ax.set_xticklabels([f"C{i}" for i in all_criteria], fontsize=9)
         ax.grid(True, axis="y", alpha=0.3)
 
         if idx == 0:
-            ax.set_ylabel("Number of Evaluations", fontsize=10)
+            ax.set_ylabel(ylabel, fontsize=10)
 
-    fig.suptitle("Legal Criteria Satisfaction by Model (Absolute Numbers)",
-                 fontsize=13, fontweight="bold", y=0.98)
+    fig.suptitle(title, fontsize=13, y=0.98)
 
     # Add shared legend below title
     handles = [
@@ -189,14 +243,15 @@ def plot_comparative_criteria_satisfaction(data):
                loc="upper center", ncol=3, fontsize=10, bbox_to_anchor=(0.5, 0.92))
 
     fig.tight_layout(rect=[0, 0, 1, 0.90])
-    fig.savefig("results/comparison_criteria_satisfaction.png", dpi=150, bbox_inches='tight')
+    fig.savefig(outfile, dpi=150, bbox_inches='tight')
     plt.close(fig)
+    return outfile
 
 
-def print_criteria_comparison(data):
-    """Print comparative criteria statistics."""
+def print_criteria_comparison(data, label):
+    """Print comparative criteria statistics for one dataset."""
     print("\n" + "="*80)
-    print("CRITERIA SATISFACTION COMPARISON (Including Unable to Determine)")
+    print(f"CRITERIA SATISFACTION COMPARISON - {label.upper()} (Including Unable to Determine)")
     print("="*80 + "\n")
 
     all_criteria = set()
@@ -219,29 +274,84 @@ def print_criteria_comparison(data):
                 print(f"  {model_name:20s}: Satisfied={sat:3d} ({sat_pct:5.1%}) | Not Satisfied={not_sat:3d} | Unable={unable:3d} (total={total})")
 
 
+def label_distribution(df_verdicts):
+    """Share of satisfied / violated / undetermined labels over all verdicts."""
+    labels = df_verdicts["label"]
+    n = len(labels)
+    return {
+        "satisfied": (labels == 1).fillna(False).sum() / n,
+        "violated": (labels == 0).fillna(False).sum() / n,
+        "undetermined": labels.isna().sum() / n,
+    }
+
+
+def analyze_dataset(label, experiments, suffix):
+    """Run the full analysis for a single dataset and return its loaded data."""
+    data = load_data(experiments)
+
+    print("\n" + "="*80)
+    print(f"COMPARATIVE ANALYSIS OF EXPERIMENTS - {label.upper()}")
+    print("="*80)
+
+    for model_name, (df_results, df_traj, _) in data.items():
+        print_summary_single(model_name, df_results, df_traj)
+
+    print_summary_all(data, label)
+    print_criteria_comparison(data, label)
+
+    print(f"\nCreating comparative plots for {label.lower()}...")
+    outfiles = [
+        plot_comparative_trajectories(data, label, suffix),
+        plot_comparative_criteria_satisfaction(data, label, suffix),
+        plot_comparative_criteria_satisfaction(data, label, suffix, final_round_only=True),
+    ]
+    for outfile in outfiles:
+        print(f"  {outfile}")
+
+    return data
+
+
+def print_dataset_comparison(datasets):
+    """Compare the same models across datasets, dataset by dataset."""
+    labels = list(datasets.keys())
+    if len(labels) < 2:
+        return
+
+    print("\n" + "="*80)
+    print("CROSS-DATASET COMPARISON")
+    print("="*80)
+
+    models = list(datasets[labels[0]].keys())
+
+    rows = []
+    for model_name in models:
+        for label in labels:
+            df_results, df_traj, df_verdicts = datasets[label][model_name]
+            agreements = (df_results["termination_reason"] == "agreement").sum()
+            dist = label_distribution(df_verdicts)
+            rows.append({
+                "Model": model_name,
+                "Dataset": label,
+                "Runs": len(df_results),
+                "Agreement Rate": f"{100*agreements/len(df_results):.1f}%",
+                "Avg Rounds": f"{df_results['rounds_completed'].mean():.2f}",
+                "Avg Final Round Price": f"${mean_final_round_price(df_traj):.2f}",
+                "Satisfied": f"{dist['satisfied']:.1%}",
+                "Violated": f"{dist['violated']:.1%}",
+                "Undetermined": f"{dist['undetermined']:.1%}",
+            })
+
+    print()
+    print(pd.DataFrame(rows).to_string(index=False))
+    print()
+
+
 def main():
-    data = load_all_data()
+    datasets = {}
+    for label, (experiments, suffix) in DATASETS.items():
+        datasets[label] = analyze_dataset(label, experiments, suffix)
 
-    print("\n" + "="*80)
-    print("COMPARATIVE ANALYSIS OF EXPERIMENTS")
-    print("="*80)
-
-    for model_name, (df_results, _, _) in data.items():
-        print_summary_single(model_name, df_results)
-
-    print_summary_all(data)
-    print_criteria_comparison(data)
-
-    print("\n" + "="*80)
-    print("Creating comparative plots...")
-    print("="*80)
-
-    plot_comparative_trajectories(data)
-    plot_comparative_criteria_satisfaction(data)
-
-    print("\nComparative plots saved to:")
-    print("  results/comparison_price_trajectories.png")
-    print("  results/comparison_criteria_satisfaction.png")
+    print_dataset_comparison(datasets)
 
 
 if __name__ == "__main__":
