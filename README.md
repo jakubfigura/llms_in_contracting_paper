@@ -1,10 +1,10 @@
 # Towards the "LLM Contract"? Implications from Simulated Negotiations between Large Language Models
 
-This repository contains the support material for the paper Towards the ``LLM Contract''? Implications from Simulated Negotiations between Large Language Models.\\
+This repository contains the support material for the paper Towards the ``LLM Contract''? Implications from Simulated Negotiations between Large Language Models.<br />
 
-main_simulation.py - contains the script with main simulation and system prompts\\
-analyze_results.py - contains main data analysis script\\
-stat.ipynb - contains simple data transformation for inferential statistical analysis (conducted later in JASP)\\
+main_simulation.py - contains the script with main simulation and system prompts<br />
+analyze_results.py - contains main data analysis script<br />
+stat.ipynb - contains simple data transformation for inferential statistical analysis (conducted later in JASP)<br />
 
 ## Setup
 
