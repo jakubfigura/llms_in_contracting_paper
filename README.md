@@ -1,7 +1,10 @@
-# contracts_paper
+# Towards the ``LLM Contract''? Implications from Simulated Negotiations between Large Language Models
 
-Simulation of buyer/seller car-price negotiations between LLM agents, judged
-round-by-round against 8 legal requirements for a valid contract.
+This repository contains the support material for the paper Towards the ``LLM Contract''? Implications from Simulated Negotiations between Large Language Models.\\
+
+main_simulation.py - contains the script with main simulation and system prompts\\
+analyze_results.py - contains main data analysis script\\
+stat.ipynb - contains simple data transformation for inferential statistical analysis (conducted later in JASP)\\
 
 ## Setup
 
