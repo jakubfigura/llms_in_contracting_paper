@@ -6,6 +6,9 @@ main_simulation.py - contains the script with main simulation and system prompts
 analyze_results.py - contains main data analysis script<br />
 stat.ipynb - contains simple data transformation for inferential statistical analysis (conducted later in JASP)<br />
 
+The configuration files are available in the ‘config’ directory. <br />
+The results (full transcriptions of negotiation and data) are availavle in the ‘results’ directory.<br />
+
 ## Setup
 
 ```
@@ -14,8 +17,8 @@ source environment/bin/activate
 pip install -r requirements.txt
 ```
 
-Create a `.env` file with the API keys required by the models you use (e.g.
-`OPENAI_API_KEY`, `GEMINI_API_KEY`), consumed via `litellm`/`python-dotenv`.
+To run your own simulation, you need to create a `.env` file with the API keys required by the models we use (
+`OPENAI_API_KEY`, `GEMINI_API_KEY`,`ANTHROPIC_API_KEY` ).
 
 ## Usage
 
@@ -26,7 +29,7 @@ python main_simulation.py <path_to_config.json> <output_subdirectory>
 Example:
 
 ```
-python main_simulation.py config/gemini_small.json simulation4
+python main_simulation.py config/gemini_small.json simulation
 ```
 
 Config files (see `config/`) specify `n_runs`, `max_rounds`, and the
