@@ -1,4 +1,4 @@
-# Towards the ``LLM Contract''? Implications from Simulated Negotiations between Large Language Models
+# Towards the "LLM Contract"? Implications from Simulated Negotiations between Large Language Models
 
 This repository contains the support material for the paper Towards the ``LLM Contract''? Implications from Simulated Negotiations between Large Language Models.\\
 
