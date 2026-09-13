@@ -1,6 +1,6 @@
 # Towards the "LLM Contract"? Implications from Simulated Negotiations between Large Language Models
 
-This repository contains the support material for the paper Towards the ``LLM Contract''? Implications from Simulated Negotiations between Large Language Models.<br />
+This repository contains the support material for the paper Towards the "LLM Contract"? Implications from Simulated Negotiations between Large Language Models.<br />
 
 main_simulation.py - contains the script with main simulation and system prompts<br />
 analyze_results.py - contains main data analysis script<br />
